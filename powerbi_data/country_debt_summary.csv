@@ -1,0 +1,121 @@
+country_name,country_code,total_debt_billion,pct_of_global,debt_category,debt_rank
+China,CHN,20163.89,21.4974,High Debt,1
+Brazil,BRA,6843.99,7.2966,High Debt,2
+Mexico,MEX,6587.84,7.0235,High Debt,3
+India,IND,6246.94,6.6601,High Debt,4
+Indonesia,IDN,5288.12,5.6378,High Debt,5
+Turkiye,TUR,4376.39,4.6658,High Debt,6
+Argentina,ARG,2568.72,2.7386,High Debt,7
+Colombia,COL,2385.36,2.5431,High Debt,8
+"Egypt, Arab Rep.",EGY,2250.25,2.3991,High Debt,9
+Ukraine,UKR,2064.05,2.2006,High Debt,10
+South Africa,ZAF,2002.01,2.1344,High Debt,11
+Pakistan,PAK,1921.88,2.049,High Debt,12
+Kazakhstan,KAZ,1838.63,1.9602,High Debt,13
+Bangladesh,BGD,1613.79,1.7205,High Debt,14
+Viet Nam,VNM,1596.13,1.7017,High Debt,15
+Thailand,THA,1546.22,1.6485,High Debt,16
+Philippines,PHL,1538.96,1.6407,High Debt,17
+Nigeria,NGA,1138.6,1.2139,High Debt,18
+Angola,AGO,1122.15,1.1964,High Debt,19
+Peru,PER,980.89,1.0458,High Debt,20
+Morocco,MAR,856.76,0.9134,High Debt,21
+Uzbekistan,UZB,848.81,0.9049,High Debt,22
+Ecuador,ECU,779.57,0.8311,High Debt,23
+Sri Lanka,LKA,730.46,0.7788,High Debt,24
+Dominican Republic,DOM,698.4,0.7446,High Debt,25
+Kenya,KEN,679.89,0.7249,High Debt,26
+Serbia,SRB,617.41,0.6582,High Debt,27
+Lebanon,LBN,609.11,0.6494,High Debt,28
+Cote d'Ivoire,CIV,594.79,0.6341,High Debt,29
+Mozambique,MOZ,593.01,0.6322,High Debt,30
+Ghana,GHA,586.98,0.6258,Medium Debt,31
+Ethiopia,ETH,524.79,0.5595,Medium Debt,32
+Tanzania,TZA,511.47,0.5453,Medium Debt,33
+Senegal,SEN,492.6,0.5252,Medium Debt,34
+Belarus,BLR,480.08,0.5118,Medium Debt,35
+Tunisia,TUN,464.0,0.4947,Medium Debt,36
+Jordan,JOR,461.96,0.4925,Medium Debt,37
+Iraq,IRQ,388.01,0.4137,Medium Debt,38
+Mongolia,MNG,368.99,0.3934,Medium Debt,39
+Zambia,ZMB,346.99,0.3699,Medium Debt,40
+Paraguay,PRY,333.07,0.3551,Medium Debt,41
+Cambodia,KHM,320.77,0.342,Medium Debt,42
+Guatemala,GTM,317.37,0.3384,Medium Debt,43
+Uganda,UGA,285.01,0.3039,Medium Debt,44
+Bolivia,BOL,284.49,0.3033,Medium Debt,45
+Georgia,GEO,275.3,0.2935,Medium Debt,46
+El Salvador,SLV,275.28,0.2935,Medium Debt,47
+Cameroon,CMR,260.59,0.2778,Medium Debt,48
+Sudan,SDN,256.2,0.2731,Medium Debt,49
+Papua New Guinea,PNG,250.55,0.2671,Medium Debt,50
+Azerbaijan,AZE,230.15,0.2454,Medium Debt,51
+Lao PDR,LAO,225.92,0.2409,Medium Debt,52
+Myanmar,MMR,206.66,0.2203,Medium Debt,53
+Honduras,HND,188.53,0.201,Medium Debt,54
+Nepal,NPL,188.2,0.2006,Medium Debt,55
+Nicaragua,NIC,187.17,0.1996,Medium Debt,56
+Jamaica,JAM,173.54,0.185,Medium Debt,57
+Armenia,ARM,170.08,0.1813,Medium Debt,58
+"Congo, Dem. Rep.",COD,157.33,0.1677,Medium Debt,59
+Benin,BEN,156.29,0.1666,Medium Debt,60
+Rwanda,RWA,153.0,0.1631,Medium Debt,61
+Mauritius,MUS,147.8,0.1576,Medium Debt,62
+Burkina Faso,BFA,134.37,0.1433,Medium Debt,63
+Bosnia and Herzegovina,BIH,133.17,0.142,Medium Debt,64
+"Congo, Rep.",COG,130.3,0.1389,Medium Debt,65
+North Macedonia,MKD,126.17,0.1345,Medium Debt,66
+Zimbabwe,ZWE,125.78,0.1341,Medium Debt,67
+Niger,NER,121.31,0.1293,Medium Debt,68
+Albania,ALB,115.65,0.1233,Medium Debt,69
+Kyrgyz Republic,KGZ,113.42,0.1209,Medium Debt,70
+Mali,MLI,108.94,0.1161,Medium Debt,71
+Moldova,MDA,106.28,0.1133,Medium Debt,72
+Gabon,GAB,105.78,0.1128,Medium Debt,73
+Madagascar,MDG,105.22,0.1122,Medium Debt,74
+"Yemen, Rep.",YEM,98.97,0.1055,Medium Debt,75
+Montenegro,MNE,92.5,0.0986,Medium Debt,76
+Turkmenistan,TKM,91.47,0.0975,Medium Debt,77
+Guinea,GIN,77.24,0.0823,Medium Debt,78
+Tajikistan,TJK,74.07,0.079,Medium Debt,79
+Maldives,MDV,72.26,0.077,Medium Debt,80
+Mauritania,MRT,69.95,0.0746,Medium Debt,81
+Malawi,MWI,62.1,0.0662,Medium Debt,82
+Syrian Arab Republic,SYR,56.75,0.0605,Medium Debt,83
+Suriname,SUR,53.57,0.0571,Medium Debt,84
+Bhutan,BTN,51.4,0.0548,Medium Debt,85
+Fiji,FJI,49.35,0.0526,Medium Debt,86
+Chad,TCD,46.94,0.05,Medium Debt,87
+Togo,TGO,46.21,0.0493,Medium Debt,88
+Djibouti,DJI,40.43,0.0431,Medium Debt,89
+"Iran, Islamic Rep.",IRN,39.79,0.0424,Low Debt,90
+"Somalia, Fed. Rep.",SOM,39.23,0.0418,Low Debt,91
+Haiti,HTI,39.02,0.0416,Low Debt,92
+Guyana,GUY,37.76,0.0403,Low Debt,93
+Cabo Verde,CPV,35.21,0.0375,Low Debt,94
+Kosovo,XKX,34.88,0.0372,Low Debt,95
+Algeria,DZA,34.68,0.037,Low Debt,96
+Afghanistan,AFG,33.38,0.0356,Low Debt,97
+Botswana,BWA,32.24,0.0344,Low Debt,98
+Liberia,LBR,30.23,0.0322,Low Debt,99
+Sierra Leone,SLE,27.85,0.0297,Low Debt,100
+Lesotho,LSO,23.23,0.0248,Low Debt,101
+Equatorial Guinea,GNQ,23.23,0.0248,Low Debt,102
+Belize,BLZ,22.22,0.0237,Low Debt,103
+Eswatini,SWZ,21.58,0.023,Low Debt,104
+Guinea-Bissau,GNB,19.6,0.0209,Low Debt,105
+"Gambia, The",GMB,18.77,0.02,Low Debt,106
+Grenada,GRD,14.32,0.0153,Low Debt,107
+St. Lucia,LCA,13.56,0.0145,Low Debt,108
+St. Vincent and the Grenadines,VCT,12.2,0.013,Low Debt,109
+Eritrea,ERI,11.6,0.0124,Low Debt,110
+Burundi,BDI,11.35,0.0121,Low Debt,111
+Central African Republic,CAF,9.52,0.0101,Low Debt,112
+Dominica,DMA,8.54,0.0091,Low Debt,113
+Vanuatu,VUT,7.69,0.0082,Low Debt,114
+Timor-Leste,TLS,7.06,0.0075,Low Debt,115
+Comoros,COM,6.92,0.0074,Low Debt,116
+Samoa,WSM,6.26,0.0067,Low Debt,117
+Solomon Islands,SLB,6.19,0.0066,Low Debt,118
+Sao Tome and Principe,STP,4.06,0.0043,Low Debt,119
+Tonga,TON,2.75,0.0029,Low Debt,120

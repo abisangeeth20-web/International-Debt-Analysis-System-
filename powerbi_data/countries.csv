@@ -1,0 +1,121 @@
+country_id,country_name,country_code
+1,Afghanistan,AFG
+2,Albania,ALB
+3,Algeria,DZA
+4,Angola,AGO
+5,Argentina,ARG
+6,Armenia,ARM
+7,Azerbaijan,AZE
+8,Bangladesh,BGD
+9,Belarus,BLR
+10,Belize,BLZ
+11,Benin,BEN
+12,Bhutan,BTN
+13,Bolivia,BOL
+14,Bosnia and Herzegovina,BIH
+15,Botswana,BWA
+16,Brazil,BRA
+17,Burkina Faso,BFA
+18,Burundi,BDI
+19,Cabo Verde,CPV
+20,Cambodia,KHM
+21,Cameroon,CMR
+22,Central African Republic,CAF
+23,Chad,TCD
+24,China,CHN
+25,Colombia,COL
+26,Comoros,COM
+27,"Congo, Dem. Rep.",COD
+28,"Congo, Rep.",COG
+29,Cote d'Ivoire,CIV
+30,Djibouti,DJI
+31,Dominica,DMA
+32,Dominican Republic,DOM
+33,Ecuador,ECU
+34,"Egypt, Arab Rep.",EGY
+35,El Salvador,SLV
+36,Equatorial Guinea,GNQ
+37,Eritrea,ERI
+38,Eswatini,SWZ
+39,Ethiopia,ETH
+40,Fiji,FJI
+41,Gabon,GAB
+42,"Gambia, The",GMB
+43,Georgia,GEO
+44,Ghana,GHA
+45,Grenada,GRD
+46,Guatemala,GTM
+47,Guinea,GIN
+48,Guinea-Bissau,GNB
+49,Guyana,GUY
+50,Haiti,HTI
+51,Honduras,HND
+52,India,IND
+53,Indonesia,IDN
+54,"Iran, Islamic Rep.",IRN
+55,Iraq,IRQ
+56,Jamaica,JAM
+57,Jordan,JOR
+58,Kazakhstan,KAZ
+59,Kenya,KEN
+60,Kosovo,XKX
+61,Kyrgyz Republic,KGZ
+62,Lao PDR,LAO
+63,Lebanon,LBN
+64,Lesotho,LSO
+65,Liberia,LBR
+66,Madagascar,MDG
+67,Malawi,MWI
+68,Maldives,MDV
+69,Mali,MLI
+70,Mauritania,MRT
+71,Mauritius,MUS
+72,Mexico,MEX
+73,Moldova,MDA
+74,Mongolia,MNG
+75,Montenegro,MNE
+76,Morocco,MAR
+77,Mozambique,MOZ
+78,Myanmar,MMR
+79,Nepal,NPL
+80,Nicaragua,NIC
+81,Niger,NER
+82,Nigeria,NGA
+83,North Macedonia,MKD
+84,Pakistan,PAK
+85,Papua New Guinea,PNG
+86,Paraguay,PRY
+87,Peru,PER
+88,Philippines,PHL
+89,Rwanda,RWA
+90,Samoa,WSM
+91,Sao Tome and Principe,STP
+92,Senegal,SEN
+93,Serbia,SRB
+94,Sierra Leone,SLE
+95,Solomon Islands,SLB
+96,"Somalia, Fed. Rep.",SOM
+97,South Africa,ZAF
+98,Sri Lanka,LKA
+99,St. Lucia,LCA
+100,St. Vincent and the Grenadines,VCT
+101,Sudan,SDN
+102,Suriname,SUR
+103,Syrian Arab Republic,SYR
+104,Tajikistan,TJK
+105,Tanzania,TZA
+106,Thailand,THA
+107,Timor-Leste,TLS
+108,Togo,TGO
+109,Tonga,TON
+110,Tunisia,TUN
+111,Turkiye,TUR
+112,Turkmenistan,TKM
+113,Uganda,UGA
+114,Ukraine,UKR
+115,Uzbekistan,UZB
+116,Vanuatu,VUT
+117,Viet Nam,VNM
+118,"Yemen, Rep.",YEM
+119,Zambia,ZMB
+120,Zimbabwe,ZWE

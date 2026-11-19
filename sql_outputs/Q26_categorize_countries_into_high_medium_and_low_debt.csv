@@ -1,0 +1,121 @@
+country_name,total_debt_billion,debt_category
+China,20163.8935,High Debt
+Brazil,6843.9875,High Debt
+Mexico,6587.839,High Debt
+India,6246.9379,High Debt
+Indonesia,5288.1188,High Debt
+Turkiye,4376.3855,High Debt
+Argentina,2568.7162,High Debt
+Colombia,2385.3632,High Debt
+"Egypt, Arab Rep.",2250.2459,High Debt
+Ukraine,2064.0459,High Debt
+South Africa,2002.0131,High Debt
+Pakistan,1921.8769,High Debt
+Kazakhstan,1838.6339,High Debt
+Bangladesh,1613.7938,High Debt
+Viet Nam,1596.1303,High Debt
+Thailand,1546.2172,High Debt
+Philippines,1538.961,High Debt
+Nigeria,1138.6025,High Debt
+Angola,1122.1509,High Debt
+Peru,980.8915,High Debt
+Morocco,856.7588,High Debt
+Uzbekistan,848.8077,High Debt
+Ecuador,779.5729,High Debt
+Sri Lanka,730.4585,High Debt
+Dominican Republic,698.3966,High Debt
+Kenya,679.8918,High Debt
+Serbia,617.4113,High Debt
+Lebanon,609.1132,High Debt
+Cote d'Ivoire,594.7929,High Debt
+Mozambique,593.0131,High Debt
+Ghana,586.9828,Medium Debt
+Ethiopia,524.7879,Medium Debt
+Tanzania,511.4732,Medium Debt
+Senegal,492.596,Medium Debt
+Belarus,480.0756,Medium Debt
+Tunisia,463.999,Medium Debt
+Jordan,461.963,Medium Debt
+Iraq,388.0146,Medium Debt
+Mongolia,368.993,Medium Debt
+Zambia,346.9918,Medium Debt
+Paraguay,333.0708,Medium Debt
+Cambodia,320.7731,Medium Debt
+Guatemala,317.3721,Medium Debt
+Uganda,285.0127,Medium Debt
+Bolivia,284.4945,Medium Debt
+Georgia,275.3015,Medium Debt
+El Salvador,275.276,Medium Debt
+Cameroon,260.59,Medium Debt
+Sudan,256.2021,Medium Debt
+Papua New Guinea,250.5534,Medium Debt
+Azerbaijan,230.1484,Medium Debt
+Lao PDR,225.9163,Medium Debt
+Myanmar,206.6559,Medium Debt
+Honduras,188.5265,Medium Debt
+Nepal,188.1981,Medium Debt
+Nicaragua,187.1733,Medium Debt
+Jamaica,173.5408,Medium Debt
+Armenia,170.0772,Medium Debt
+"Congo, Dem. Rep.",157.3269,Medium Debt
+Benin,156.2861,Medium Debt
+Rwanda,153.0017,Medium Debt
+Mauritius,147.8006,Medium Debt
+Burkina Faso,134.3693,Medium Debt
+Bosnia and Herzegovina,133.174,Medium Debt
+"Congo, Rep.",130.3021,Medium Debt
+North Macedonia,126.1714,Medium Debt
+Zimbabwe,125.7826,Medium Debt
+Niger,121.3133,Medium Debt
+Albania,115.6528,Medium Debt
+Kyrgyz Republic,113.4232,Medium Debt
+Mali,108.9387,Medium Debt
+Moldova,106.2814,Medium Debt
+Gabon,105.7834,Medium Debt
+Madagascar,105.2153,Medium Debt
+"Yemen, Rep.",98.9725,Medium Debt
+Montenegro,92.503,Medium Debt
+Turkmenistan,91.4713,Medium Debt
+Guinea,77.2397,Medium Debt
+Tajikistan,74.0654,Medium Debt
+Maldives,72.2594,Medium Debt
+Mauritania,69.9491,Medium Debt
+Malawi,62.1001,Medium Debt
+Syrian Arab Republic,56.7495,Medium Debt
+Suriname,53.5654,Medium Debt
+Bhutan,51.4049,Medium Debt
+Fiji,49.3528,Medium Debt
+Chad,46.9352,Medium Debt
+Togo,46.2075,Medium Debt
+Djibouti,40.4344,Medium Debt
+"Iran, Islamic Rep.",39.791,Low Debt
+"Somalia, Fed. Rep.",39.2333,Low Debt
+Haiti,39.0184,Low Debt
+Guyana,37.756,Low Debt
+Cabo Verde,35.2069,Low Debt
+Kosovo,34.8833,Low Debt
+Algeria,34.6773,Low Debt
+Afghanistan,33.3778,Low Debt
+Botswana,32.2407,Low Debt
+Liberia,30.2318,Low Debt
+Sierra Leone,27.8503,Low Debt
+Lesotho,23.234,Low Debt
+Equatorial Guinea,23.2282,Low Debt
+Belize,22.2212,Low Debt
+Eswatini,21.584,Low Debt
+Guinea-Bissau,19.5997,Low Debt
+"Gambia, The",18.7672,Low Debt
+Grenada,14.323,Low Debt
+St. Lucia,13.5621,Low Debt
+St. Vincent and the Grenadines,12.2029,Low Debt
+Eritrea,11.5994,Low Debt
+Burundi,11.3488,Low Debt
+Central African Republic,9.5189,Low Debt
+Dominica,8.544,Low Debt
+Vanuatu,7.6886,Low Debt
+Timor-Leste,7.0592,Low Debt
+Comoros,6.9245,Low Debt
+Samoa,6.2574,Low Debt
+Solomon Islands,6.1925,Low Debt
+Sao Tome and Principe,4.0593,Low Debt
+Tonga,2.7467,Low Debt

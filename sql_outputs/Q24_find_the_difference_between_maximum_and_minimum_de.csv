@@ -1,0 +1,121 @@
+country_name,max_debt_billion,min_debt_billion,debt_range_billion
+China,2530.0,2e-06,2530.0
+India,616.0,0.0,616.0
+Mexico,586.0,5e-06,586.0
+Brazil,579.0,3e-06,579.0
+Turkiye,456.0,2e-06,456.0
+Indonesia,396.0,1e-06,396.0
+Argentina,249.0,5e-06,249.0
+Thailand,201.0,3e-06,201.0
+Colombia,184.0,4e-06,184.0
+South Africa,172.0,3e-06,172.0
+Kazakhstan,170.0,8e-06,170.0
+"Egypt, Arab Rep.",163.0,1e-06,163.0
+Viet Nam,147.0,1e-06,147.0
+Ukraine,143.0,3e-06,143.0
+Pakistan,128.0,1e-06,128.0
+Philippines,111.0,1e-06,111.0
+Nigeria,103.0,0.0,103.0
+Bangladesh,96.9444,1e-06,96.9444
+Peru,91.6893,3e-06,91.6893
+Lebanon,67.1009,1.2e-05,67.1009
+Mozambique,66.2897,2e-06,66.2897
+Morocco,64.9718,2e-06,64.9718
+Ecuador,60.6829,1e-06,60.6829
+Angola,60.4457,2e-06,60.4457
+Sri Lanka,58.7188,3e-06,58.7187
+Uzbekistan,53.5928,2e-06,53.5928
+Dominican Republic,48.2895,1e-06,48.2895
+Serbia,44.8503,4e-06,44.8503
+Ghana,43.607,1e-06,43.607
+Kenya,41.5563,1e-06,41.5563
+Jordan,41.1702,0.0,41.1702
+Tunisia,41.0412,2e-06,41.0412
+Belarus,39.8589,4e-06,39.8589
+Senegal,35.5813,2e-06,35.5813
+Mongolia,33.7012,1e-05,33.7012
+Cote d'Ivoire,31.6235,1e-06,31.6235
+Ethiopia,30.6208,0.0,30.6208
+Tanzania,30.4436,0.0,30.4436
+Zambia,28.4234,1e-06,28.4234
+Guatemala,25.2695,0.0,25.2695
+Paraguay,25.2398,4e-06,25.2398
+Georgia,23.3195,6e-06,23.3195
+Iraq,22.7227,1e-06,22.7227
+Cambodia,22.4738,1e-06,22.4737
+Sudan,22.4402,0.0,22.4402
+El Salvador,21.1883,3e-06,21.1883
+Uganda,21.0411,0.0,21.0411
+Papua New Guinea,19.6066,2e-06,19.6066
+Lao PDR,18.4947,2e-06,18.4947
+Mauritius,17.6528,5e-06,17.6528
+Armenia,15.9312,5e-06,15.9311
+Bolivia,15.9303,0.0,15.9303
+Jamaica,15.8121,6e-06,15.8121
+Azerbaijan,15.4575,2e-06,15.4575
+Nicaragua,15.1314,2e-06,15.1314
+Cameroon,15.1227,1e-06,15.1227
+Zimbabwe,14.1208,1e-06,14.1208
+Bosnia and Herzegovina,13.44,4e-06,13.44
+Honduras,12.6386,1e-06,12.6386
+Myanmar,12.5354,0.0,12.5354
+North Macedonia,11.6397,1e-06,11.6397
+Benin,10.9273,1e-06,10.9273
+"Congo, Dem. Rep.",10.6834,0.0,10.6834
+Albania,10.4201,4e-06,10.4201
+Burkina Faso,9.9059,0.0,9.9059
+Moldova,9.752,4e-06,9.752
+Kyrgyz Republic,9.7458,1e-06,9.7458
+Rwanda,9.6901,1e-06,9.6901
+"Iran, Islamic Rep.",9.46,0.0,9.46
+Nepal,9.1838,0.0,9.1838
+Montenegro,8.8064,1.4e-05,8.8064
+Gabon,7.9905,3e-06,7.9905
+"Yemen, Rep.",7.3511,0.0,7.3511
+"Congo, Rep.",7.33,1e-06,7.33
+Algeria,7.1293,0.0,7.1293
+Tajikistan,6.7235,1e-06,6.7235
+Mali,6.2338,0.0,6.2338
+Madagascar,5.9354,0.0,5.9354
+Niger,5.4287,0.0,5.4287
+Guinea,4.9037,0.0,4.9037
+Syrian Arab Republic,4.862,0.0,4.862
+Turkmenistan,4.6454,1e-06,4.6454
+Mauritania,4.5593,1e-06,4.5593
+Suriname,4.1941,7e-06,4.1941
+"Somalia, Fed. Rep.",4.0953,0.0,4.0953
+Maldives,3.9928,8e-06,3.9928
+Kosovo,3.6604,2e-06,3.6604
+Afghanistan,3.3932,0.0,3.3932
+Malawi,3.3401,0.0,3.3401
+Togo,3.2817,0.0,3.2817
+Chad,3.2697,0.0,3.2697
+Djibouti,3.1701,3e-06,3.1701
+Bhutan,3.1602,4e-06,3.1602
+Fiji,2.988,0.0,2.988
+Haiti,2.9653,0.0,2.9653
+Cabo Verde,2.4026,5e-06,2.4026
+Sierra Leone,2.4014,0.0,2.4014
+Guyana,2.0701,0.0,2.0701
+Botswana,2.0027,1e-06,2.0027
+Liberia,1.9219,0.0,1.9219
+Lesotho,1.8094,1e-06,1.8094
+Equatorial Guinea,1.4839,1e-06,1.4839
+Belize,1.4712,1e-06,1.4712
+Guinea-Bissau,1.2507,1e-06,1.2507
+Eswatini,1.248,1e-06,1.248
+"Gambia, The",1.1796,0.0,1.1796
+Central African Republic,1.0455,0.0,1.0455
+Burundi,0.9469,0.0,0.9469
+St. Lucia,0.9093,0.0,0.9093
+Grenada,0.8537,7e-06,0.8537
+Eritrea,0.7271,0.0,0.7271
+Timor-Leste,0.7118,0.0,0.7118
+St. Vincent and the Grenadines,0.6245,6e-06,0.6245
+Dominica,0.5992,1e-06,0.5992
+Solomon Islands,0.4774,1e-06,0.4774
+Samoa,0.4707,2e-06,0.4707
+Vanuatu,0.4634,1e-06,0.4634
+Comoros,0.3621,0.0,0.3621
+Sao Tome and Principe,0.2869,1e-06,0.2869
+Tonga,0.2099,2e-06,0.2099

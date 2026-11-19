@@ -1,0 +1,13 @@
+indicator_group,indicators,records,total_debt_billion,pct_of_global
+Debt Stocks,67,5433,65936.1941,70.2969
+Debt Service,57,4228,7601.3292,8.104
+Disbursements,56,3168,6535.2534,6.9675
+Principal Repayments,56,3942,5932.895,6.3253
+Net Flows,61,2398,2048.7492,2.1842
+Interest Payments,61,4639,1898.1283,2.0237
+Undisbursed Debt,3,305,1309.2948,1.3959
+Net Transfers,54,1789,1207.2138,1.2871
+Commitments,7,533,1041.8602,1.1108
+Arrears,6,353,244.8019,0.261
+Debt Rescheduling,8,120,26.6699,0.0284
+Debt Relief,5,58,14.3527,0.0153

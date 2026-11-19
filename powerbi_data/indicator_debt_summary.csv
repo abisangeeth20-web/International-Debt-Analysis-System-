@@ -1,0 +1,442 @@
+indicator_name,indicator_code,total_debt_billion,pct_of_global
+"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,8683.1,9.2574
+"External debt stocks, long-term (DOD, current US$)",DT.DOD.DLXF.CD,6046.76,6.4467
+"External debt stocks, variable rate (DOD, current US$)",DT.DOD.VTOT.CD,3674.69,3.9177
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,3382.14,3.6058
+"External debt stocks, long-term public sector (DOD, current US$)",DT.DOD.PUBS.CD,3364.17,3.5867
+"External debt stocks, public sector (PPG) (DOD, current US$)",DT.DOD.DEPS.CD,3362.73,3.5851
+"External debt stocks, long-term private sector (DOD, current US$)",DT.DOD.PRVS.CD,2677.85,2.8549
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,2659.88,2.8358
+"External debt stocks, general government sector (PPG) (DOD, current US$)",DT.DOD.DEGG.CD,2522.16,2.689
+"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,2263.02,2.4127
+"PNG, commercial banks and other creditors (DOD, current US$)",DT.DOD.PNGC.CD,2065.69,2.2023
+"PPG, private creditors (DOD, current US$)",DT.DOD.PRVT.CD,2047.07,2.1825
+"PS, private creditors (DOD, current US$)",DT.DOD.PRVT.PS.CD,2029.03,2.1632
+"PPG, bonds (DOD, current US$)",DT.DOD.PBND.CD,1642.89,1.7515
+"PS, bonds (DOD, current US$)",DT.DOD.PBND.PS.CD,1625.89,1.7334
+"GG, private creditors (DOD, current US$)",DT.DOD.PRVT.GG.CD,1347.22,1.4363
+"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,1335.97,1.4243
+"PS, official creditors (DOD, current US$)",DT.DOD.OFFT.PS.CD,1334.74,1.423
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,1267.53,1.3514
+"GG, bonds (DOD, current US$)",DT.DOD.PBND.GG.CD,1255.82,1.3389
+"GG, official creditors (DOD, current US$)",DT.DOD.OFFT.GG.CD,1175.58,1.2533
+"Debt service on external debt, long-term (TDS, current US$)",DT.TDS.DLXF.CD,1147.36,1.2232
+"External debt stocks, variable rate public and publicly guaranteed debt (PPG) (DOD, current US$)",DT.DOD.VPPG.CD,1015.28,1.0824
+"Disbursements on external debt, long-term + IMF (DIS, current US$)",DT.DIS.DLTF.CD,995.31,1.0611
+"Principal repayments on external debt, long-term + IMF (AMT, current US$)",DT.AMT.DLTF.CD,971.23,1.0355
+"Disbursements on external debt, long-term (DIS, current US$)",DT.DIS.DLXF.CD,959.35,1.0228
+"Principal repayments on external debt, long-term (AMT, current US$)",DT.AMT.DLXF.CD,948.43,1.0112
+"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,854.93,0.9115
+"PS, multilateral (DOD, current US$)",DT.DOD.MLAT.PS.CD,853.89,0.9104
+"GG, multilateral (DOD, current US$)",DT.DOD.MLAT.GG.CD,796.8,0.8495
+"External debt stocks, other public sector (PPG) (DOD, current US$)",DT.DOD.DOPS.CD,795.0,0.8476
+"Debt service on external debt, private nonguaranteed (PNG) (TDS, current US$)",DT.TDS.DPNG.CD,746.45,0.7958
+"OPS, private creditors (DOD, current US$)",DT.DOD.PRVT.OPS.CD,676.76,0.7215
+"Principal repayments on external debt, private nonguaranteed (PNG) (AMT, current US$)",DT.AMT.DPNG.CD,655.93,0.6993
+"Undisbursed external debt, total (UND, current US$)",DT.UND.DPPG.CD,654.65,0.6979
+"Disbursements on external debt, private nonguaranteed (PNG) (DIS, current US$)",DT.DIS.DPNG.CD,603.33,0.6432
+"PNG, bonds (DOD, current US$)",DT.DOD.PNGB.CD,594.17,0.6335
+"PNG, commercial banks and other creditors (TDS, current US$)",DT.TDS.PNGC.CD,593.38,0.6326
+"PNG, commercial banks and other creditors (DIS, current US$)",DT.DIS.PNGC.CD,541.24,0.577
+"PNG, commercial banks and other creditors (AMT, current US$)",DT.AMT.PNGC.CD,538.43,0.574
+"Undisbursed external debt, official creditors (UND, current US$)",DT.UND.OFFT.CD,537.34,0.5729
+"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,480.89,0.5127
+"PS, bilateral (DOD, current US$)",DT.DOD.BLAT.PS.CD,480.7,0.5125
+"Commitments, public and publicly guaranteed (COM, current US$)",DT.COM.DPPG.CD,412.79,0.4401
+"Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)",DT.TDS.DPPG.CD,401.08,0.4276
+"Debt service on external debt, public sector (PPG) (TDS, current US$)",DT.TDS.DEPS.CD,400.14,0.4266
+"Use of IMF credit and SDR allocations (DOD, current US$)",DT.DOD.DIMF.CD,380.86,0.406
+"GG, bilateral (DOD, current US$)",DT.DOD.BLAT.GG.CD,378.77,0.4038
+"OPS, bonds (DOD, current US$)",DT.DOD.PBND.OPS.CD,371.39,0.3959
+"External debt stocks, concessional (DOD, current US$)",DT.DOD.ALLC.CD,367.25,0.3915
+"Disbursements on external debt, public and publicly guaranteed (PPG) (DIS, current US$)",DT.DIS.DPPG.CD,355.36,0.3789
+"Disbursements on external debt, public sector (PPG) (DIS, current US$)",DT.DIS.DEPS.CD,354.99,0.3785
+"PPG, commercial banks (DOD, current US$)",DT.DOD.PCBK.CD,314.38,0.3352
+"PS, commercial banks (DOD, current US$)",DT.DOD.PCBK.PS.CD,313.02,0.3337
+"Interest payments on external debt, total (INT, current US$)",DT.INT.DECT.CD,295.88,0.3154
+"PPG, private creditors (TDS, current US$)",DT.TDS.PRVT.CD,293.21,0.3126
+"Principal repayments on external debt, public and publicly guaranteed (PPG) (AMT, current US$)",DT.AMT.DPPG.CD,292.78,0.3121
+"PS, private creditors (TDS, current US$)",DT.TDS.PRVT.PS.CD,292.47,0.3118
+"Principal repayments on external debt, public sector (PPG) (AMT, current US$)",DT.AMT.DEPS.CD,292.4,0.3117
+"Debt service on external debt, general government sector (PPG) (TDS, current US$)",DT.TDS.DEGG.CD,261.82,0.2791
+"Commitments, private creditors (COM, current US$)",DT.COM.PRVT.CD,250.2,0.2667
+"IMF SDR allocations (DOD, current US$)",DT.DOD.DSDR.CD,233.83,0.2493
+"Disbursements on external debt, general government sector (PPG) (DIS, current US$)",DT.DIS.DEGG.CD,227.76,0.2428
+"OPS, commercial banks (DOD, current US$)",DT.DOD.PCBK.OPS.CD,226.36,0.2413
+"Net flows on external debt, total (NFL, current US$)",DT.NFL.DECT.CD,226.01,0.241
+"PPG, IBRD (DOD, current US$)",DT.DOD.MIBR.CD,221.46,0.2361
+"PPG, bonds (TDS, current US$)",DT.TDS.PBND.CD,218.99,0.2335
+"PS, bonds (TDS, current US$)",DT.TDS.PBND.PS.CD,218.52,0.233
+"PPG, multilateral concessional (DOD, current US$)",DT.DOD.MLTC.CD,213.38,0.2275
+"PS, multilateral concessional (DOD, current US$)",DT.DOD.MLTC.PS.CD,213.25,0.2274
+"PPG, private creditors (AMT, current US$)",DT.AMT.PRVT.CD,208.66,0.2225
+"GG, multilateral concessional (DOD, current US$)",DT.DOD.MLTC.GG.CD,208.54,0.2223
+"PS, private creditors (AMT, current US$)",DT.AMT.PRVT.PS.CD,208.46,0.2222
+"Interest payments on external debt, long-term (INT, current US$)",DT.INT.DLXF.CD,199.01,0.2122
+"PPG, private creditors (DIS, current US$)",DT.DIS.PRVT.CD,190.15,0.2027
+"PS, private creditors (DIS, current US$)",DT.DIS.PRVT.PS.CD,189.87,0.2024
+"Principal repayments on external debt, general government sector (PPG) (AMT, current US$)",DT.AMT.DEGG.CD,186.06,0.1984
+"PPG, IDA (DOD, current US$)",DT.DOD.MIDA.CD,183.67,0.1958
+"GG, private creditors (TDS, current US$)",DT.TDS.PRVT.GG.CD,177.05,0.1888
+"PPG, official creditors (DIS, current US$)",DT.DIS.OFFT.CD,165.21,0.1761
+"PS, official creditors (DIS, current US$)",DT.DIS.OFFT.PS.CD,165.12,0.176
+"Commitments, official creditors (COM, current US$)",DT.COM.OFFT.CD,162.59,0.1733
+"GG, bonds (TDS, current US$)",DT.TDS.PBND.GG.CD,160.12,0.1707
+"PPG, bilateral concessional (DOD, current US$)",DT.DOD.BLTC.CD,153.87,0.164
+"PS, bilateral concessional (DOD, current US$)",DT.DOD.BLTC.PS.CD,153.87,0.164
+"PNG, bonds (TDS, current US$)",DT.TDS.PNGB.CD,153.2,0.1633
+"GG, official creditors (DIS, current US$)",DT.DIS.OFFT.GG.CD,149.89,0.1598
+"PS, bonds (AMT, current US$)",DT.AMT.PBND.PS.CD,148.35,0.1582
+"PPG, bonds (AMT, current US$)",DT.AMT.PBND.CD,148.35,0.1582
+"Use of IMF credit (DOD, current US$)",DT.DOD.DIMF.US.CD,147.02,0.1567
+"GG, bilateral concessional (DOD, current US$)",DT.DOD.BLTC.GG.CD,137.16,0.1462
+"Debt service on external debt, other public sector (PPG) (TDS, current US$)",DT.TDS.DOPS.CD,132.51,0.1413
+"Net flows on external debt, long-term (NFL, current US$)",DT.NFL.DLXF.CD,131.33,0.14
+"Net flows on external debt, short-term (NFL, current US$)",DT.NFL.DSTC.CD,122.32,0.1304
+"Disbursements on external debt, other public sector (PPG) (DIS, current US$)",DT.DIS.DOPS.CD,121.55,0.1296
+"GG, private creditors (AMT, current US$)",DT.AMT.PRVT.GG.CD,120.69,0.1287
+"Commitments, multilateral creditors (COM, current US$)",DT.COM.MLAT.CD,119.99,0.1279
+"OPS, official creditors (DOD, current US$)",DT.DOD.OFFT.OPS.CD,118.77,0.1266
+"Undisbursed external debt, private creditors (UND, current US$)",DT.UND.PRVT.CD,117.31,0.1251
+"PNG, bonds (AMT, current US$)",DT.AMT.PNGB.CD,116.79,0.1245
+"OPS, private creditors (TDS, current US$)",DT.TDS.PRVT.OPS.CD,112.72,0.1202
+"Interest payments on variable rate external debt, long-term (INT, current US$)",DT.INT.VTOT.CD,112.03,0.1194
+"PPG, multilateral (DIS, current US$)",DT.DIS.MLAT.CD,111.89,0.1193
+"PS, multilateral (DIS, current US$)",DT.DIS.MLAT.PS.CD,111.87,0.1193
+"PPG, bonds (DIS, current US$)",DT.DIS.PBND.CD,110.22,0.1175
+"PS, bonds (DIS, current US$)",DT.DIS.PBND.PS.CD,110.22,0.1175
+"OPS, private creditors (DIS, current US$)",DT.DIS.PRVT.OPS.CD,109.26,0.1165
+"Interest payments on external debt, public and publicly guaranteed (PPG) (INT, current US$)",DT.INT.DPPG.CD,108.31,0.1155
+"PPG, official creditors (TDS, current US$)",DT.TDS.OFFT.CD,107.87,0.115
+"Interest payments on external debt, public sector (PPG) (INT, current US$)",DT.INT.DEPS.CD,107.74,0.1149
+"PS, official creditors (TDS, current US$)",DT.TDS.OFFT.PS.CD,107.67,0.1148
+"Net flows on external debt, general government sector (PPG) (NFL, current US$)",DT.NFL.DEGG.CD,107.19,0.1143
+"Net flows on external debt, public and publicly guaranteed (PPG) (NFL, current US$)",DT.NFL.DPPG.CD,106.93,0.114
+"Net flows on external debt, public sector (PPG) (NFL, current US$)",DT.NFL.DEPS.CD,106.87,0.1139
+"GG, bonds (AMT, current US$)",DT.AMT.PBND.GG.CD,106.7,0.1138
+"GG, multilateral (DIS, current US$)",DT.DIS.MLAT.GG.CD,103.94,0.1108
+"Net transfers on external debt, total (NTR, current US$)",DT.NTR.DECT.CD,103.65,0.1105
+"Principal repayments on external debt, other public sector (PPG) (AMT, current US$)",DT.AMT.DOPS.CD,101.98,0.1087
+"Interest payments on external debt, private nonguaranteed (PNG) (INT, current US$)",DT.INT.DPNG.CD,90.71,0.0967
+"PPG, other private creditors (DOD, current US$)",DT.DOD.PROP.CD,90.68,0.0967
+"PS, other private creditors (DOD, current US$)",DT.DOD.PROP.PS.CD,90.68,0.0967
+"Interest payments on external debt, short-term (INT, current US$)",DT.INT.DSTC.CD,90.16,0.0961
+"GG, official creditors (NFL, current US$)",DT.NFL.OFFT.GG.CD,88.24,0.0941
+"PS, official creditors (NFL, current US$)",DT.NFL.OFFT.PS.CD,88.08,0.0939
+"PPG, official creditors (NFL, current US$)",DT.NFL.OFFT.CD,88.0,0.0938
+"OPS, private creditors (AMT, current US$)",DT.AMT.PRVT.OPS.CD,85.39,0.091
+"GG, official creditors (TDS, current US$)",DT.TDS.OFFT.GG.CD,84.77,0.0904
+"PPG, private creditors (INT, current US$)",DT.INT.PRVT.CD,84.55,0.0901
+"PPG, official creditors (AMT, current US$)",DT.AMT.OFFT.CD,84.12,0.0897
+"PS, private creditors (INT, current US$)",DT.INT.PRVT.PS.CD,84.02,0.0896
+"PS, official creditors (AMT, current US$)",DT.AMT.OFFT.PS.CD,83.94,0.0895
+"Principal arrears, long-term DOD",DT.AXA.DLXF.CD,83.34,0.0889
+"GG, commercial banks (DOD, current US$)",DT.DOD.PCBK.GG.CD,80.85,0.0862
+"OPS, other private creditors (DOD, current US$)",DT.DOD.PROP.OPS.CD,79.32,0.0846
+"GG, private creditors (DIS, current US$)",DT.DIS.PRVT.GG.CD,77.87,0.083
+"PNG, commercial banks and other creditors (NFL, current US$)",DT.NFL.PNGC.CD,77.01,0.0821
+"Interest payments on external debt, general government sector (PPG) (INT, current US$)",DT.INT.DEGG.CD,75.76,0.0808
+"OPS, bilateral (DOD, current US$)",DT.DOD.BLAT.OPS.CD,72.98,0.0778
+"Net transfers on external debt, long-term (NTR, current US$)",DT.NTR.DLXF.CD,72.69,0.0775
+"GG, official creditors (NTR, current US$)",DT.NTR.OFFT.GG.CD,71.97,0.0767
+"PPG, bonds (INT, current US$)",DT.INT.PBND.CD,70.64,0.0753
+"PS, bonds (INT, current US$)",DT.INT.PBND.PS.CD,70.17,0.0748
+"PS, official creditors (NTR, current US$)",DT.NTR.OFFT.PS.CD,70.05,0.0747
+"PPG, official creditors (NTR, current US$)",DT.NTR.OFFT.CD,69.98,0.0746
+"Net transfers on external debt, general government sector (PPG) (NTR, current US$)",DT.NTR.DEGG.CD,68.63,0.0732
+"Net flows on external debt, private nonguaranteed (PNG) (NFL, current US$)",DT.NFL.DPNG.CD,68.34,0.0729
+"GG, multilateral (NFL, current US$)",DT.NFL.MLAT.GG.CD,68.24,0.0728
+"PS, multilateral (NFL, current US$)",DT.NFL.MLAT.PS.CD,68.03,0.0725
+"Net financial flows, multilateral (NFL, current US$)",DT.NFL.MLAT.CD,67.9,0.0724
+"GG, official creditors (AMT, current US$)",DT.AMT.OFFT.GG.CD,65.37,0.0697
+"PNG, bonds (DIS, current US$)",DT.DIS.PNGB.CD,61.76,0.0658
+"GG, bonds (DIS, current US$)",DT.DIS.PBND.GG.CD,60.85,0.0649
+"Multilateral debt service (TDS, current US$)",DT.TDS.MLAT.CD,60.25,0.0642
+"PS, multilateral (TDS, current US$)",DT.TDS.MLAT.PS.CD,60.07,0.064
+"PPG, commercial banks (DIS, current US$)",DT.DIS.PCBK.CD,59.47,0.0634
+"Principal arrears, private creditors (current US$)",DT.AXA.PRVT.CD,59.43,0.0634
+"PS, commercial banks (DIS, current US$)",DT.DIS.PCBK.PS.CD,59.19,0.0631
+"OPS, bonds (TDS, current US$)",DT.TDS.PBND.OPS.CD,58.01,0.0618
+"Net transfers on external debt, public sector (PPG) (NTR, current US$)",DT.NTR.DEPS.CD,57.16,0.0609
+"Net transfers on external debt, public and publicly guaranteed (PPG) (NTR, current US$)",DT.NTR.DPPG.CD,57.15,0.0609
+"GG, multilateral (NTR, current US$)",DT.NTR.MLAT.GG.CD,57.06,0.0608
+"PS, multilateral (NTR, current US$)",DT.NTR.MLAT.PS.CD,56.83,0.0606
+"PPG, multilateral (NTR, current US$)",DT.NTR.MLAT.CD,56.81,0.0606
+"GG, private creditors (INT, current US$)",DT.INT.PRVT.GG.CD,56.36,0.0601
+"PNG, commercial banks and other creditors (INT, current US$)",DT.INT.PNGC.CD,54.3,0.0579
+"PNG, commercial banks and other creditors (NTR, current US$)",DT.NTR.PNGC.CD,54.07,0.0576
+"GG, bonds (INT, current US$)",DT.INT.PBND.GG.CD,53.42,0.0569
+"PPG, bilateral (DIS, current US$)",DT.DIS.BLAT.CD,53.31,0.0568
+"PS, bilateral (DIS, current US$)",DT.DIS.BLAT.PS.CD,53.25,0.0568
+"PPG, commercial banks (TDS, current US$)",DT.TDS.PCBK.CD,52.33,0.0558
+"PS, commercial banks (TDS, current US$)",DT.TDS.PCBK.PS.CD,52.06,0.0555
+"GG, multilateral (TDS, current US$)",DT.TDS.MLAT.GG.CD,50.2,0.0535
+"OPS, bonds (DIS, current US$)",DT.DIS.PBND.OPS.CD,49.37,0.0526
+"PPG, bilateral (TDS, current US$)",DT.TDS.BLAT.CD,47.62,0.0508
+"PS, bilateral (TDS, current US$)",DT.TDS.BLAT.PS.CD,47.6,0.0507
+"PPG, multilateral (AMT, current US$)",DT.AMT.MLAT.CD,46.02,0.0491
+"GG, bilateral (DIS, current US$)",DT.DIS.BLAT.GG.CD,45.94,0.049
+"PS, multilateral (AMT, current US$)",DT.AMT.MLAT.PS.CD,45.86,0.0489
+"OPS, multilateral (DOD, current US$)",DT.DOD.MLAT.OPS.CD,45.79,0.0488
+"Commitments, bilateral creditors (COM, current US$)",DT.COM.BLAT.CD,42.6,0.0454
+"PPG, commercial banks (AMT, current US$)",DT.AMT.PCBK.CD,42.36,0.0452
+"PS, commercial banks (AMT, current US$)",DT.AMT.PCBK.PS.CD,42.16,0.0449
+"OPS, bonds (AMT, current US$)",DT.AMT.PBND.OPS.CD,41.32,0.0441
+"OPS, commercial banks (DIS, current US$)",DT.DIS.PCBK.OPS.CD,41.18,0.0439
+"Net transfers on external debt, private nonguaranteed (PNG) (NTR, current US$)",DT.NTR.DPNG.CD,40.43,0.0431
+"OPS, private creditors (NFL, current US$)",DT.NFL.PRVT.OPS.CD,40.41,0.0431
+"Net flows on external debt, other public sector (PPG) (NFL, current US$)",DT.NFL.DOPS.CD,39.21,0.0418
+"Interest arrears, long-term DOD",DT.IXA.DLXF.CD,39.06,0.0416
+"PPG, bilateral (AMT, current US$)",DT.AMT.BLAT.CD,38.1,0.0406
+"PS, bilateral (AMT, current US$)",DT.AMT.BLAT.PS.CD,38.08,0.0406
+"GG, multilateral (AMT, current US$)",DT.AMT.MLAT.GG.CD,37.57,0.04
+"PNG, bonds (INT, current US$)",DT.INT.PNGB.CD,36.4,0.0388
+"IMF purchases (DIS, current US$)",DT.DIS.DIMF.CD,35.96,0.0383
+"OPS, commercial banks (TDS, current US$)",DT.TDS.PCBK.OPS.CD,35.52,0.0379
+"GG, bilateral (TDS, current US$)",DT.TDS.BLAT.GG.CD,34.57,0.0369
+"GG, private creditors (NFL, current US$)",DT.NFL.PRVT.GG.CD,34.17,0.0364
+"PPG, private creditors (NFL, current US$)",DT.NFL.PRVT.CD,34.17,0.0364
+"PS, private creditors (NFL, current US$)",DT.NFL.PRVT.PS.CD,34.06,0.0363
+"Interest payments on external debt, other public sector (PPG) (INT, current US$)",DT.INT.DOPS.CD,30.54,0.0326
+"IMF repurchases and charges (TDS, current US$)",DT.TDS.DIMF.CD,29.78,0.0317
+"Commitments, IBRD (COM, current US$)",DT.COM.MIBR.CD,28.65,0.0305
+"OPS, private creditors (NTR, current US$)",DT.NTR.PRVT.OPS.CD,28.65,0.0305
+"PS, commercial banks (NFL, current US$)",DT.NFL.PCBK.PS.CD,28.54,0.0304
+"PPG, commercial banks (NFL, current US$)",DT.NFL.PCBK.CD,28.54,0.0304
+"OPS, commercial banks (AMT, current US$)",DT.AMT.PCBK.OPS.CD,28.46,0.0303
+"GG, bilateral (AMT, current US$)",DT.AMT.BLAT.GG.CD,27.81,0.0296
+"Net transfers on external debt, other public sector (PPG) (NTR, current US$)",DT.NTR.DOPS.CD,27.65,0.0295
+"GG, bonds (NFL, current US$)",DT.NFL.PBND.GG.CD,27.34,0.0291
+"OPS, private creditors (INT, current US$)",DT.INT.PRVT.OPS.CD,27.34,0.0291
+"PPG, IBRD (DIS, current US$)",DT.DIS.MIBR.CD,26.78,0.0286
+"Interest arrears, private creditors (current US$)",DT.IXA.PRVT.CD,26.1,0.0278
+"PS, bonds (NFL, current US$)",DT.NFL.PBND.PS.CD,25.66,0.0274
+"PPG, bonds (NFL, current US$)",DT.NFL.PBND.CD,25.66,0.0274
+"PS, bilateral (NFL, current US$)",DT.NFL.BLAT.PS.CD,25.47,0.0272
+"Net financial flows, bilateral (NFL, current US$)",DT.NFL.BLAT.CD,25.45,0.0271
+"Commitments, IDA (COM, current US$)",DT.COM.MIDA.CD,25.03,0.0267
+"GG, bilateral (NFL, current US$)",DT.NFL.BLAT.GG.CD,24.78,0.0264
+"Principal arrears, official creditors (current US$)",DT.AXA.OFFT.CD,23.91,0.0255
+"PPG, official creditors (INT, current US$)",DT.INT.OFFT.CD,23.75,0.0253
+"PS, official creditors (INT, current US$)",DT.INT.OFFT.PS.CD,23.72,0.0253
+"PPG, commercial banks (NTR, current US$)",DT.NTR.PCBK.CD,23.44,0.025
+"PS, commercial banks (NTR, current US$)",DT.NTR.PCBK.PS.CD,23.44,0.025
+"IMF repurchases (AMT, current US$)",DT.AMT.DIMF.CD,22.81,0.0243
+"GG, bilateral (NTR, current US$)",DT.NTR.BLAT.GG.CD,22.22,0.0237
+"PS, other private creditors (TDS, current US$)",DT.TDS.PROP.PS.CD,21.9,0.0233
+"PPG, other private creditors (TDS, current US$)",DT.TDS.PROP.CD,21.9,0.0233
+"OPS, commercial banks (NFL, current US$)",DT.NFL.PCBK.OPS.CD,21.88,0.0233
+"PS, bilateral (NTR, current US$)",DT.NTR.BLAT.PS.CD,21.7,0.0231
+"PPG, bilateral (NTR, current US$)",DT.NTR.BLAT.CD,21.68,0.0231
+"Interest payments on variable rate external debt, public and publicly guaranteed (PPG) (INT, current US$)",DT.INT.VPPG.CD,21.32,0.0227
+"PS, other private creditors (DIS, current US$)",DT.DIS.PROP.PS.CD,20.46,0.0218
+"PPG, other private creditors (DIS, current US$)",DT.DIS.PROP.CD,20.46,0.0218
+"OPS, bonds (NFL, current US$)",DT.NFL.PBND.OPS.CD,19.82,0.0211
+"OPS, official creditors (TDS, current US$)",DT.TDS.OFFT.OPS.CD,19.79,0.0211
+"External debt stocks, private guaranteed by public sector (PPG) (DOD, current US$)",DT.DOD.PRPG.CD,19.71,0.021
+"GG, official creditors (INT, current US$)",DT.INT.OFFT.GG.CD,19.4,0.0207
+"OPS, other private creditors (TDS, current US$)",DT.TDS.PROP.OPS.CD,19.19,0.0205
+"PPG, multilateral concessional (DIS, current US$)",DT.DIS.MLTC.CD,19.02,0.0203
+"PS, multilateral concessional (DIS, current US$)",DT.DIS.MLTC.PS.CD,19.02,0.0203
+"GG, multilateral concessional (DIS, current US$)",DT.DIS.MLTC.GG.CD,19.0,0.0203
+"PPG, IDA (DIS, current US$)",DT.DIS.MIDA.CD,18.84,0.0201
+"OPS, other private creditors (DIS, current US$)",DT.DIS.PROP.OPS.CD,18.71,0.02
+"PRVG, private creditors (DOD, current US$)",DT.DOD.PRVT.PRVG.CD,18.48,0.0197
+"PS, other private creditors (AMT, current US$)",DT.AMT.PROP.PS.CD,17.95,0.0191
+"PPG, other private creditors (AMT, current US$)",DT.AMT.PROP.CD,17.95,0.0191
+"OPS, commercial banks (NTR, current US$)",DT.NTR.PCBK.OPS.CD,17.93,0.0191
+"PRVG, bonds (DOD, current US$)",DT.DOD.PBND.PRVG.CD,17.13,0.0183
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,17.0,0.0181
+"Net financial flows, IBRD (NFL, current US$)",DT.NFL.MIBR.CD,16.82,0.0179
+"OPS, bonds (INT, current US$)",DT.INT.PBND.OPS.CD,16.69,0.0178
+"OPS, official creditors (AMT, current US$)",DT.AMT.OFFT.OPS.CD,16.59,0.0177
+"PPG, bilateral concessional (DIS, current US$)",DT.DIS.BLTC.CD,16.49,0.0176
+"PS, bilateral concessional (DIS, current US$)",DT.DIS.BLTC.PS.CD,16.49,0.0176
+"GG, bilateral concessional (DIS, current US$)",DT.DIS.BLTC.GG.CD,15.61,0.0166
+"OPS, other private creditors (AMT, current US$)",DT.AMT.PROP.OPS.CD,15.6,0.0166
+"GG, commercial banks (DIS, current US$)",DT.DIS.PCBK.GG.CD,15.46,0.0165
+"PS, multilateral concessional (NFL, current US$)",DT.NFL.MLTC.PS.CD,14.87,0.0159
+"GG, multilateral concessional (NFL, current US$)",DT.NFL.MLTC.GG.CD,14.87,0.0158
+"PPG, multilateral concessional (NFL, current US$)",DT.NFL.MLTC.CD,14.84,0.0158
+"Net financial flows, IMF nonconcessional (NFL, current US$)",DT.NFL.IMFN.CD,14.83,0.0158
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,14.73,0.0157
+"PPG, IBRD (TDS, current US$)",DT.TDS.MIBR.CD,14.67,0.0156
+"GG, private creditors (NTR, current US$)",DT.NTR.PRVT.GG.CD,14.55,0.0155
+"GG, commercial banks (TDS, current US$)",DT.TDS.PCBK.GG.CD,14.38,0.0153
+"PPG, multilateral (INT, current US$)",DT.INT.MLAT.CD,14.24,0.0152
+"PS, multilateral (INT, current US$)",DT.INT.MLAT.PS.CD,14.21,0.0152
+"OPS, bonds (NTR, current US$)",DT.NTR.PBND.OPS.CD,14.01,0.0149
+"PS, multilateral concessional (NTR, current US$)",DT.NTR.MLTC.PS.CD,13.96,0.0149
+"GG, multilateral concessional (NTR, current US$)",DT.NTR.MLTC.GG.CD,13.96,0.0149
+"PPG, multilateral concessional (NTR, current US$)",DT.NTR.MLTC.CD,13.93,0.0148
+"PPG, IDA (NTR, current US$)",DT.NTR.MIDA.CD,13.4,0.0143
+"PPG, IBRD (NTR, current US$)",DT.NTR.MIBR.CD,13.35,0.0142
+Debt stock rescheduled (current US$),DT.DXR.DPPG.CD,13.0,0.0139
+"Interest arrears, official creditors (current US$)",DT.IXA.OFFT.CD,12.96,0.0138
+"GG, multilateral (INT, current US$)",DT.INT.MLAT.GG.CD,12.63,0.0135
+"Residual, debt stock-flow reconciliation (current US$)",DT.DOD.RSDL.CD,12.39,0.0132
+"PPG, bilateral concessional (NFL, current US$)",DT.NFL.BLTC.CD,12.35,0.0132
+"PS, bilateral concessional (NFL, current US$)",DT.NFL.BLTC.PS.CD,12.35,0.0132
+"OPS, official creditors (DIS, current US$)",DT.DIS.OFFT.OPS.CD,12.29,0.0131
+"GG, bilateral concessional (NFL, current US$)",DT.NFL.BLTC.GG.CD,12.03,0.0128
+"GG, commercial banks (AMT, current US$)",DT.AMT.PCBK.GG.CD,11.79,0.0126
+"PPG, bilateral concessional (NTR, current US$)",DT.NTR.BLTC.CD,11.69,0.0125
+"PS, bilateral concessional (NTR, current US$)",DT.NTR.BLTC.PS.CD,11.69,0.0125
+"GG, bilateral concessional (NTR, current US$)",DT.NTR.BLTC.GG.CD,11.45,0.0122
+"OPS, bilateral (TDS, current US$)",DT.TDS.BLAT.OPS.CD,11.28,0.012
+"GG, other private creditors (DOD, current US$)",DT.DOD.PROP.GG.CD,11.16,0.0119
+"Net financial flows, others (NFL, current US$)",DT.NFL.MOTH.CD,11.07,0.0118
+"PPG, IBRD (AMT, current US$)",DT.AMT.MIBR.CD,10.64,0.0113
+"GG, bonds (NTR, current US$)",DT.NTR.PBND.GG.CD,10.41,0.0111
+"PPG, multilateral concessional (TDS, current US$)",DT.TDS.MLTC.CD,10.39,0.0111
+"PS, multilateral concessional (TDS, current US$)",DT.TDS.MLTC.PS.CD,10.36,0.011
+"OPS, bilateral concessional (DOD, current US$)",DT.DOD.BLTC.OPS.CD,10.29,0.011
+"GG, multilateral concessional (TDS, current US$)",DT.TDS.MLTC.GG.CD,10.12,0.0108
+"PPG, commercial banks (INT, current US$)",DT.INT.PCBK.CD,9.96,0.0106
+"PS, commercial banks (INT, current US$)",DT.INT.PCBK.PS.CD,9.9,0.0106
+"PPG, bilateral (INT, current US$)",DT.INT.BLAT.CD,9.52,0.0101
+"PS, bilateral (INT, current US$)",DT.INT.BLAT.PS.CD,9.51,0.0101
+"OPS, bilateral (AMT, current US$)",DT.AMT.BLAT.OPS.CD,9.45,0.0101
+"GG, commercial banks (NFL, current US$)",DT.NFL.PCBK.GG.CD,9.13,0.0097
+"PPG, IDA (TDS, current US$)",DT.TDS.MIDA.CD,9.13,0.0097
+Debt stock reduction (current US$),DT.DSF.DPPG.CD,9.07,0.0097
+"OPS, multilateral (TDS, current US$)",DT.TDS.MLAT.OPS.CD,8.51,0.0091
+"PPG, multilateral concessional (AMT, current US$)",DT.AMT.MLTC.CD,8.48,0.009
+"PS, multilateral concessional (AMT, current US$)",DT.AMT.MLTC.PS.CD,8.44,0.009
+"GG, multilateral concessional (AMT, current US$)",DT.AMT.MLTC.GG.CD,8.24,0.0088
+"GG, commercial banks (NTR, current US$)",DT.NTR.PCBK.GG.CD,7.81,0.0083
+"PPG, IDA (AMT, current US$)",DT.AMT.MIDA.CD,7.17,0.0076
+"OPS, multilateral (AMT, current US$)",DT.AMT.MLAT.OPS.CD,7.14,0.0076
+"OPS, commercial banks (INT, current US$)",DT.INT.PCBK.OPS.CD,7.06,0.0075
+"IMF credit and SDR allocations, charges (INT, current US$)",DT.INT.DIMF.CD,6.97,0.0074
+"GG, bilateral (INT, current US$)",DT.INT.BLAT.GG.CD,6.77,0.0072
+"OPS, multilateral (DIS, current US$)",DT.DIS.MLAT.OPS.CD,6.67,0.0071
+"PPG, bilateral concessional (TDS, current US$)",DT.TDS.BLTC.CD,6.56,0.007
+"PS, bilateral concessional (TDS, current US$)",DT.TDS.BLTC.PS.CD,6.56,0.007
+IDA grants (current US$),DT.DIS.IDAG.CD,6.12,0.0065
+"PPG, private creditors (NTR, current US$)",DT.NTR.PRVT.CD,5.91,0.0063
+"PS, private creditors (NTR, current US$)",DT.NTR.PRVT.PS.CD,5.91,0.0063
+"GG, bilateral concessional (TDS, current US$)",DT.TDS.BLTC.GG.CD,5.68,0.0061
+"OPS, bilateral (DIS, current US$)",DT.DIS.BLAT.OPS.CD,5.62,0.006
+"IFC, private nonguaranteed (NFL, current US$)",DT.NFL.NIFC.CD,5.59,0.006
+"PS, bonds (NTR, current US$)",DT.NTR.PBND.PS.CD,5.4,0.0058
+"PPG, bonds (NTR, current US$)",DT.NTR.PBND.CD,5.4,0.0058
+"PPG, other private creditors (NFL, current US$)",DT.NFL.PROP.CD,5.2,0.0055
+"PS, other private creditors (NFL, current US$)",DT.NFL.PROP.PS.CD,5.2,0.0055
+"PPG, bilateral concessional (AMT, current US$)",DT.AMT.BLTC.CD,5.16,0.0055
+"PS, bilateral concessional (AMT, current US$)",DT.AMT.BLTC.PS.CD,5.16,0.0055
+Debt buyback (current US$),DT.DSB.DPPG.CD,5.0,0.0053
+"PNG, bonds (NFL, current US$)",DT.NFL.PNGB.CD,4.96,0.0053
+"GG, bilateral concessional (AMT, current US$)",DT.AMT.BLTC.GG.CD,4.64,0.0049
+"OPS, other private creditors (NFL, current US$)",DT.NFL.PROP.OPS.CD,4.4,0.0047
+Total amount of debt rescheduled (current US$),DT.TXR.DPPG.CD,4.18,0.0045
+"PPG, IBRD (INT, current US$)",DT.INT.MIBR.CD,4.03,0.0043
+"PPG, other private creditors (INT, current US$)",DT.INT.PROP.CD,3.95,0.0042
+"PS, other private creditors (INT, current US$)",DT.INT.PROP.PS.CD,3.95,0.0042
+Principal rescheduled (current US$),DT.AXR.DPPG.CD,3.91,0.0042
+"IMF credit, charges (INT, current US$)",DT.INT.DIMF.US.CD,3.87,0.0041
+"OPS, other private creditors (INT, current US$)",DT.INT.PROP.OPS.CD,3.59,0.0038
+"OPS, official creditors (INT, current US$)",DT.INT.OFFT.OPS.CD,3.2,0.0034
+"IMF SDR allocations, charges (INT, current US$)",DT.INT.DSDR.CD,3.1,0.0033
+"PNG, bonds (NTR, current US$)",DT.NTR.PNGB.CD,2.88,0.0031
+"GG, commercial banks (INT, current US$)",DT.INT.PCBK.GG.CD,2.59,0.0028
+"GG, other private creditors (TDS, current US$)",DT.TDS.PROP.GG.CD,2.56,0.0027
+"Principal rescheduled, private (current US$)",DT.AXR.PRVT.CD,2.5,0.0027
+"GG, other private creditors (AMT, current US$)",DT.AMT.PROP.GG.CD,2.2,0.0023
+"OPS, official creditors (NFL, current US$)",DT.NFL.OFFT.OPS.CD,1.99,0.0021
+"PPG, IDA (INT, current US$)",DT.INT.MIDA.CD,1.96,0.0021
+"PPG, multilateral concessional (INT, current US$)",DT.INT.MLTC.CD,1.92,0.002
+"PS, multilateral concessional (INT, current US$)",DT.INT.MLTC.PS.CD,1.91,0.002
+"GG, multilateral concessional (INT, current US$)",DT.INT.MLTC.GG.CD,1.88,0.002
+"OPS, bilateral (INT, current US$)",DT.INT.BLAT.OPS.CD,1.83,0.002
+"OPS, multilateral (NFL, current US$)",DT.NFL.MLAT.OPS.CD,1.67,0.0018
+"GG, other private creditors (DIS, current US$)",DT.DIS.PROP.GG.CD,1.57,0.0017
+"PS, other private creditors (NTR, current US$)",DT.NTR.PROP.PS.CD,1.53,0.0016
+"PPG, other private creditors (NTR, current US$)",DT.NTR.PROP.CD,1.53,0.0016
+"Net financial flows, RDB concessional (NFL, current US$)",DT.NFL.RDBC.CD,1.48,0.0016
+"OPS, bilateral (NFL, current US$)",DT.NFL.BLAT.OPS.CD,1.42,0.0015
+"Principal rescheduled, official (current US$)",DT.AXR.OFFT.CD,1.41,0.0015
+"PS, bilateral concessional (INT, current US$)",DT.INT.BLTC.PS.CD,1.4,0.0015
+"PPG, bilateral concessional (INT, current US$)",DT.INT.BLTC.CD,1.4,0.0015
+"OPS, multilateral (INT, current US$)",DT.INT.MLAT.OPS.CD,1.37,0.0015
+"PRVG, commercial banks (DOD, current US$)",DT.DOD.PCBK.PRVG.CD,1.35,0.0014
+"PRVG, official creditors (DOD, current US$)",DT.DOD.OFFT.PRVG.CD,1.23,0.0013
+"OPS, multilateral (NTR, current US$)",DT.NTR.MLAT.OPS.CD,1.22,0.0013
+"OPS, multilateral concessional (DOD, current US$)",DT.DOD.MLTC.OPS.CD,1.11,0.0012
+"GG, bilateral concessional (INT, current US$)",DT.INT.BLTC.GG.CD,1.04,0.0011
+"PRVG, multilateral (DOD, current US$)",DT.DOD.MLAT.PRVG.CD,1.04,0.0011
+"Debt service on external debt, private guaranteed by public sector (PPG) (TDS, current US$)",DT.TDS.PRPG.CD,0.95,0.001
+"OPS, official creditors (NTR, current US$)",DT.NTR.OFFT.OPS.CD,0.92,0.001
+"OPS, other private creditors (NTR, current US$)",DT.NTR.PROP.OPS.CD,0.92,0.001
+"OPS, bilateral (NTR, current US$)",DT.NTR.BLAT.OPS.CD,0.86,0.0009
+"OPS, bilateral concessional (DIS, current US$)",DT.DIS.BLTC.OPS.CD,0.84,0.0009
+Interest rescheduled (capitalized) (current US$),DT.IXR.DPPG.CD,0.84,0.0009
+"GG, other private creditors (NFL, current US$)",DT.NFL.PROP.GG.CD,0.76,0.0008
+"PRVG, private creditors (TDS, current US$)",DT.TDS.PRVT.PRVG.CD,0.74,0.0008
+"GG, other private creditors (NTR, current US$)",DT.NTR.PROP.GG.CD,0.58,0.0006
+"Interest payments on external debt, private guaranteed by public sector (PPG) (INT, current US$)",DT.INT.PRPG.CD,0.57,0.0006
+"OPS, bilateral concessional (TDS, current US$)",DT.TDS.BLTC.OPS.CD,0.57,0.0006
+"Net financial flows, IMF concessional (NFL, current US$)",DT.NFL.IMFC.CD,0.56,0.0006
+"OPS, bilateral concessional (NFL, current US$)",DT.NFL.BLTC.OPS.CD,0.55,0.0006
+"PRVG, private creditors (INT, current US$)",DT.INT.PRVT.PRVG.CD,0.54,0.0006
+"OPS, bilateral concessional (NTR, current US$)",DT.NTR.BLTC.OPS.CD,0.52,0.0006
+"OPS, bilateral concessional (AMT, current US$)",DT.AMT.BLTC.OPS.CD,0.5,0.0005
+"PRVG, bonds (INT, current US$)",DT.INT.PBND.PRVG.CD,0.47,0.0005
+"PRVG, bonds (TDS, current US$)",DT.TDS.PBND.PRVG.CD,0.47,0.0005
+"Interest rescheduled, official (current US$)",DT.IXR.OFFT.CD,0.43,0.0005
+"Interest rescheduled, private (current US$)",DT.IXR.PRVT.CD,0.41,0.0004
+"Principal repayments on external debt, private guaranteed by public sector (PPG) (AMT, current US$)",DT.AMT.PRPG.CD,0.38,0.0004
+"Disbursements on external debt, private guaranteed by public sector (PPG) (DIS, current US$)",DT.DIS.PRPG.CD,0.37,0.0004
+"GG, other private creditors (INT, current US$)",DT.INT.PROP.GG.CD,0.36,0.0004
+"PRVG, private creditors (DIS, current US$)",DT.DIS.PRVT.PRVG.CD,0.29,0.0003
+"PRVG, commercial banks (DIS, current US$)",DT.DIS.PCBK.PRVG.CD,0.29,0.0003
+"PRVG, commercial banks (TDS, current US$)",DT.TDS.PCBK.PRVG.CD,0.27,0.0003
+"PRVG, official creditors (TDS, current US$)",DT.TDS.OFFT.PRVG.CD,0.21,0.0002
+"PRVG, commercial banks (AMT, current US$)",DT.AMT.PCBK.PRVG.CD,0.2,0.0002
+"PRVG, private creditors (AMT, current US$)",DT.AMT.PRVT.PRVG.CD,0.2,0.0002
+"PRVG, bilateral (DOD, current US$)",DT.DOD.BLAT.PRVG.CD,0.19,0.0002
+"PRVG, multilateral (TDS, current US$)",DT.TDS.MLAT.PRVG.CD,0.19,0.0002
+"PRVG, official creditors (AMT, current US$)",DT.AMT.OFFT.PRVG.CD,0.18,0.0002
+"PRVG, multilateral (AMT, current US$)",DT.AMT.MLAT.PRVG.CD,0.16,0.0002
+Principal forgiven (current US$),DT.AXF.DPPG.CD,0.15,0.0002
+"PRVG, multilateral concessional (DOD, current US$)",DT.DOD.MLTC.PRVG.CD,0.12,0.0001
+Debt forgiveness grants (current US$),DT.DOD.MDRI.CD,0.11,0.0001
+"PRVG, private creditors (NFL, current US$)",DT.NFL.PRVT.PRVG.CD,0.11,0.0001
+"PRVG, commercial banks (NFL, current US$)",DT.NFL.PCBK.PRVG.CD,0.11,0.0001
+"Net flows on external debt, private guaranteed by public sector (PPG) (NFL, current US$)",DT.NFL.PRPG.CD,0.11,0.0001
+"PRVG, official creditors (DIS, current US$)",DT.DIS.OFFT.PRVG.CD,0.09,0.0001
+"OPS, bilateral concessional (INT, current US$)",DT.INT.BLTC.OPS.CD,0.07,0.0001
+"PRVG, bilateral (NFL, current US$)",DT.NFL.BLAT.PRVG.CD,0.07,0.0001
+"PRVG, bilateral (DIS, current US$)",DT.DIS.BLAT.PRVG.CD,0.07,0.0001
+"PRVG, bilateral (NTR, current US$)",DT.NTR.BLAT.PRVG.CD,0.07,0.0001
+"PRVG, commercial banks (INT, current US$)",DT.INT.PCBK.PRVG.CD,0.07,0.0001
+"PRVG, private creditors (NTR, current US$)",DT.NTR.PRVT.PRVG.CD,0.04,0.0
+"PRVG, commercial banks (NTR, current US$)",DT.NTR.PCBK.PRVG.CD,0.04,0.0
+"OPS, multilateral concessional (TDS, current US$)",DT.TDS.MLTC.OPS.CD,0.04,0.0
+"PRVG, multilateral concessional (TDS, current US$)",DT.TDS.MLTC.PRVG.CD,0.04,0.0
+"OPS, multilateral concessional (AMT, current US$)",DT.AMT.MLTC.OPS.CD,0.03,0.0
+"PRVG, multilateral concessional (AMT, current US$)",DT.AMT.MLTC.PRVG.CD,0.03,0.0
+"Net transfers on external debt, private guaranteed by public sector (PPG) (NTR, current US$)",DT.NTR.PRPG.CD,0.03,0.0
+"PRVG, official creditors (INT, current US$)",DT.INT.OFFT.PRVG.CD,0.03,0.0
+"OPS, multilateral concessional (DIS, current US$)",DT.DIS.MLTC.OPS.CD,0.03,0.0
+"PRVG, multilateral (INT, current US$)",DT.INT.MLAT.PRVG.CD,0.02,0.0
+"OPS, multilateral concessional (NFL, current US$)",DT.NFL.MLTC.OPS.CD,0.02,0.0
+"OPS, multilateral concessional (NTR, current US$)",DT.NTR.MLTC.OPS.CD,0.02,0.0
+"PRVG, multilateral (DIS, current US$)",DT.DIS.MLAT.PRVG.CD,0.02,0.0
+"PRVG, bilateral (TDS, current US$)",DT.TDS.BLAT.PRVG.CD,0.02,0.0
+Interest forgiven (current US$),DT.IXF.DPPG.CD,0.02,0.0
+"PRVG, bilateral (AMT, current US$)",DT.AMT.BLAT.PRVG.CD,0.02,0.0
+"OPS, multilateral concessional (INT, current US$)",DT.INT.MLTC.OPS.CD,0.01,0.0
+"PRVG, official creditors (NFL, current US$)",DT.NFL.OFFT.PRVG.CD,0.01,0.0
+"PRVG, multilateral (NFL, current US$)",DT.NFL.MLAT.PRVG.CD,0.01,0.0
+"PRVG, official creditors (NTR, current US$)",DT.NTR.OFFT.PRVG.CD,0.0,0.0
+"PRVG, multilateral (NTR, current US$)",DT.NTR.MLAT.PRVG.CD,0.0,0.0
+"PRVG, bilateral (INT, current US$)",DT.INT.BLAT.PRVG.CD,0.0,0.0
+"PRVG, multilateral concessional (INT, current US$)",DT.INT.MLTC.PRVG.CD,0.0,0.0
+"PRVG, multilateral concessional (NTR, current US$)",DT.NTR.MLTC.PRVG.CD,0.0,0.0
+"PRVG, multilateral concessional (NFL, current US$)",DT.NFL.MLTC.PRVG.CD,0.0,0.0
+"PRVG, multilateral concessional (DIS, current US$)",DT.DIS.MLTC.PRVG.CD,0.0,0.0
+Total external debt per capita (US$),DT.DOD.DECT.PC.CD,0.0,0.0
+"PRVG, bilateral concessional (DOD, current US$)",DT.DOD.BLTC.PRVG.CD,0.0,0.0
+"PRVG, bilateral concessional (AMT, current US$)",DT.AMT.BLTC.PRVG.CD,0.0,0.0
+"PRVG, bilateral concessional (TDS, current US$)",DT.TDS.BLTC.PRVG.CD,0.0,0.0

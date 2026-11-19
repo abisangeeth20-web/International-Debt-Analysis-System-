@@ -1,0 +1,442 @@
+indicator_name,indicator_group,total_debt_billion
+"External debt stocks, total (DOD, current US$)",Debt Stocks,8683.0965
+"External debt stocks, long-term (DOD, current US$)",Debt Stocks,6046.7625
+"External debt stocks, variable rate (DOD, current US$)",Debt Stocks,3674.6854
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",Debt Stocks,3382.1369
+"External debt stocks, long-term public sector (DOD, current US$)",Debt Stocks,3364.1718
+"External debt stocks, public sector (PPG) (DOD, current US$)",Debt Stocks,3362.7276
+"External debt stocks, long-term private sector (DOD, current US$)",Debt Stocks,2677.8493
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",Debt Stocks,2659.8842
+"External debt stocks, general government sector (PPG) (DOD, current US$)",Debt Stocks,2522.1608
+"External debt stocks, short-term (DOD, current US$)",Debt Stocks,2263.0202
+"PNG, commercial banks and other creditors (DOD, current US$)",Debt Stocks,2065.6944
+"PPG, private creditors (DOD, current US$)",Debt Stocks,2047.0721
+"PS, private creditors (DOD, current US$)",Debt Stocks,2029.0266
+"PPG, bonds (DOD, current US$)",Debt Stocks,1642.8944
+"PS, bonds (DOD, current US$)",Debt Stocks,1625.8924
+"GG, private creditors (DOD, current US$)",Debt Stocks,1347.2161
+"PPG, official creditors (DOD, current US$)",Debt Stocks,1335.9683
+"PS, official creditors (DOD, current US$)",Debt Stocks,1334.7431
+"Debt service on external debt, total (TDS, current US$)",Debt Service,1267.5275
+"GG, bonds (DOD, current US$)",Debt Stocks,1255.8174
+"GG, official creditors (DOD, current US$)",Debt Stocks,1175.5774
+"Debt service on external debt, long-term (TDS, current US$)",Debt Service,1147.3573
+"External debt stocks, variable rate public and publicly guaranteed debt (PPG) (DOD, current US$)",Debt Stocks,1015.2788
+"Disbursements on external debt, long-term + IMF (DIS, current US$)",Disbursements,995.3096
+"Principal repayments on external debt, long-term + IMF (AMT, current US$)",Principal Repayments,971.2341
+"Disbursements on external debt, long-term (DIS, current US$)",Disbursements,959.3486
+"Principal repayments on external debt, long-term (AMT, current US$)",Principal Repayments,948.4269
+"PPG, multilateral (DOD, current US$)",Debt Stocks,854.9258
+"PS, multilateral (DOD, current US$)",Debt Stocks,853.8888
+"GG, multilateral (DOD, current US$)",Debt Stocks,796.805
+"External debt stocks, other public sector (PPG) (DOD, current US$)",Debt Stocks,795.0028
+"Debt service on external debt, private nonguaranteed (PNG) (TDS, current US$)",Debt Service,746.4528
+"OPS, private creditors (DOD, current US$)",Debt Stocks,676.7641
+"Principal repayments on external debt, private nonguaranteed (PNG) (AMT, current US$)",Principal Repayments,655.9316
+"Undisbursed external debt, total (UND, current US$)",Undisbursed Debt,654.6474
+"Disbursements on external debt, private nonguaranteed (PNG) (DIS, current US$)",Disbursements,603.3345
+"PNG, bonds (DOD, current US$)",Debt Stocks,594.1738
+"PNG, commercial banks and other creditors (TDS, current US$)",Debt Service,593.3816
+"PNG, commercial banks and other creditors (DIS, current US$)",Disbursements,541.2352
+"PNG, commercial banks and other creditors (AMT, current US$)",Principal Repayments,538.4323
+"Undisbursed external debt, official creditors (UND, current US$)",Undisbursed Debt,537.3423
+"PPG, bilateral (DOD, current US$)",Debt Stocks,480.8926
+"PS, bilateral (DOD, current US$)",Debt Stocks,480.7043
+"Commitments, public and publicly guaranteed (COM, current US$)",Commitments,412.7919
+"Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)",Debt Service,401.084
+"Debt service on external debt, public sector (PPG) (TDS, current US$)",Debt Service,400.1361
+"Use of IMF credit and SDR allocations (DOD, current US$)",Debt Stocks,380.8552
+"GG, bilateral (DOD, current US$)",Debt Stocks,378.7724
+"OPS, bonds (DOD, current US$)",Debt Stocks,371.3874
+"External debt stocks, concessional (DOD, current US$)",Debt Stocks,367.2494
+"Disbursements on external debt, public and publicly guaranteed (PPG) (DIS, current US$)",Disbursements,355.3611
+"Disbursements on external debt, public sector (PPG) (DIS, current US$)",Disbursements,354.9869
+"PPG, commercial banks (DOD, current US$)",Debt Stocks,314.3767
+"PS, commercial banks (DOD, current US$)",Debt Stocks,313.0219
+"Interest payments on external debt, total (INT, current US$)",Interest Payments,295.8786
+"PPG, private creditors (TDS, current US$)",Debt Service,293.2133
+"Principal repayments on external debt, public and publicly guaranteed (PPG) (AMT, current US$)",Principal Repayments,292.7772
+"PS, private creditors (TDS, current US$)",Debt Service,292.4709
+"Principal repayments on external debt, public sector (PPG) (AMT, current US$)",Principal Repayments,292.3958
+"Debt service on external debt, general government sector (PPG) (TDS, current US$)",Debt Service,261.8246
+"Commitments, private creditors (COM, current US$)",Commitments,250.1982
+"IMF SDR allocations (DOD, current US$)",Debt Stocks,233.8344
+"Disbursements on external debt, general government sector (PPG) (DIS, current US$)",Disbursements,227.7577
+"OPS, commercial banks (DOD, current US$)",Debt Stocks,226.3611
+"Net flows on external debt, total (NFL, current US$)",Net Flows,226.0074
+"PPG, IBRD (DOD, current US$)",Debt Stocks,221.4619
+"PPG, bonds (TDS, current US$)",Debt Service,218.9909
+"PS, bonds (TDS, current US$)",Debt Service,218.5185
+"PPG, multilateral concessional (DOD, current US$)",Debt Stocks,213.3771
+"PS, multilateral concessional (DOD, current US$)",Debt Stocks,213.2547
+"PPG, private creditors (AMT, current US$)",Principal Repayments,208.6596
+"GG, multilateral concessional (DOD, current US$)",Debt Stocks,208.5367
+"PS, private creditors (AMT, current US$)",Principal Repayments,208.4553
+"Interest payments on external debt, long-term (INT, current US$)",Interest Payments,199.0149
+"PPG, private creditors (DIS, current US$)",Disbursements,190.1547
+"PS, private creditors (DIS, current US$)",Disbursements,189.867
+"Principal repayments on external debt, general government sector (PPG) (AMT, current US$)",Principal Repayments,186.0611
+"PPG, IDA (DOD, current US$)",Debt Stocks,183.6711
+"GG, private creditors (TDS, current US$)",Debt Service,177.053
+"PPG, official creditors (DIS, current US$)",Disbursements,165.2064
+"PS, official creditors (DIS, current US$)",Disbursements,165.12
+"Commitments, official creditors (COM, current US$)",Commitments,162.5937
+"GG, bonds (TDS, current US$)",Debt Service,160.1166
+"PPG, bilateral concessional (DOD, current US$)",Debt Stocks,153.8722
+"PS, bilateral concessional (DOD, current US$)",Debt Stocks,153.8721
+"PNG, bonds (TDS, current US$)",Debt Service,153.1969
+"GG, official creditors (DIS, current US$)",Disbursements,149.8862
+"PPG, bonds (AMT, current US$)",Principal Repayments,148.3507
+"PS, bonds (AMT, current US$)",Principal Repayments,148.3507
+"Use of IMF credit (DOD, current US$)",Debt Stocks,147.0208
+"GG, bilateral concessional (DOD, current US$)",Debt Stocks,137.1603
+"Debt service on external debt, other public sector (PPG) (TDS, current US$)",Debt Service,132.5141
+"Net flows on external debt, long-term (NFL, current US$)",Net Flows,131.3262
+"Net flows on external debt, short-term (NFL, current US$)",Net Flows,122.3177
+"Disbursements on external debt, other public sector (PPG) (DIS, current US$)",Disbursements,121.5495
+"GG, private creditors (AMT, current US$)",Principal Repayments,120.6884
+"Commitments, multilateral creditors (COM, current US$)",Commitments,119.9943
+"OPS, official creditors (DOD, current US$)",Debt Stocks,118.7733
+"Undisbursed external debt, private creditors (UND, current US$)",Undisbursed Debt,117.3051
+"PNG, bonds (AMT, current US$)",Principal Repayments,116.7928
+"OPS, private creditors (TDS, current US$)",Debt Service,112.7228
+"Interest payments on variable rate external debt, long-term (INT, current US$)",Interest Payments,112.0314
+"PPG, multilateral (DIS, current US$)",Disbursements,111.8925
+"PS, multilateral (DIS, current US$)",Disbursements,111.872
+"PPG, bonds (DIS, current US$)",Disbursements,110.2208
+"PS, bonds (DIS, current US$)",Disbursements,110.2208
+"OPS, private creditors (DIS, current US$)",Disbursements,109.2641
+"Interest payments on external debt, public and publicly guaranteed (PPG) (INT, current US$)",Interest Payments,108.3068
+"PPG, official creditors (TDS, current US$)",Debt Service,107.8707
+"Interest payments on external debt, public sector (PPG) (INT, current US$)",Interest Payments,107.7403
+"PS, official creditors (TDS, current US$)",Debt Service,107.6652
+"Net flows on external debt, general government sector (PPG) (NFL, current US$)",Net Flows,107.1928
+"Net flows on external debt, public and publicly guaranteed (PPG) (NFL, current US$)",Net Flows,106.9252
+"Net flows on external debt, public sector (PPG) (NFL, current US$)",Net Flows,106.8714
+"GG, bonds (AMT, current US$)",Principal Repayments,106.7009
+"GG, multilateral (DIS, current US$)",Disbursements,103.943
+"Net transfers on external debt, total (NTR, current US$)",Net Transfers,103.6478
+"Principal repayments on external debt, other public sector (PPG) (AMT, current US$)",Principal Repayments,101.9766
+"Interest payments on external debt, private nonguaranteed (PNG) (INT, current US$)",Interest Payments,90.708
+"PPG, other private creditors (DOD, current US$)",Debt Stocks,90.6781
+"PS, other private creditors (DOD, current US$)",Debt Stocks,90.6781
+"Interest payments on external debt, short-term (INT, current US$)",Interest Payments,90.1583
+"GG, official creditors (NFL, current US$)",Net Flows,88.2434
+"PS, official creditors (NFL, current US$)",Net Flows,88.0846
+"PPG, official creditors (NFL, current US$)",Net Flows,88.0028
+"OPS, private creditors (AMT, current US$)",Principal Repayments,85.3854
+"GG, official creditors (TDS, current US$)",Debt Service,84.7716
+"PPG, private creditors (INT, current US$)",Interest Payments,84.5537
+"PPG, official creditors (AMT, current US$)",Principal Repayments,84.1176
+"PS, private creditors (INT, current US$)",Interest Payments,84.0155
+"PS, official creditors (AMT, current US$)",Principal Repayments,83.9405
+"Principal arrears, long-term DOD",Arrears,83.3404
+"GG, commercial banks (DOD, current US$)",Debt Stocks,80.8452
+"OPS, other private creditors (DOD, current US$)",Debt Stocks,79.3195
+"GG, private creditors (DIS, current US$)",Disbursements,77.8715
+"PNG, commercial banks and other creditors (NFL, current US$)",Net Flows,77.0099
+"Interest payments on external debt, general government sector (PPG) (INT, current US$)",Interest Payments,75.7635
+"OPS, bilateral (DOD, current US$)",Debt Stocks,72.9844
+"Net transfers on external debt, long-term (NTR, current US$)",Net Transfers,72.6937
+"GG, official creditors (NTR, current US$)",Net Transfers,71.9736
+"PPG, bonds (INT, current US$)",Interest Payments,70.6402
+"PS, bonds (INT, current US$)",Interest Payments,70.1678
+"PS, official creditors (NTR, current US$)",Net Transfers,70.0462
+"PPG, official creditors (NTR, current US$)",Net Transfers,69.9837
+"Net transfers on external debt, general government sector (PPG) (NTR, current US$)",Net Transfers,68.6271
+"Net flows on external debt, private nonguaranteed (PNG) (NFL, current US$)",Net Flows,68.3385
+"GG, multilateral (NFL, current US$)",Net Flows,68.2404
+"PS, multilateral (NFL, current US$)",Net Flows,68.0344
+"Net financial flows, multilateral (NFL, current US$)",Net Flows,67.8958
+"GG, official creditors (AMT, current US$)",Principal Repayments,65.3727
+"PNG, bonds (DIS, current US$)",Disbursements,61.7574
+"GG, bonds (DIS, current US$)",Disbursements,60.8482
+"Multilateral debt service (TDS, current US$)",Debt Service,60.2537
+"PS, multilateral (TDS, current US$)",Debt Service,60.0675
+"PPG, commercial banks (DIS, current US$)",Disbursements,59.4728
+"Principal arrears, private creditors (current US$)",Arrears,59.4295
+"PS, commercial banks (DIS, current US$)",Disbursements,59.1851
+"OPS, bonds (TDS, current US$)",Debt Service,58.0072
+"Net transfers on external debt, public sector (PPG) (NTR, current US$)",Net Transfers,57.1555
+"Net transfers on external debt, public and publicly guaranteed (PPG) (NTR, current US$)",Net Transfers,57.1493
+"GG, multilateral (NTR, current US$)",Net Transfers,57.0634
+"PS, multilateral (NTR, current US$)",Net Transfers,56.8332
+"PPG, multilateral (NTR, current US$)",Net Transfers,56.8103
+"GG, private creditors (INT, current US$)",Interest Payments,56.3646
+"PNG, commercial banks and other creditors (INT, current US$)",Interest Payments,54.3039
+"PNG, commercial banks and other creditors (NTR, current US$)",Net Transfers,54.0666
+"GG, bonds (INT, current US$)",Interest Payments,53.4157
+"PPG, bilateral (DIS, current US$)",Disbursements,53.314
+"PS, bilateral (DIS, current US$)",Disbursements,53.248
+"PPG, commercial banks (TDS, current US$)",Debt Service,52.3265
+"PS, commercial banks (TDS, current US$)",Debt Service,52.0565
+"GG, multilateral (TDS, current US$)",Debt Service,50.1984
+"OPS, bonds (DIS, current US$)",Disbursements,49.3725
+"PPG, bilateral (TDS, current US$)",Debt Service,47.6171
+"PS, bilateral (TDS, current US$)",Debt Service,47.5977
+"PPG, multilateral (AMT, current US$)",Principal Repayments,46.0186
+"GG, bilateral (DIS, current US$)",Disbursements,45.9432
+"PS, multilateral (AMT, current US$)",Principal Repayments,45.8569
+"OPS, multilateral (DOD, current US$)",Debt Stocks,45.7889
+"Commitments, bilateral creditors (COM, current US$)",Commitments,42.5994
+"PPG, commercial banks (AMT, current US$)",Principal Repayments,42.3624
+"PS, commercial banks (AMT, current US$)",Principal Repayments,42.1581
+"OPS, bonds (AMT, current US$)",Principal Repayments,41.3202
+"OPS, commercial banks (DIS, current US$)",Disbursements,41.1772
+"Net transfers on external debt, private nonguaranteed (PNG) (NTR, current US$)",Net Transfers,40.4335
+"OPS, private creditors (NFL, current US$)",Net Flows,40.4149
+"Net flows on external debt, other public sector (PPG) (NFL, current US$)",Net Flows,39.207
+"Interest arrears, long-term DOD",Arrears,39.0605
+"PPG, bilateral (AMT, current US$)",Principal Repayments,38.099
+"PS, bilateral (AMT, current US$)",Principal Repayments,38.0836
+"GG, multilateral (AMT, current US$)",Principal Repayments,37.5656
+"PNG, bonds (INT, current US$)",Interest Payments,36.4041
+"IMF purchases (DIS, current US$)",Disbursements,35.961
+"OPS, commercial banks (TDS, current US$)",Debt Service,35.5218
+"GG, bilateral (TDS, current US$)",Debt Service,34.5731
+"GG, private creditors (NFL, current US$)",Net Flows,34.1737
+"PPG, private creditors (NFL, current US$)",Net Flows,34.1736
+"PS, private creditors (NFL, current US$)",Net Flows,34.0648
+"Interest payments on external debt, other public sector (PPG) (INT, current US$)",Interest Payments,30.5375
+"IMF repurchases and charges (TDS, current US$)",Debt Service,29.7771
+"Commitments, IBRD (COM, current US$)",Commitments,28.6494
+"OPS, private creditors (NTR, current US$)",Net Transfers,28.6482
+"PPG, commercial banks (NFL, current US$)",Net Flows,28.5418
+"PS, commercial banks (NFL, current US$)",Net Flows,28.5418
+"OPS, commercial banks (AMT, current US$)",Principal Repayments,28.4608
+"GG, bilateral (AMT, current US$)",Principal Repayments,27.8071
+"Net transfers on external debt, other public sector (PPG) (NTR, current US$)",Net Transfers,27.6544
+"GG, bonds (NFL, current US$)",Net Flows,27.3377
+"OPS, private creditors (INT, current US$)",Interest Payments,27.3374
+"PPG, IBRD (DIS, current US$)",Disbursements,26.7808
+"Interest arrears, private creditors (current US$)",Arrears,26.096
+"PPG, bonds (NFL, current US$)",Net Flows,25.6576
+"PS, bonds (NFL, current US$)",Net Flows,25.6576
+"PS, bilateral (NFL, current US$)",Net Flows,25.4674
+"Net financial flows, bilateral (NFL, current US$)",Net Flows,25.4519
+"Commitments, IDA (COM, current US$)",Commitments,25.0334
+"GG, bilateral (NFL, current US$)",Net Flows,24.7767
+"Principal arrears, official creditors (current US$)",Arrears,23.911
+"PPG, official creditors (INT, current US$)",Interest Payments,23.7532
+"PS, official creditors (INT, current US$)",Interest Payments,23.7248
+"PPG, commercial banks (NTR, current US$)",Net Transfers,23.4423
+"PS, commercial banks (NTR, current US$)",Net Transfers,23.4423
+"IMF repurchases (AMT, current US$)",Principal Repayments,22.8072
+"GG, bilateral (NTR, current US$)",Net Transfers,22.2179
+"PPG, other private creditors (TDS, current US$)",Debt Service,21.8959
+"PS, other private creditors (TDS, current US$)",Debt Service,21.8959
+"OPS, commercial banks (NFL, current US$)",Net Flows,21.8802
+"PS, bilateral (NTR, current US$)",Net Transfers,21.7014
+"PPG, bilateral (NTR, current US$)",Net Transfers,21.6822
+"Interest payments on variable rate external debt, public and publicly guaranteed (PPG) (INT, current US$)",Interest Payments,21.3233
+"PPG, other private creditors (DIS, current US$)",Disbursements,20.4611
+"PS, other private creditors (DIS, current US$)",Disbursements,20.4611
+"OPS, bonds (NFL, current US$)",Net Flows,19.8206
+"OPS, official creditors (TDS, current US$)",Debt Service,19.7913
+"External debt stocks, private guaranteed by public sector (PPG) (DOD, current US$)",Debt Stocks,19.7097
+"GG, official creditors (INT, current US$)",Interest Payments,19.3988
+"OPS, other private creditors (TDS, current US$)",Debt Service,19.1939
+"PPG, multilateral concessional (DIS, current US$)",Disbursements,19.0234
+"PS, multilateral concessional (DIS, current US$)",Disbursements,19.023
+"GG, multilateral concessional (DIS, current US$)",Disbursements,18.9954
+"PPG, IDA (DIS, current US$)",Disbursements,18.8352
+"OPS, other private creditors (DIS, current US$)",Disbursements,18.7144
+"PRVG, private creditors (DOD, current US$)",Debt Stocks,18.4845
+"PPG, other private creditors (AMT, current US$)",Principal Repayments,17.9465
+"PS, other private creditors (AMT, current US$)",Principal Repayments,17.9465
+"OPS, commercial banks (NTR, current US$)",Net Transfers,17.9343
+"PRVG, bonds (DOD, current US$)",Debt Stocks,17.1297
+"Net financial flows, RDB nonconcessional (NFL, current US$)",Net Flows,17.0009
+"Net financial flows, IBRD (NFL, current US$)",Net Flows,16.8218
+"OPS, bonds (INT, current US$)",Interest Payments,16.6869
+"OPS, official creditors (AMT, current US$)",Principal Repayments,16.5912
+"PPG, bilateral concessional (DIS, current US$)",Disbursements,16.4864
+"PS, bilateral concessional (DIS, current US$)",Disbursements,16.4864
+"GG, bilateral concessional (DIS, current US$)",Disbursements,15.6063
+"OPS, other private creditors (AMT, current US$)",Principal Repayments,15.6044
+"GG, commercial banks (DIS, current US$)",Disbursements,15.4559
+"PS, multilateral concessional (NFL, current US$)",Net Flows,14.8745
+"GG, multilateral concessional (NFL, current US$)",Net Flows,14.8651
+"PPG, multilateral concessional (NFL, current US$)",Net Flows,14.8411
+"Net financial flows, IMF nonconcessional (NFL, current US$)",Net Flows,14.8345
+"Net financial flows, IDA (NFL, current US$)",Net Flows,14.7339
+"PPG, IBRD (TDS, current US$)",Debt Service,14.6672
+"GG, private creditors (NTR, current US$)",Net Transfers,14.5479
+"GG, commercial banks (TDS, current US$)",Debt Service,14.3786
+"PPG, multilateral (INT, current US$)",Interest Payments,14.2351
+"PS, multilateral (INT, current US$)",Interest Payments,14.2107
+"OPS, bonds (NTR, current US$)",Net Transfers,14.0069
+"PS, multilateral concessional (NTR, current US$)",Net Transfers,13.9631
+"GG, multilateral concessional (NTR, current US$)",Net Transfers,13.9611
+"PPG, multilateral concessional (NTR, current US$)",Net Transfers,13.9288
+"PPG, IDA (NTR, current US$)",Net Transfers,13.3958
+"PPG, IBRD (NTR, current US$)",Net Transfers,13.348
+Debt stock rescheduled (current US$),Debt Rescheduling,12.9956
+"Interest arrears, official creditors (current US$)",Arrears,12.9645
+"GG, multilateral (INT, current US$)",Interest Payments,12.6329
+"Residual, debt stock-flow reconciliation (current US$)",Debt Stocks,12.3921
+"PPG, bilateral concessional (NFL, current US$)",Net Flows,12.3467
+"PS, bilateral concessional (NFL, current US$)",Net Flows,12.3467
+"OPS, official creditors (DIS, current US$)",Disbursements,12.2854
+"GG, bilateral concessional (NFL, current US$)",Net Flows,12.0261
+"GG, commercial banks (AMT, current US$)",Principal Repayments,11.7851
+"PPG, bilateral concessional (NTR, current US$)",Net Transfers,11.6931
+"PS, bilateral concessional (NTR, current US$)",Net Transfers,11.6931
+"GG, bilateral concessional (NTR, current US$)",Net Transfers,11.4489
+"OPS, bilateral (TDS, current US$)",Debt Service,11.2841
+"GG, other private creditors (DOD, current US$)",Debt Stocks,11.1646
+"Net financial flows, others (NFL, current US$)",Net Flows,11.0736
+"PPG, IBRD (AMT, current US$)",Principal Repayments,10.6361
+"GG, bonds (NTR, current US$)",Net Transfers,10.4116
+"PPG, multilateral concessional (TDS, current US$)",Debt Service,10.3948
+"PS, multilateral concessional (TDS, current US$)",Debt Service,10.3592
+"OPS, bilateral concessional (DOD, current US$)",Debt Stocks,10.2877
+"GG, multilateral concessional (TDS, current US$)",Debt Service,10.1191
+"PPG, commercial banks (INT, current US$)",Interest Payments,9.964
+"PS, commercial banks (INT, current US$)",Interest Payments,9.8984
+"PPG, bilateral (INT, current US$)",Interest Payments,9.5181
+"PS, bilateral (INT, current US$)",Interest Payments,9.5141
+"OPS, bilateral (AMT, current US$)",Principal Repayments,9.4525
+"GG, commercial banks (NFL, current US$)",Net Flows,9.133
+"PPG, IDA (TDS, current US$)",Debt Service,9.131
+Debt stock reduction (current US$),Debt Relief,9.0653
+"OPS, multilateral (TDS, current US$)",Debt Service,8.5072
+"PPG, multilateral concessional (AMT, current US$)",Principal Repayments,8.4789
+"PS, multilateral concessional (AMT, current US$)",Principal Repayments,8.4442
+"GG, multilateral concessional (AMT, current US$)",Principal Repayments,8.2409
+"GG, commercial banks (NTR, current US$)",Net Transfers,7.8114
+"PPG, IDA (AMT, current US$)",Principal Repayments,7.1725
+"OPS, multilateral (AMT, current US$)",Principal Repayments,7.1387
+"OPS, commercial banks (INT, current US$)",Interest Payments,7.061
+"IMF credit and SDR allocations, charges (INT, current US$)",Interest Payments,6.9699
+"GG, bilateral (INT, current US$)",Interest Payments,6.766
+"OPS, multilateral (DIS, current US$)",Disbursements,6.6664
+"PPG, bilateral concessional (TDS, current US$)",Debt Service,6.558
+"PS, bilateral concessional (TDS, current US$)",Debt Service,6.558
+IDA grants (current US$),Disbursements,6.117
+"PPG, private creditors (NTR, current US$)",Net Transfers,5.9075
+"PS, private creditors (NTR, current US$)",Net Transfers,5.9075
+"GG, bilateral concessional (TDS, current US$)",Debt Service,5.6829
+"OPS, bilateral (DIS, current US$)",Disbursements,5.619
+"IFC, private nonguaranteed (NFL, current US$)",Net Flows,5.5863
+"PPG, bonds (NTR, current US$)",Net Transfers,5.4045
+"PS, bonds (NTR, current US$)",Net Transfers,5.4045
+"PPG, other private creditors (NFL, current US$)",Net Flows,5.1979
+"PS, other private creditors (NFL, current US$)",Net Flows,5.1979
+"PPG, bilateral concessional (AMT, current US$)",Principal Repayments,5.1561
+"PS, bilateral concessional (AMT, current US$)",Principal Repayments,5.1561
+Debt buyback (current US$),Debt Relief,5.0047
+"PNG, bonds (NFL, current US$)",Net Flows,4.9553
+"GG, bilateral concessional (AMT, current US$)",Principal Repayments,4.6394
+"OPS, other private creditors (NFL, current US$)",Net Flows,4.3974
+Total amount of debt rescheduled (current US$),Debt Rescheduling,4.1776
+"PPG, IBRD (INT, current US$)",Interest Payments,4.0311
+"PPG, other private creditors (INT, current US$)",Interest Payments,3.9494
+"PS, other private creditors (INT, current US$)",Interest Payments,3.9494
+Principal rescheduled (current US$),Debt Rescheduling,3.9126
+"IMF credit, charges (INT, current US$)",Interest Payments,3.8745
+"OPS, other private creditors (INT, current US$)",Interest Payments,3.5895
+"OPS, official creditors (INT, current US$)",Interest Payments,3.2001
+"IMF SDR allocations, charges (INT, current US$)",Interest Payments,3.0954
+"PNG, bonds (NTR, current US$)",Net Transfers,2.8822
+"GG, commercial banks (INT, current US$)",Interest Payments,2.5935
+"GG, other private creditors (TDS, current US$)",Debt Service,2.5578
+"Principal rescheduled, private (current US$)",Debt Rescheduling,2.5032
+"GG, other private creditors (AMT, current US$)",Principal Repayments,2.2024
+"OPS, official creditors (NFL, current US$)",Net Flows,1.9884
+"PPG, IDA (INT, current US$)",Interest Payments,1.9586
+"PPG, multilateral concessional (INT, current US$)",Interest Payments,1.9159
+"PS, multilateral concessional (INT, current US$)",Interest Payments,1.9149
+"GG, multilateral concessional (INT, current US$)",Interest Payments,1.8782
+"OPS, bilateral (INT, current US$)",Interest Payments,1.8316
+"OPS, multilateral (NFL, current US$)",Net Flows,1.6743
+"GG, other private creditors (DIS, current US$)",Disbursements,1.5674
+"PPG, other private creditors (NTR, current US$)",Net Transfers,1.5333
+"PS, other private creditors (NTR, current US$)",Net Transfers,1.5333
+"Net financial flows, RDB concessional (NFL, current US$)",Net Flows,1.4829
+"OPS, bilateral (NFL, current US$)",Net Flows,1.4219
+"Principal rescheduled, official (current US$)",Debt Rescheduling,1.4094
+"PPG, bilateral concessional (INT, current US$)",Interest Payments,1.4019
+"PS, bilateral concessional (INT, current US$)",Interest Payments,1.4019
+"OPS, multilateral (INT, current US$)",Interest Payments,1.3684
+"PRVG, commercial banks (DOD, current US$)",Debt Stocks,1.3548
+"PRVG, official creditors (DOD, current US$)",Debt Stocks,1.2252
+"OPS, multilateral (NTR, current US$)",Net Transfers,1.2179
+"OPS, multilateral concessional (DOD, current US$)",Debt Stocks,1.1113
+"GG, bilateral concessional (INT, current US$)",Interest Payments,1.0434
+"PRVG, multilateral (DOD, current US$)",Debt Stocks,1.0369
+"Debt service on external debt, private guaranteed by public sector (PPG) (TDS, current US$)",Debt Service,0.9479
+"OPS, official creditors (NTR, current US$)",Net Transfers,0.9245
+"OPS, other private creditors (NTR, current US$)",Net Transfers,0.9152
+"OPS, bilateral (NTR, current US$)",Net Transfers,0.8589
+"OPS, bilateral concessional (DIS, current US$)",Disbursements,0.8379
+Interest rescheduled (capitalized) (current US$),Debt Rescheduling,0.8358
+"GG, other private creditors (NFL, current US$)",Net Flows,0.7588
+"PRVG, private creditors (TDS, current US$)",Debt Service,0.7424
+"GG, other private creditors (NTR, current US$)",Net Transfers,0.5758
+"Interest payments on external debt, private guaranteed by public sector (PPG) (INT, current US$)",Interest Payments,0.5665
+"OPS, bilateral concessional (TDS, current US$)",Debt Service,0.5663
+"Net financial flows, IMF concessional (NFL, current US$)",Net Flows,0.5555
+"OPS, bilateral concessional (NFL, current US$)",Net Flows,0.5512
+"PRVG, private creditors (INT, current US$)",Interest Payments,0.5381
+"OPS, bilateral concessional (NTR, current US$)",Net Transfers,0.5192
+"OPS, bilateral concessional (AMT, current US$)",Principal Repayments,0.5001
+"PRVG, bonds (INT, current US$)",Interest Payments,0.4725
+"PRVG, bonds (TDS, current US$)",Debt Service,0.4725
+"Interest rescheduled, official (current US$)",Debt Rescheduling,0.4265
+"Interest rescheduled, private (current US$)",Debt Rescheduling,0.4093
+"Principal repayments on external debt, private guaranteed by public sector (PPG) (AMT, current US$)",Principal Repayments,0.3814
+"Disbursements on external debt, private guaranteed by public sector (PPG) (DIS, current US$)",Disbursements,0.3741
+"GG, other private creditors (INT, current US$)",Interest Payments,0.3555
+"PRVG, commercial banks (DIS, current US$)",Disbursements,0.2877
+"PRVG, private creditors (DIS, current US$)",Disbursements,0.2877
+"PRVG, commercial banks (TDS, current US$)",Debt Service,0.27
+"PRVG, official creditors (TDS, current US$)",Debt Service,0.2055
+"PRVG, commercial banks (AMT, current US$)",Principal Repayments,0.2043
+"PRVG, private creditors (AMT, current US$)",Principal Repayments,0.2043
+"PRVG, bilateral (DOD, current US$)",Debt Stocks,0.1883
+"PRVG, multilateral (TDS, current US$)",Debt Service,0.1861
+"PRVG, official creditors (AMT, current US$)",Principal Repayments,0.1771
+"PRVG, multilateral (AMT, current US$)",Principal Repayments,0.1617
+Principal forgiven (current US$),Debt Relief,0.1535
+"PRVG, multilateral concessional (DOD, current US$)",Debt Stocks,0.1224
+Debt forgiveness grants (current US$),Debt Relief,0.1099
+"PRVG, commercial banks (NFL, current US$)",Net Flows,0.1087
+"PRVG, private creditors (NFL, current US$)",Net Flows,0.1087
+"Net flows on external debt, private guaranteed by public sector (PPG) (NFL, current US$)",Net Flows,0.107
+"PRVG, official creditors (DIS, current US$)",Disbursements,0.0865
+"OPS, bilateral concessional (INT, current US$)",Interest Payments,0.0662
+"PRVG, bilateral (DIS, current US$)",Disbursements,0.066
+"PRVG, bilateral (NFL, current US$)",Net Flows,0.066
+"PRVG, bilateral (NTR, current US$)",Net Transfers,0.0659
+"PRVG, commercial banks (INT, current US$)",Interest Payments,0.0657
+"PRVG, commercial banks (NTR, current US$)",Net Transfers,0.0441
+"PRVG, private creditors (NTR, current US$)",Net Transfers,0.0441
+"OPS, multilateral concessional (TDS, current US$)",Debt Service,0.0439
+"PRVG, multilateral concessional (TDS, current US$)",Debt Service,0.0356
+"OPS, multilateral concessional (AMT, current US$)",Principal Repayments,0.0349
+"PRVG, multilateral concessional (AMT, current US$)",Principal Repayments,0.0346
+"Net transfers on external debt, private guaranteed by public sector (PPG) (NTR, current US$)",Net Transfers,0.0287
+"PRVG, official creditors (INT, current US$)",Interest Payments,0.0284
+"OPS, multilateral concessional (DIS, current US$)",Disbursements,0.0267
+"PRVG, multilateral (INT, current US$)",Interest Payments,0.0244
+"OPS, multilateral concessional (NFL, current US$)",Net Flows,0.0237
+"OPS, multilateral concessional (NTR, current US$)",Net Transfers,0.0208
+"PRVG, multilateral (DIS, current US$)",Disbursements,0.0205
+"PRVG, bilateral (TDS, current US$)",Debt Service,0.0194
+Interest forgiven (current US$),Debt Relief,0.0193
+"PRVG, bilateral (AMT, current US$)",Principal Repayments,0.0155
+"OPS, multilateral concessional (INT, current US$)",Interest Payments,0.009
+"PRVG, multilateral (NFL, current US$)",Net Flows,0.0056
+"PRVG, official creditors (NFL, current US$)",Net Flows,0.0056
+"PRVG, multilateral (NTR, current US$)",Net Transfers,0.0045
+"PRVG, official creditors (NTR, current US$)",Net Transfers,0.0045
+"PRVG, bilateral (INT, current US$)",Interest Payments,0.0039
+"PRVG, multilateral concessional (INT, current US$)",Interest Payments,0.001
+"PRVG, multilateral concessional (DIS, current US$)",Disbursements,0.0005
+"PRVG, multilateral concessional (NFL, current US$)",Net Flows,0.0005
+"PRVG, multilateral concessional (NTR, current US$)",Net Transfers,0.0005
+Total external debt per capita (US$),Debt Stocks,0.0003
+"PRVG, bilateral concessional (DOD, current US$)",Debt Stocks,0.0001
+"PRVG, bilateral concessional (AMT, current US$)",Principal Repayments,0.0
+"PRVG, bilateral concessional (TDS, current US$)",Debt Service,0.0

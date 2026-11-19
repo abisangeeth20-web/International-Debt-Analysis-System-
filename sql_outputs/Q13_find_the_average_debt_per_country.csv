@@ -1,0 +1,121 @@
+country_name,avg_debt_billion
+China,77.2563
+Mexico,23.1966
+India,21.2481
+Brazil,21.1234
+Indonesia,20.261
+Turkiye,13.7622
+Argentina,9.4438
+Kazakhstan,8.2821
+South Africa,7.851
+Colombia,7.7196
+Thailand,7.4337
+"Egypt, Arab Rep.",7.2589
+Ukraine,6.8573
+Pakistan,6.8152
+Viet Nam,6.2106
+Bangladesh,6.0216
+Philippines,5.3436
+Angola,4.022
+Nigeria,3.8208
+Peru,3.66
+Ecuador,3.0216
+Morocco,2.8369
+Uzbekistan,2.8013
+Mozambique,2.7582
+Belarus,2.6971
+Lebanon,2.6715
+Dominican Republic,2.6656
+Kenya,2.595
+Sri Lanka,2.5541
+Tanzania,2.1581
+Ghana,2.1114
+Serbia,2.0929
+Ethiopia,2.058
+Sudan,2.0016
+Iraq,1.9401
+Cote d'Ivoire,1.9311
+Jordan,1.7302
+Senegal,1.7284
+Cambodia,1.6883
+Tunisia,1.6281
+Mongolia,1.5248
+Zambia,1.388
+Guatemala,1.3448
+Paraguay,1.1895
+Papua New Guinea,1.1286
+El Salvador,1.0795
+Uganda,1.0755
+Georgia,1.0428
+Bolivia,1.0421
+Cameroon,1.0179
+Azerbaijan,0.9794
+"Yemen, Rep.",0.9517
+Lao PDR,0.9374
+Syrian Arab Republic,0.9303
+Myanmar,0.8869
+Jamaica,0.8765
+Nepal,0.8077
+Nicaragua,0.7999
+"Congo, Dem. Rep.",0.7712
+Honduras,0.7695
+Armenia,0.7427
+Benin,0.6485
+Rwanda,0.6322
+Kyrgyz Republic,0.6266
+Bosnia and Herzegovina,0.6165
+Burkina Faso,0.6164
+Niger,0.6127
+Mali,0.6019
+"Congo, Rep.",0.5817
+Mauritius,0.5796
+Zimbabwe,0.5743
+Gabon,0.4787
+North Macedonia,0.4708
+Turkmenistan,0.4574
+Mauritania,0.4572
+Albania,0.4268
+Moldova,0.4057
+Montenegro,0.3854
+Madagascar,0.384
+Afghanistan,0.3628
+Malawi,0.3489
+"Somalia, Fed. Rep.",0.3412
+Tajikistan,0.3321
+Chad,0.315
+Guinea,0.2982
+Fiji,0.2757
+Suriname,0.2733
+Maldives,0.2544
+Bhutan,0.2425
+Algeria,0.2408
+"Iran, Islamic Rep.",0.2163
+Haiti,0.2109
+Togo,0.2054
+Equatorial Guinea,0.1968
+Djibouti,0.1805
+Botswana,0.1791
+Liberia,0.1758
+Cabo Verde,0.1734
+Sierra Leone,0.1668
+Guyana,0.1649
+Kosovo,0.1395
+Guinea-Bissau,0.1188
+Lesotho,0.1128
+Eswatini,0.1118
+Eritrea,0.1017
+Belize,0.0996
+"Gambia, The",0.0827
+Burundi,0.0737
+St. Lucia,0.0695
+Grenada,0.0654
+St. Vincent and the Grenadines,0.0555
+Samoa,0.0501
+Vanuatu,0.0487
+Central African Republic,0.0474
+Timor-Leste,0.0418
+Comoros,0.0385
+Solomon Islands,0.0375
+Dominica,0.0371
+Sao Tome and Principe,0.0274
+Tonga,0.0272

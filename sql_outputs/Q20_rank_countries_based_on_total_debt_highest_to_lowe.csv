@@ -1,0 +1,121 @@
+debt_rank,country_name,total_debt_billion
+1,China,20163.8935
+2,Brazil,6843.9875
+3,Mexico,6587.839
+4,India,6246.9379
+5,Indonesia,5288.1188
+6,Turkiye,4376.3855
+7,Argentina,2568.7162
+8,Colombia,2385.3632
+9,"Egypt, Arab Rep.",2250.2459
+10,Ukraine,2064.0459
+11,South Africa,2002.0131
+12,Pakistan,1921.8769
+13,Kazakhstan,1838.6339
+14,Bangladesh,1613.7938
+15,Viet Nam,1596.1303
+16,Thailand,1546.2172
+17,Philippines,1538.961
+18,Nigeria,1138.6025
+19,Angola,1122.1509
+20,Peru,980.8915
+21,Morocco,856.7588
+22,Uzbekistan,848.8077
+23,Ecuador,779.5729
+24,Sri Lanka,730.4585
+25,Dominican Republic,698.3966
+26,Kenya,679.8918
+27,Serbia,617.4113
+28,Lebanon,609.1132
+29,Cote d'Ivoire,594.7929
+30,Mozambique,593.0131
+31,Ghana,586.9828
+32,Ethiopia,524.7879
+33,Tanzania,511.4732
+34,Senegal,492.596
+35,Belarus,480.0756
+36,Tunisia,463.999
+37,Jordan,461.963
+38,Iraq,388.0146
+39,Mongolia,368.993
+40,Zambia,346.9918
+41,Paraguay,333.0708
+42,Cambodia,320.7731
+43,Guatemala,317.3721
+44,Uganda,285.0127
+45,Bolivia,284.4945
+46,Georgia,275.3015
+47,El Salvador,275.276
+48,Cameroon,260.59
+49,Sudan,256.2021
+50,Papua New Guinea,250.5534
+51,Azerbaijan,230.1484
+52,Lao PDR,225.9163
+53,Myanmar,206.6559
+54,Honduras,188.5265
+55,Nepal,188.1981
+56,Nicaragua,187.1733
+57,Jamaica,173.5408
+58,Armenia,170.0772
+59,"Congo, Dem. Rep.",157.3269
+60,Benin,156.2861
+61,Rwanda,153.0017
+62,Mauritius,147.8006
+63,Burkina Faso,134.3693
+64,Bosnia and Herzegovina,133.174
+65,"Congo, Rep.",130.3021
+66,North Macedonia,126.1714
+67,Zimbabwe,125.7826
+68,Niger,121.3133
+69,Albania,115.6528
+70,Kyrgyz Republic,113.4232
+71,Mali,108.9387
+72,Moldova,106.2814
+73,Gabon,105.7834
+74,Madagascar,105.2153
+75,"Yemen, Rep.",98.9725
+76,Montenegro,92.503
+77,Turkmenistan,91.4713
+78,Guinea,77.2397
+79,Tajikistan,74.0654
+80,Maldives,72.2594
+81,Mauritania,69.9491
+82,Malawi,62.1001
+83,Syrian Arab Republic,56.7495
+84,Suriname,53.5654
+85,Bhutan,51.4049
+86,Fiji,49.3528
+87,Chad,46.9352
+88,Togo,46.2075
+89,Djibouti,40.4344
+90,"Iran, Islamic Rep.",39.791
+91,"Somalia, Fed. Rep.",39.2333
+92,Haiti,39.0184
+93,Guyana,37.756
+94,Cabo Verde,35.2069
+95,Kosovo,34.8833
+96,Algeria,34.6773
+97,Afghanistan,33.3778
+98,Botswana,32.2407
+99,Liberia,30.2318
+100,Sierra Leone,27.8503
+101,Lesotho,23.234
+102,Equatorial Guinea,23.2282
+103,Belize,22.2212
+104,Eswatini,21.584
+105,Guinea-Bissau,19.5997
+106,"Gambia, The",18.7672
+107,Grenada,14.323
+108,St. Lucia,13.5621
+109,St. Vincent and the Grenadines,12.2029
+110,Eritrea,11.5994
+111,Burundi,11.3488
+112,Central African Republic,9.5189
+113,Dominica,8.544
+114,Vanuatu,7.6886
+115,Timor-Leste,7.0592
+116,Comoros,6.9245
+117,Samoa,6.2574
+118,Solomon Islands,6.1925
+119,Sao Tome and Principe,4.0593
+120,Tonga,2.7467

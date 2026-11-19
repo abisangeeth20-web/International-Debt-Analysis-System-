@@ -1,0 +1,1284 @@
+indicator_name,country_name,debt_billion,country_rank
+"Commitments, IBRD (COM, current US$)",India,2.796,1
+"Commitments, IBRD (COM, current US$)",Indonesia,2.224,2
+"Commitments, IBRD (COM, current US$)",Ukraine,2.206,3
+"Commitments, IDA (COM, current US$)",Tanzania,2.685,1
+"Commitments, IDA (COM, current US$)",Nigeria,2.4,2
+"Commitments, IDA (COM, current US$)",Kenya,1.59,3
+"Commitments, bilateral creditors (COM, current US$)",India,5.6527,1
+"Commitments, bilateral creditors (COM, current US$)",Ukraine,3.7424,2
+"Commitments, bilateral creditors (COM, current US$)",Philippines,2.6734,3
+"Commitments, multilateral creditors (COM, current US$)",Ukraine,13.5228,1
+"Commitments, multilateral creditors (COM, current US$)",India,7.973,2
+"Commitments, multilateral creditors (COM, current US$)","Egypt, Arab Rep.",6.7995,3
+"Commitments, official creditors (COM, current US$)",Ukraine,17.2652,1
+"Commitments, official creditors (COM, current US$)",India,13.6257,2
+"Commitments, official creditors (COM, current US$)","Egypt, Arab Rep.",7.9321,3
+"Commitments, private creditors (COM, current US$)",China,96.0131,1
+"Commitments, private creditors (COM, current US$)",Brazil,31.8318,2
+"Commitments, private creditors (COM, current US$)",Mexico,23.8779,3
+"Commitments, public and publicly guaranteed (COM, current US$)",China,98.4743,1
+"Commitments, public and publicly guaranteed (COM, current US$)",Brazil,33.3804,2
+"Commitments, public and publicly guaranteed (COM, current US$)",Mexico,25.7403,3
+Debt buyback (current US$),Mexico,5.0047,1
+Debt forgiveness grants (current US$),Mozambique,0.0435,1
+Debt forgiveness grants (current US$),Sudan,0.0234,2
+Debt forgiveness grants (current US$),Angola,0.0197,3
+"Debt service on external debt, general government sector (PPG) (TDS, current US$)",China,57.4071,1
+"Debt service on external debt, general government sector (PPG) (TDS, current US$)",Indonesia,34.711,2
+"Debt service on external debt, general government sector (PPG) (TDS, current US$)",Turkiye,13.3916,3
+"Debt service on external debt, long-term (TDS, current US$)",China,395.0,1
+"Debt service on external debt, long-term (TDS, current US$)",Brazil,124.0,2
+"Debt service on external debt, long-term (TDS, current US$)",Indonesia,73.0768,3
+"Debt service on external debt, other public sector (PPG) (TDS, current US$)",China,38.3493,1
+"Debt service on external debt, other public sector (PPG) (TDS, current US$)",Brazil,23.9379,2
+"Debt service on external debt, other public sector (PPG) (TDS, current US$)",Mexico,13.0796,3
+"Debt service on external debt, private guaranteed by public sector (PPG) (TDS, current US$)",China,0.4724,1
+"Debt service on external debt, private guaranteed by public sector (PPG) (TDS, current US$)",Brazil,0.334,2
+"Debt service on external debt, private guaranteed by public sector (PPG) (TDS, current US$)",Turkiye,0.0348,3
+"Debt service on external debt, private nonguaranteed (PNG) (TDS, current US$)",China,299.0,1
+"Debt service on external debt, private nonguaranteed (PNG) (TDS, current US$)",Brazil,93.1055,2
+"Debt service on external debt, private nonguaranteed (PNG) (TDS, current US$)",India,44.8496,3
+"Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)",China,96.2287,1
+"Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)",Indonesia,39.6037,2
+"Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)",Brazil,30.8453,3
+"Debt service on external debt, public sector (PPG) (TDS, current US$)",China,95.7564,1
+"Debt service on external debt, public sector (PPG) (TDS, current US$)",Indonesia,39.6037,2
+"Debt service on external debt, public sector (PPG) (TDS, current US$)",Brazil,30.5113,3
+"Debt service on external debt, total (TDS, current US$)",China,452.0,1
+"Debt service on external debt, total (TDS, current US$)",Brazil,126.0,2
+"Debt service on external debt, total (TDS, current US$)",Indonesia,75.408,3
+Debt stock reduction (current US$),Mexico,8.7058,1
+Debt stock reduction (current US$),Pakistan,0.3456,2
+Debt stock reduction (current US$),Peru,0.0084,3
+Debt stock rescheduled (current US$),Brazil,12.5642,1
+Debt stock rescheduled (current US$),Mauritania,0.3,2
+Debt stock rescheduled (current US$),Sao Tome and Principe,0.0696,3
+"Disbursements on external debt, general government sector (PPG) (DIS, current US$)",Mexico,18.4247,1
+"Disbursements on external debt, general government sector (PPG) (DIS, current US$)",Ukraine,18.2933,2
+"Disbursements on external debt, general government sector (PPG) (DIS, current US$)",Indonesia,17.2243,3
+"Disbursements on external debt, long-term (DIS, current US$)",China,273.0,1
+"Disbursements on external debt, long-term (DIS, current US$)",Brazil,134.0,2
+"Disbursements on external debt, long-term (DIS, current US$)",Indonesia,52.9497,3
+"Disbursements on external debt, long-term + IMF (DIS, current US$)",China,273.0,1
+"Disbursements on external debt, long-term + IMF (DIS, current US$)",Brazil,134.0,2
+"Disbursements on external debt, long-term + IMF (DIS, current US$)",Indonesia,52.9497,3
+"Disbursements on external debt, other public sector (PPG) (DIS, current US$)",China,63.4034,1
+"Disbursements on external debt, other public sector (PPG) (DIS, current US$)",Brazil,18.9553,2
+"Disbursements on external debt, other public sector (PPG) (DIS, current US$)",India,7.4945,3
+"Disbursements on external debt, private guaranteed by public sector (PPG) (DIS, current US$)",Brazil,0.3583,1
+"Disbursements on external debt, private guaranteed by public sector (PPG) (DIS, current US$)",Tunisia,0.009,2
+"Disbursements on external debt, private guaranteed by public sector (PPG) (DIS, current US$)",Paraguay,0.004,3
+"Disbursements on external debt, private nonguaranteed (PNG) (DIS, current US$)",China,207.0,1
+"Disbursements on external debt, private nonguaranteed (PNG) (DIS, current US$)",Brazil,110.0,2
+"Disbursements on external debt, private nonguaranteed (PNG) (DIS, current US$)",Indonesia,34.8692,3
+"Disbursements on external debt, public and publicly guaranteed (PPG) (DIS, current US$)",China,65.693,1
+"Disbursements on external debt, public and publicly guaranteed (PPG) (DIS, current US$)",Mexico,24.2591,2
+"Disbursements on external debt, public and publicly guaranteed (PPG) (DIS, current US$)",Brazil,23.6541,3
+"Disbursements on external debt, public sector (PPG) (DIS, current US$)",China,65.693,1
+"Disbursements on external debt, public sector (PPG) (DIS, current US$)",Mexico,24.2591,2
+"Disbursements on external debt, public sector (PPG) (DIS, current US$)",Brazil,23.2958,3
+"External debt stocks, concessional (DOD, current US$)",India,41.0913,1
+"External debt stocks, concessional (DOD, current US$)",Bangladesh,32.1325,2
+"External debt stocks, concessional (DOD, current US$)",Viet Nam,23.6292,3
+"External debt stocks, general government sector (PPG) (DOD, current US$)",China,266.0,1
+"External debt stocks, general government sector (PPG) (DOD, current US$)",Mexico,192.0,2
+"External debt stocks, general government sector (PPG) (DOD, current US$)",Indonesia,186.0,3
+"External debt stocks, long-term (DOD, current US$)",China,1220.0,1
+"External debt stocks, long-term (DOD, current US$)",Mexico,516.0,2
+"External debt stocks, long-term (DOD, current US$)",Brazil,494.0,3
+"External debt stocks, long-term private sector (DOD, current US$)",China,696.0,1
+"External debt stocks, long-term private sector (DOD, current US$)",Brazil,305.0,2
+"External debt stocks, long-term private sector (DOD, current US$)",India,260.0,3
+"External debt stocks, long-term public sector (DOD, current US$)",China,521.0,1
+"External debt stocks, long-term public sector (DOD, current US$)",Mexico,289.0,2
+"External debt stocks, long-term public sector (DOD, current US$)",Indonesia,226.0,3
+"External debt stocks, other public sector (PPG) (DOD, current US$)",China,255.0,1
+"External debt stocks, other public sector (PPG) (DOD, current US$)",Brazil,112.0,2
+"External debt stocks, other public sector (PPG) (DOD, current US$)",Mexico,96.7505,3
+"External debt stocks, private guaranteed by public sector (PPG) (DOD, current US$)",China,17.1277,1
+"External debt stocks, private guaranteed by public sector (PPG) (DOD, current US$)",Brazil,1.8631,2
+"External debt stocks, private guaranteed by public sector (PPG) (DOD, current US$)",Mexico,0.19,3
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",China,679.0,1
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",Brazil,303.0,2
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",India,260.0,3
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",China,538.0,1
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",Mexico,289.0,2
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",Indonesia,226.0,3
+"External debt stocks, public sector (PPG) (DOD, current US$)",China,521.0,1
+"External debt stocks, public sector (PPG) (DOD, current US$)",Mexico,289.0,2
+"External debt stocks, public sector (PPG) (DOD, current US$)",Indonesia,226.0,3
+"External debt stocks, short-term (DOD, current US$)",China,1270.0,1
+"External debt stocks, short-term (DOD, current US$)",Turkiye,148.0,2
+"External debt stocks, short-term (DOD, current US$)",India,128.0,3
+"External debt stocks, total (DOD, current US$)",China,2530.0,1
+"External debt stocks, total (DOD, current US$)",India,616.0,2
+"External debt stocks, total (DOD, current US$)",Mexico,586.0,3
+"External debt stocks, variable rate (DOD, current US$)",China,770.0,1
+"External debt stocks, variable rate (DOD, current US$)",India,392.0,2
+"External debt stocks, variable rate (DOD, current US$)",Mexico,352.0,3
+"External debt stocks, variable rate public and publicly guaranteed debt (PPG) (DOD, current US$)",India,131.0,1
+"External debt stocks, variable rate public and publicly guaranteed debt (PPG) (DOD, current US$)",Mexico,126.0,2
+"External debt stocks, variable rate public and publicly guaranteed debt (PPG) (DOD, current US$)",China,91.5482,3
+"GG, bilateral (AMT, current US$)",Pakistan,4.9754,1
+"GG, bilateral (AMT, current US$)",Indonesia,2.2129,2
+"GG, bilateral (AMT, current US$)",Belarus,2.0627,3
+"GG, bilateral (DIS, current US$)",Bangladesh,5.5641,1
+"GG, bilateral (DIS, current US$)",India,4.3804,2
+"GG, bilateral (DIS, current US$)",Pakistan,4.2611,3
+"GG, bilateral (DOD, current US$)",Pakistan,32.2812,1
+"GG, bilateral (DOD, current US$)",India,27.7288,2
+"GG, bilateral (DOD, current US$)",Bangladesh,24.6352,3
+"GG, bilateral (INT, current US$)",Pakistan,0.9184,1
+"GG, bilateral (INT, current US$)",Ecuador,0.5871,2
+"GG, bilateral (INT, current US$)",Belarus,0.4903,3
+"GG, bilateral (NFL, current US$)",Bangladesh,5.2854,1
+"GG, bilateral (NFL, current US$)",Ukraine,3.7415,2
+"GG, bilateral (NFL, current US$)",India,3.2183,3
+"GG, bilateral (NTR, current US$)",Bangladesh,5.1174,1
+"GG, bilateral (NTR, current US$)",Ukraine,3.7308,2
+"GG, bilateral (NTR, current US$)",India,2.8903,3
+"GG, bilateral (TDS, current US$)",Pakistan,5.8938,1
+"GG, bilateral (TDS, current US$)",Belarus,2.553,2
+"GG, bilateral (TDS, current US$)",Indonesia,2.4747,3
+"GG, bilateral concessional (AMT, current US$)",India,0.6864,1
+"GG, bilateral concessional (AMT, current US$)",Viet Nam,0.5086,2
+"GG, bilateral concessional (AMT, current US$)",Indonesia,0.4941,3
+"GG, bilateral concessional (DIS, current US$)",India,3.8106,1
+"GG, bilateral concessional (DIS, current US$)",Bangladesh,2.924,2
+"GG, bilateral concessional (DIS, current US$)",Philippines,1.4413,3
+"GG, bilateral concessional (DOD, current US$)",India,21.8347,1
+"GG, bilateral concessional (DOD, current US$)",Viet Nam,12.52,2
+"GG, bilateral concessional (DOD, current US$)",Bangladesh,12.2537,3
+"GG, bilateral concessional (INT, current US$)",India,0.2485,1
+"GG, bilateral concessional (INT, current US$)",Pakistan,0.1114,2
+"GG, bilateral concessional (INT, current US$)",Viet Nam,0.1072,3
+"GG, bilateral concessional (NFL, current US$)",India,3.1243,1
+"GG, bilateral concessional (NFL, current US$)",Bangladesh,2.7769,2
+"GG, bilateral concessional (NFL, current US$)",Philippines,1.2799,3
+"GG, bilateral concessional (NTR, current US$)",India,2.8757,1
+"GG, bilateral concessional (NTR, current US$)",Bangladesh,2.726,2
+"GG, bilateral concessional (NTR, current US$)",Philippines,1.2479,3
+"GG, bilateral concessional (TDS, current US$)",India,0.9349,1
+"GG, bilateral concessional (TDS, current US$)",Viet Nam,0.6158,2
+"GG, bilateral concessional (TDS, current US$)",Pakistan,0.5725,3
+"GG, bonds (AMT, current US$)",China,42.0,1
+"GG, bonds (AMT, current US$)",Indonesia,22.754,2
+"GG, bonds (AMT, current US$)",Turkiye,6.1885,3
+"GG, bonds (DIS, current US$)",Mexico,16.2925,1
+"GG, bonds (DIS, current US$)",Turkiye,11.3765,2
+"GG, bonds (DIS, current US$)",Indonesia,8.9121,3
+"GG, bonds (DOD, current US$)",China,224.0,1
+"GG, bonds (DOD, current US$)",Mexico,161.0,2
+"GG, bonds (DOD, current US$)",Indonesia,128.0,3
+"GG, bonds (INT, current US$)",China,11.6345,1
+"GG, bonds (INT, current US$)",Indonesia,5.6586,2
+"GG, bonds (INT, current US$)",Mexico,5.5422,3
+"GG, bonds (NFL, current US$)",Mexico,12.1998,1
+"GG, bonds (NFL, current US$)",Turkiye,5.188,2
+"GG, bonds (NFL, current US$)",Philippines,3.4236,3
+"GG, bonds (NTR, current US$)",Mexico,6.6577,1
+"GG, bonds (NTR, current US$)",Philippines,1.7752,2
+"GG, bonds (NTR, current US$)",Dominican Republic,1.1068,3
+"GG, bonds (TDS, current US$)",China,53.6345,1
+"GG, bonds (TDS, current US$)",Indonesia,28.4126,2
+"GG, bonds (TDS, current US$)",Turkiye,11.1776,3
+"GG, commercial banks (AMT, current US$)",Pakistan,3.2594,1
+"GG, commercial banks (AMT, current US$)",Angola,1.8953,2
+"GG, commercial banks (AMT, current US$)",Brazil,0.8193,3
+"GG, commercial banks (DIS, current US$)",Cote d'Ivoire,2.668,1
+"GG, commercial banks (DIS, current US$)",Angola,2.3655,2
+"GG, commercial banks (DIS, current US$)",Indonesia,1.7083,3
+"GG, commercial banks (DOD, current US$)",Angola,14.2339,1
+"GG, commercial banks (DOD, current US$)","Egypt, Arab Rep.",6.569,2
+"GG, commercial banks (DOD, current US$)",Cote d'Ivoire,5.3817,3
+"GG, commercial banks (INT, current US$)",Angola,0.6781,1
+"GG, commercial banks (INT, current US$)",Tanzania,0.205,2
+"GG, commercial banks (INT, current US$)","Egypt, Arab Rep.",0.202,3
+"GG, commercial banks (NFL, current US$)",Cote d'Ivoire,2.2772,1
+"GG, commercial banks (NFL, current US$)",Indonesia,1.072,2
+"GG, commercial banks (NFL, current US$)","Egypt, Arab Rep.",0.989,3
+"GG, commercial banks (NTR, current US$)",Cote d'Ivoire,2.166,1
+"GG, commercial banks (NTR, current US$)",Indonesia,1.0186,2
+"GG, commercial banks (NTR, current US$)","Egypt, Arab Rep.",0.787,3
+"GG, commercial banks (TDS, current US$)",Pakistan,3.4306,1
+"GG, commercial banks (TDS, current US$)",Angola,2.5735,2
+"GG, commercial banks (TDS, current US$)",Brazil,0.9914,3
+"GG, multilateral (AMT, current US$)",India,4.0945,1
+"GG, multilateral (AMT, current US$)",Indonesia,2.658,2
+"GG, multilateral (AMT, current US$)",China,2.6579,3
+"GG, multilateral (DIS, current US$)",Ukraine,13.7892,1
+"GG, multilateral (DIS, current US$)",India,7.4842,2
+"GG, multilateral (DIS, current US$)",Indonesia,5.1013,3
+"GG, multilateral (DOD, current US$)",India,67.5896,1
+"GG, multilateral (DOD, current US$)",Pakistan,36.1623,2
+"GG, multilateral (DOD, current US$)",Indonesia,35.7423,3
+"GG, multilateral (INT, current US$)",India,0.9919,1
+"GG, multilateral (INT, current US$)",Colombia,0.7392,2
+"GG, multilateral (INT, current US$)",Argentina,0.6985,3
+"GG, multilateral (NFL, current US$)",Ukraine,13.1075,1
+"GG, multilateral (NFL, current US$)",India,3.3896,2
+"GG, multilateral (NFL, current US$)",Uzbekistan,3.03,3
+"GG, multilateral (NTR, current US$)",Ukraine,12.9625,1
+"GG, multilateral (NTR, current US$)",Uzbekistan,2.8294,2
+"GG, multilateral (NTR, current US$)",Bangladesh,2.5565,3
+"GG, multilateral (TDS, current US$)",India,5.0865,1
+"GG, multilateral (TDS, current US$)",China,3.2683,2
+"GG, multilateral (TDS, current US$)",Indonesia,3.1101,3
+"GG, multilateral concessional (AMT, current US$)",India,1.525,1
+"GG, multilateral concessional (AMT, current US$)",Bangladesh,0.7975,2
+"GG, multilateral concessional (AMT, current US$)",Pakistan,0.6912,3
+"GG, multilateral concessional (DIS, current US$)",Ukraine,4.8512,1
+"GG, multilateral concessional (DIS, current US$)",Tanzania,1.1879,2
+"GG, multilateral concessional (DIS, current US$)",Bangladesh,0.8046,3
+"GG, multilateral concessional (DOD, current US$)",Bangladesh,19.6501,1
+"GG, multilateral concessional (DOD, current US$)",India,17.0527,2
+"GG, multilateral concessional (DOD, current US$)",Ethiopia,13.6038,3
+"GG, multilateral concessional (INT, current US$)",India,0.1884,1
+"GG, multilateral concessional (INT, current US$)",Bangladesh,0.1752,2
+"GG, multilateral concessional (INT, current US$)",Ethiopia,0.0995,3
+"GG, multilateral concessional (NFL, current US$)",Ukraine,4.8512,1
+"GG, multilateral concessional (NFL, current US$)",Tanzania,1.0151,2
+"GG, multilateral concessional (NFL, current US$)",Colombia,0.5971,3
+"GG, multilateral concessional (NTR, current US$)",Ukraine,4.8346,1
+"GG, multilateral concessional (NTR, current US$)",Tanzania,0.9324,2
+"GG, multilateral concessional (NTR, current US$)",Colombia,0.5816,3
+"GG, multilateral concessional (TDS, current US$)",India,1.7134,1
+"GG, multilateral concessional (TDS, current US$)",Bangladesh,0.9728,2
+"GG, multilateral concessional (TDS, current US$)",Pakistan,0.7882,3
+"GG, official creditors (AMT, current US$)",Pakistan,6.5869,1
+"GG, official creditors (AMT, current US$)",India,5.2566,2
+"GG, official creditors (AMT, current US$)",Indonesia,4.8709,3
+"GG, official creditors (DIS, current US$)",Ukraine,17.5725,1
+"GG, official creditors (DIS, current US$)",India,11.8646,2
+"GG, official creditors (DIS, current US$)",Bangladesh,9.7248,3
+"GG, official creditors (DOD, current US$)",India,95.3184,1
+"GG, official creditors (DOD, current US$)",Pakistan,68.4435,2
+"GG, official creditors (DOD, current US$)",Bangladesh,59.2243,3
+"GG, official creditors (INT, current US$)",Pakistan,1.4594,1
+"GG, official creditors (INT, current US$)",India,1.3199,2
+"GG, official creditors (INT, current US$)",Ecuador,0.9947,3
+"GG, official creditors (NFL, current US$)",Ukraine,16.8489,1
+"GG, official creditors (NFL, current US$)",Bangladesh,8.2226,2
+"GG, official creditors (NFL, current US$)",India,6.6079,3
+"GG, official creditors (NTR, current US$)",Ukraine,16.6933,1
+"GG, official creditors (NTR, current US$)",Bangladesh,7.6739,2
+"GG, official creditors (NTR, current US$)",India,5.288,3
+"GG, official creditors (TDS, current US$)",Pakistan,8.0463,1
+"GG, official creditors (TDS, current US$)",India,6.5766,2
+"GG, official creditors (TDS, current US$)",Indonesia,5.5848,3
+"GG, other private creditors (AMT, current US$)","Congo, Rep.",0.7859,1
+"GG, other private creditors (AMT, current US$)",Angola,0.7141,2
+"GG, other private creditors (AMT, current US$)",Chad,0.3006,3
+"GG, other private creditors (DIS, current US$)",Angola,1.4015,1
+"GG, other private creditors (DIS, current US$)",Indonesia,0.0738,2
+"GG, other private creditors (DIS, current US$)","Congo, Rep.",0.0365,3
+"GG, other private creditors (DOD, current US$)",Angola,3.0067,1
+"GG, other private creditors (DOD, current US$)",Sudan,2.549,2
+"GG, other private creditors (DOD, current US$)","Congo, Rep.",2.4593,3
+"GG, other private creditors (INT, current US$)",Angola,0.1794,1
+"GG, other private creditors (INT, current US$)",Iraq,0.0565,2
+"GG, other private creditors (INT, current US$)","Congo, Rep.",0.0518,3
+"GG, other private creditors (NFL, current US$)",Angola,0.6874,1
+"GG, other private creditors (NFL, current US$)",Indonesia,0.0527,2
+"GG, other private creditors (NFL, current US$)",Brazil,0.0152,3
+"GG, other private creditors (NTR, current US$)",Angola,0.5079,1
+"GG, other private creditors (NTR, current US$)",Indonesia,0.0498,2
+"GG, other private creditors (NTR, current US$)",Brazil,0.0147,3
+"GG, other private creditors (TDS, current US$)",Angola,0.8936,1
+"GG, other private creditors (TDS, current US$)","Congo, Rep.",0.8377,2
+"GG, other private creditors (TDS, current US$)",Chad,0.3403,3
+"GG, private creditors (AMT, current US$)",China,42.2201,1
+"GG, private creditors (AMT, current US$)",Indonesia,23.4114,2
+"GG, private creditors (AMT, current US$)",Turkiye,6.5876,3
+"GG, private creditors (DIS, current US$)",Mexico,16.7929,1
+"GG, private creditors (DIS, current US$)",Turkiye,12.3076,2
+"GG, private creditors (DIS, current US$)",Indonesia,10.6942,3
+"GG, private creditors (DOD, current US$)",China,225.0,1
+"GG, private creditors (DOD, current US$)",Mexico,162.0,2
+"GG, private creditors (DOD, current US$)",Indonesia,132.0,3
+"GG, private creditors (INT, current US$)",China,11.6866,1
+"GG, private creditors (INT, current US$)",Indonesia,5.7149,2
+"GG, private creditors (INT, current US$)",Mexico,5.5536,3
+"GG, private creditors (NFL, current US$)",Mexico,12.5245,1
+"GG, private creditors (NFL, current US$)",Turkiye,5.72,2
+"GG, private creditors (NFL, current US$)",Philippines,3.3774,3
+"GG, private creditors (NTR, current US$)",Mexico,6.9709,1
+"GG, private creditors (NTR, current US$)",Cote d'Ivoire,1.7802,2
+"GG, private creditors (NTR, current US$)",Philippines,1.7267,3
+"GG, private creditors (TDS, current US$)",China,53.9067,1
+"GG, private creditors (TDS, current US$)",Indonesia,29.1262,2
+"GG, private creditors (TDS, current US$)",Turkiye,11.6755,3
+IDA grants (current US$),Ethiopia,0.8222,1
+IDA grants (current US$),Mozambique,0.8124,2
+IDA grants (current US$),"Congo, Dem. Rep.",0.6394,3
+"IFC, private nonguaranteed (NFL, current US$)",Brazil,1.4079,1
+"IFC, private nonguaranteed (NFL, current US$)",Colombia,0.5604,2
+"IFC, private nonguaranteed (NFL, current US$)",Thailand,0.4393,3
+"IMF SDR allocations (DOD, current US$)",China,48.1847,1
+"IMF SDR allocations (DOD, current US$)",India,22.0226,2
+"IMF SDR allocations (DOD, current US$)",Brazil,17.9269,3
+"IMF SDR allocations, charges (INT, current US$)",China,0.6378,1
+"IMF SDR allocations, charges (INT, current US$)",India,0.2915,2
+"IMF SDR allocations, charges (INT, current US$)",Brazil,0.2373,3
+"IMF credit and SDR allocations, charges (INT, current US$)",Argentina,1.8214,1
+"IMF credit and SDR allocations, charges (INT, current US$)","Egypt, Arab Rep.",0.7465,2
+"IMF credit and SDR allocations, charges (INT, current US$)",China,0.6378,3
+"IMF credit, charges (INT, current US$)",Argentina,1.732,1
+"IMF credit, charges (INT, current US$)","Egypt, Arab Rep.",0.6963,2
+"IMF credit, charges (INT, current US$)",Ukraine,0.3108,3
+"IMF purchases (DIS, current US$)",Argentina,23.4194,1
+"IMF purchases (DIS, current US$)",Ukraine,2.6923,2
+"IMF purchases (DIS, current US$)",Pakistan,2.2001,3
+"IMF repurchases (AMT, current US$)",Argentina,16.7875,1
+"IMF repurchases (AMT, current US$)",Ukraine,2.0471,2
+"IMF repurchases (AMT, current US$)","Egypt, Arab Rep.",1.1185,3
+"IMF repurchases and charges (TDS, current US$)",Argentina,18.6089,1
+"IMF repurchases and charges (TDS, current US$)",Ukraine,2.415,2
+"IMF repurchases and charges (TDS, current US$)","Egypt, Arab Rep.",1.865,3
+"Interest arrears, long-term DOD",Ukraine,8.1194,1
+"Interest arrears, long-term DOD",Lebanon,6.1194,2
+"Interest arrears, long-term DOD",Sudan,4.6141,3
+"Interest arrears, official creditors (current US$)",Sudan,4.259,1
+"Interest arrears, official creditors (current US$)",Zimbabwe,1.5896,2
+"Interest arrears, official creditors (current US$)",Tanzania,1.318,3
+"Interest arrears, private creditors (current US$)",Ukraine,8.099,1
+"Interest arrears, private creditors (current US$)",Lebanon,6.1152,2
+"Interest arrears, private creditors (current US$)",Papua New Guinea,2.9244,3
+Interest forgiven (current US$),Ghana,0.0092,1
+Interest forgiven (current US$),Ecuador,0.0047,2
+Interest forgiven (current US$),"Congo, Dem. Rep.",0.0019,3
+"Interest payments on external debt, general government sector (PPG) (INT, current US$)",China,12.3559,1
+"Interest payments on external debt, general government sector (PPG) (INT, current US$)",Indonesia,6.4288,2
+"Interest payments on external debt, general government sector (PPG) (INT, current US$)",Mexico,6.1433,3
+"Interest payments on external debt, long-term (INT, current US$)",China,47.2964,1
+"Interest payments on external debt, long-term (INT, current US$)",Mexico,18.2154,2
+"Interest payments on external debt, long-term (INT, current US$)",Brazil,17.7881,3
+"Interest payments on external debt, other public sector (PPG) (INT, current US$)",China,8.2814,1
+"Interest payments on external debt, other public sector (PPG) (INT, current US$)",Mexico,5.3602,2
+"Interest payments on external debt, other public sector (PPG) (INT, current US$)",Brazil,4.74,3
+"Interest payments on external debt, private guaranteed by public sector (PPG) (INT, current US$)",China,0.4724,1
+"Interest payments on external debt, private guaranteed by public sector (PPG) (INT, current US$)",Brazil,0.0772,2
+"Interest payments on external debt, private guaranteed by public sector (PPG) (INT, current US$)",Mexico,0.0053,3
+"Interest payments on external debt, private nonguaranteed (PNG) (INT, current US$)",China,26.1868,1
+"Interest payments on external debt, private nonguaranteed (PNG) (INT, current US$)",India,11.8315,2
+"Interest payments on external debt, private nonguaranteed (PNG) (INT, current US$)",Brazil,9.8027,3
+"Interest payments on external debt, public and publicly guaranteed (PPG) (INT, current US$)",China,21.1096,1
+"Interest payments on external debt, public and publicly guaranteed (PPG) (INT, current US$)",Mexico,11.5087,2
+"Interest payments on external debt, public and publicly guaranteed (PPG) (INT, current US$)",Indonesia,8.4325,3
+"Interest payments on external debt, public sector (PPG) (INT, current US$)",China,20.6372,1
+"Interest payments on external debt, public sector (PPG) (INT, current US$)",Mexico,11.5034,2
+"Interest payments on external debt, public sector (PPG) (INT, current US$)",Indonesia,8.4325,3
+"Interest payments on external debt, short-term (INT, current US$)",China,56.3302,1
+"Interest payments on external debt, short-term (INT, current US$)",Turkiye,5.9863,2
+"Interest payments on external debt, short-term (INT, current US$)",Thailand,3.2135,3
+"Interest payments on external debt, total (INT, current US$)",China,104.0,1
+"Interest payments on external debt, total (INT, current US$)",Mexico,21.004,2
+"Interest payments on external debt, total (INT, current US$)",Brazil,19.5852,3
+"Interest payments on variable rate external debt, long-term (INT, current US$)",China,27.9524,1
+"Interest payments on variable rate external debt, long-term (INT, current US$)",India,13.4046,2
+"Interest payments on variable rate external debt, long-term (INT, current US$)",Brazil,11.0802,3
+"Interest payments on variable rate external debt, public and publicly guaranteed (PPG) (INT, current US$)",Mexico,3.2119,1
+"Interest payments on variable rate external debt, public and publicly guaranteed (PPG) (INT, current US$)",China,1.7655,2
+"Interest payments on variable rate external debt, public and publicly guaranteed (PPG) (INT, current US$)",Angola,1.5833,3
+Interest rescheduled (capitalized) (current US$),Argentina,0.4815,1
+Interest rescheduled (capitalized) (current US$),Ukraine,0.2045,2
+Interest rescheduled (capitalized) (current US$),"Congo, Rep.",0.0559,3
+"Interest rescheduled, official (current US$)",Argentina,0.3193,1
+"Interest rescheduled, official (current US$)","Somalia, Fed. Rep.",0.0389,2
+"Interest rescheduled, official (current US$)",Angola,0.0183,3
+"Interest rescheduled, private (current US$)",Ukraine,0.2045,1
+"Interest rescheduled, private (current US$)",Argentina,0.1621,2
+"Interest rescheduled, private (current US$)","Congo, Rep.",0.0403,3
+"Multilateral debt service (TDS, current US$)",India,5.4025,1
+"Multilateral debt service (TDS, current US$)","Egypt, Arab Rep.",4.2833,2
+"Multilateral debt service (TDS, current US$)",Brazil,3.6473,3
+"Net financial flows, IBRD (NFL, current US$)",Colombia,1.8195,1
+"Net financial flows, IBRD (NFL, current US$)",Ukraine,1.5976,2
+"Net financial flows, IBRD (NFL, current US$)",Ecuador,1.4557,3
+"Net financial flows, IDA (NFL, current US$)",Nigeria,2.2279,1
+"Net financial flows, IDA (NFL, current US$)",Tanzania,1.3448,2
+"Net financial flows, IDA (NFL, current US$)",Bangladesh,1.2778,3
+"Net financial flows, IMF concessional (NFL, current US$)",Senegal,0.1299,1
+"Net financial flows, IMF concessional (NFL, current US$)",Chad,0.1273,2
+"Net financial flows, IMF concessional (NFL, current US$)",Mozambique,0.1267,3
+"Net financial flows, IMF nonconcessional (NFL, current US$)",Argentina,6.6319,1
+"Net financial flows, IMF nonconcessional (NFL, current US$)",Ecuador,1.6153,2
+"Net financial flows, IMF nonconcessional (NFL, current US$)",Pakistan,1.2203,3
+"Net financial flows, RDB concessional (NFL, current US$)",Uzbekistan,0.2175,1
+"Net financial flows, RDB concessional (NFL, current US$)",Pakistan,0.215,2
+"Net financial flows, RDB concessional (NFL, current US$)",Cambodia,0.1721,3
+"Net financial flows, RDB nonconcessional (NFL, current US$)",India,2.5501,1
+"Net financial flows, RDB nonconcessional (NFL, current US$)",Philippines,1.6232,2
+"Net financial flows, RDB nonconcessional (NFL, current US$)",Argentina,1.534,3
+"Net financial flows, bilateral (NFL, current US$)",Bangladesh,5.3231,1
+"Net financial flows, bilateral (NFL, current US$)",Ukraine,3.6665,2
+"Net financial flows, bilateral (NFL, current US$)",India,3.3131,3
+"Net financial flows, multilateral (NFL, current US$)",Ukraine,13.2685,1
+"Net financial flows, multilateral (NFL, current US$)",India,3.3843,2
+"Net financial flows, multilateral (NFL, current US$)",Uzbekistan,3.0144,3
+"Net financial flows, others (NFL, current US$)",Ukraine,2.9972,1
+"Net financial flows, others (NFL, current US$)","Egypt, Arab Rep.",1.2483,2
+"Net financial flows, others (NFL, current US$)",Ghana,0.7894,3
+"Net flows on external debt, general government sector (PPG) (NFL, current US$)",Ukraine,17.2843,1
+"Net flows on external debt, general government sector (PPG) (NFL, current US$)",Mexico,13.1396,2
+"Net flows on external debt, general government sector (PPG) (NFL, current US$)",Bangladesh,8.2192,3
+"Net flows on external debt, long-term (NFL, current US$)",Brazil,27.8016,1
+"Net flows on external debt, long-term (NFL, current US$)",Ukraine,15.0506,2
+"Net flows on external debt, long-term (NFL, current US$)",Colombia,10.2865,3
+"Net flows on external debt, other public sector (PPG) (NFL, current US$)",China,33.3355,1
+"Net flows on external debt, other public sector (PPG) (NFL, current US$)","Egypt, Arab Rep.",1.8476,2
+"Net flows on external debt, other public sector (PPG) (NFL, current US$)",Colombia,1.1644,3
+"Net flows on external debt, private guaranteed by public sector (PPG) (NFL, current US$)",Brazil,0.1014,1
+"Net flows on external debt, private guaranteed by public sector (PPG) (NFL, current US$)",Paraguay,0.0029,2
+"Net flows on external debt, private guaranteed by public sector (PPG) (NFL, current US$)",Belize,0.0024,3
+"Net flows on external debt, private nonguaranteed (PNG) (NFL, current US$)",Brazil,27.0075,1
+"Net flows on external debt, private nonguaranteed (PNG) (NFL, current US$)",Viet Nam,6.863,2
+"Net flows on external debt, private nonguaranteed (PNG) (NFL, current US$)",Colombia,5.5139,3
+"Net flows on external debt, public and publicly guaranteed (PPG) (NFL, current US$)",Ukraine,17.3948,1
+"Net flows on external debt, public and publicly guaranteed (PPG) (NFL, current US$)",Mexico,11.2445,2
+"Net flows on external debt, public and publicly guaranteed (PPG) (NFL, current US$)",Bangladesh,7.8913,3
+"Net flows on external debt, public sector (PPG) (NFL, current US$)",Ukraine,17.3948,1
+"Net flows on external debt, public sector (PPG) (NFL, current US$)",Mexico,11.2545,2
+"Net flows on external debt, public sector (PPG) (NFL, current US$)",Bangladesh,7.8913,3
+"Net flows on external debt, short-term (NFL, current US$)",Turkiye,29.7556,1
+"Net flows on external debt, short-term (NFL, current US$)","Egypt, Arab Rep.",17.4042,2
+"Net flows on external debt, short-term (NFL, current US$)",India,13.2273,3
+"Net flows on external debt, total (NFL, current US$)",Turkiye,25.4368,1
+"Net flows on external debt, total (NFL, current US$)","Egypt, Arab Rep.",20.5195,2
+"Net flows on external debt, total (NFL, current US$)",Brazil,16.8202,3
+"Net transfers on external debt, general government sector (PPG) (NTR, current US$)",Ukraine,16.2556,1
+"Net transfers on external debt, general government sector (PPG) (NTR, current US$)",Bangladesh,7.6705,2
+"Net transfers on external debt, general government sector (PPG) (NTR, current US$)",Mexico,6.9963,3
+"Net transfers on external debt, long-term (NTR, current US$)",Ukraine,13.1497,1
+"Net transfers on external debt, long-term (NTR, current US$)",Brazil,10.0136,2
+"Net transfers on external debt, long-term (NTR, current US$)",Bangladesh,7.1322,3
+"Net transfers on external debt, other public sector (PPG) (NTR, current US$)",China,25.0541,1
+"Net transfers on external debt, other public sector (PPG) (NTR, current US$)","Egypt, Arab Rep.",1.4216,2
+"Net transfers on external debt, other public sector (PPG) (NTR, current US$)",Peru,0.4602,3
+"Net transfers on external debt, private guaranteed by public sector (PPG) (NTR, current US$)",Brazil,0.0242,1
+"Net transfers on external debt, private guaranteed by public sector (PPG) (NTR, current US$)",Belize,0.0024,2
+"Net transfers on external debt, private guaranteed by public sector (PPG) (NTR, current US$)",Paraguay,0.0019,3
+"Net transfers on external debt, private nonguaranteed (PNG) (NTR, current US$)",Brazil,17.2048,1
+"Net transfers on external debt, private nonguaranteed (PNG) (NTR, current US$)",Viet Nam,5.5852,2
+"Net transfers on external debt, private nonguaranteed (PNG) (NTR, current US$)",Colombia,2.9528,3
+"Net transfers on external debt, public and publicly guaranteed (PPG) (NTR, current US$)",Ukraine,16.1977,1
+"Net transfers on external debt, public and publicly guaranteed (PPG) (NTR, current US$)",Bangladesh,7.0722,2
+"Net transfers on external debt, public and publicly guaranteed (PPG) (NTR, current US$)",Philippines,4.0958,3
+"Net transfers on external debt, public sector (PPG) (NTR, current US$)",Ukraine,16.1977,1
+"Net transfers on external debt, public sector (PPG) (NTR, current US$)",Bangladesh,7.0722,2
+"Net transfers on external debt, public sector (PPG) (NTR, current US$)",Philippines,4.0987,3
+"Net transfers on external debt, total (NTR, current US$)","Egypt, Arab Rep.",14.3864,1
+"Net transfers on external debt, total (NTR, current US$)",Uzbekistan,7.8821,2
+"Net transfers on external debt, total (NTR, current US$)",Turkiye,7.604,3
+"OPS, bilateral (AMT, current US$)",Turkiye,1.4575,1
+"OPS, bilateral (AMT, current US$)",Brazil,1.0742,2
+"OPS, bilateral (AMT, current US$)",China,1.0611,3
+"OPS, bilateral (DIS, current US$)",Turkiye,1.8445,1
+"OPS, bilateral (DIS, current US$)",India,0.4903,2
+"OPS, bilateral (DIS, current US$)",Morocco,0.4425,3
+"OPS, bilateral (DOD, current US$)",China,7.5378,1
+"OPS, bilateral (DOD, current US$)","Egypt, Arab Rep.",5.4512,2
+"OPS, bilateral (DOD, current US$)",Pakistan,5.1697,3
+"OPS, bilateral (INT, current US$)",China,0.3593,1
+"OPS, bilateral (INT, current US$)",Uzbekistan,0.1813,2
+"OPS, bilateral (INT, current US$)",South Africa,0.1332,3
+"OPS, bilateral (NFL, current US$)",Turkiye,0.3869,1
+"OPS, bilateral (NFL, current US$)",Belarus,0.1532,2
+"OPS, bilateral (NFL, current US$)",Pakistan,0.1437,3
+"OPS, bilateral (NTR, current US$)",Turkiye,0.319,1
+"OPS, bilateral (NTR, current US$)",Peru,0.0911,2
+"OPS, bilateral (NTR, current US$)",Belarus,0.0853,3
+"OPS, bilateral (TDS, current US$)",Turkiye,1.5254,1
+"OPS, bilateral (TDS, current US$)",China,1.4204,2
+"OPS, bilateral (TDS, current US$)",Brazil,1.1172,3
+"OPS, bilateral concessional (AMT, current US$)",India,0.0924,1
+"OPS, bilateral concessional (AMT, current US$)",Morocco,0.0813,2
+"OPS, bilateral concessional (AMT, current US$)",Thailand,0.064,3
+"OPS, bilateral concessional (DIS, current US$)",Morocco,0.162,1
+"OPS, bilateral concessional (DIS, current US$)",India,0.1608,2
+"OPS, bilateral concessional (DIS, current US$)",Kenya,0.112,3
+"OPS, bilateral concessional (DOD, current US$)",India,2.1912,1
+"OPS, bilateral concessional (DOD, current US$)",Morocco,1.0237,2
+"OPS, bilateral concessional (DOD, current US$)",Philippines,0.9709,3
+"OPS, bilateral concessional (INT, current US$)",Philippines,0.01,1
+"OPS, bilateral concessional (INT, current US$)",Morocco,0.0095,2
+"OPS, bilateral concessional (INT, current US$)",India,0.0071,3
+"OPS, bilateral concessional (NFL, current US$)",Kenya,0.1087,1
+"OPS, bilateral concessional (NFL, current US$)",Turkiye,0.0874,2
+"OPS, bilateral concessional (NFL, current US$)",Morocco,0.0807,3
+"OPS, bilateral concessional (NTR, current US$)",Kenya,0.1084,1
+"OPS, bilateral concessional (NTR, current US$)",Turkiye,0.0861,2
+"OPS, bilateral concessional (NTR, current US$)",Bangladesh,0.0753,3
+"OPS, bilateral concessional (TDS, current US$)",India,0.0995,1
+"OPS, bilateral concessional (TDS, current US$)",Morocco,0.0909,2
+"OPS, bilateral concessional (TDS, current US$)",Thailand,0.0706,3
+"OPS, bonds (AMT, current US$)",China,23.8569,1
+"OPS, bonds (AMT, current US$)",Mexico,5.1637,2
+"OPS, bonds (AMT, current US$)",Kazakhstan,4.3568,3
+"OPS, bonds (DIS, current US$)",China,41.8451,1
+"OPS, bonds (DIS, current US$)",Mexico,4.9347,2
+"OPS, bonds (DIS, current US$)",Nigeria,0.7374,3
+"OPS, bonds (DOD, current US$)",China,166.0,1
+"OPS, bonds (DOD, current US$)",Mexico,80.5402,2
+"OPS, bonds (DOD, current US$)",Indonesia,38.2355,3
+"OPS, bonds (INT, current US$)",China,5.4189,1
+"OPS, bonds (INT, current US$)",Mexico,4.7222,2
+"OPS, bonds (INT, current US$)",Indonesia,1.9488,3
+"OPS, bonds (NFL, current US$)",China,17.9882,1
+"OPS, bonds (NFL, current US$)",Nigeria,0.7374,2
+"OPS, bonds (NFL, current US$)",Peru,0.6,3
+"OPS, bonds (NTR, current US$)",China,12.5693,1
+"OPS, bonds (NTR, current US$)",Nigeria,0.7374,2
+"OPS, bonds (NTR, current US$)",Peru,0.4042,3
+"OPS, bonds (TDS, current US$)",China,29.2758,1
+"OPS, bonds (TDS, current US$)",Mexico,9.8859,2
+"OPS, bonds (TDS, current US$)",Kazakhstan,4.9194,3
+"OPS, commercial banks (AMT, current US$)",India,5.0309,1
+"OPS, commercial banks (AMT, current US$)",China,4.4915,2
+"OPS, commercial banks (AMT, current US$)",Brazil,2.3473,3
+"OPS, commercial banks (DIS, current US$)",China,21.5043,1
+"OPS, commercial banks (DIS, current US$)",India,6.258,2
+"OPS, commercial banks (DIS, current US$)",Colombia,3.8399,3
+"OPS, commercial banks (DOD, current US$)",China,77.3453,1
+"OPS, commercial banks (DOD, current US$)",India,31.2791,2
+"OPS, commercial banks (DOD, current US$)",Brazil,28.6139,3
+"OPS, commercial banks (INT, current US$)",China,2.4687,1
+"OPS, commercial banks (INT, current US$)",India,0.9533,2
+"OPS, commercial banks (INT, current US$)",Brazil,0.7668,3
+"OPS, commercial banks (NFL, current US$)",China,17.0128,1
+"OPS, commercial banks (NFL, current US$)",Colombia,2.152,2
+"OPS, commercial banks (NFL, current US$)",India,1.2271,3
+"OPS, commercial banks (NTR, current US$)",China,14.5441,1
+"OPS, commercial banks (NTR, current US$)",Colombia,1.8655,2
+"OPS, commercial banks (NTR, current US$)","Egypt, Arab Rep.",1.0227,3
+"OPS, commercial banks (TDS, current US$)",China,6.9602,1
+"OPS, commercial banks (TDS, current US$)",India,5.9842,2
+"OPS, commercial banks (TDS, current US$)",Brazil,3.1141,3
+"OPS, multilateral (AMT, current US$)","Egypt, Arab Rep.",2.0782,1
+"OPS, multilateral (AMT, current US$)",Turkiye,1.3529,2
+"OPS, multilateral (AMT, current US$)",Brazil,0.8716,3
+"OPS, multilateral (DIS, current US$)","Egypt, Arab Rep.",2.8974,1
+"OPS, multilateral (DIS, current US$)",Turkiye,1.0485,2
+"OPS, multilateral (DIS, current US$)",Morocco,0.6433,3
+"OPS, multilateral (DOD, current US$)",Turkiye,9.5059,1
+"OPS, multilateral (DOD, current US$)","Egypt, Arab Rep.",7.5674,2
+"OPS, multilateral (DOD, current US$)",Morocco,5.0401,3
+"OPS, multilateral (INT, current US$)",South Africa,0.1956,1
+"OPS, multilateral (INT, current US$)",Turkiye,0.1658,2
+"OPS, multilateral (INT, current US$)","Egypt, Arab Rep.",0.1557,3
+"OPS, multilateral (NFL, current US$)","Egypt, Arab Rep.",0.8192,1
+"OPS, multilateral (NFL, current US$)",Morocco,0.2378,2
+"OPS, multilateral (NFL, current US$)",Ukraine,0.1611,3
+"OPS, multilateral (NTR, current US$)","Egypt, Arab Rep.",0.6636,1
+"OPS, multilateral (NTR, current US$)",Ukraine,0.1486,2
+"OPS, multilateral (NTR, current US$)",Morocco,0.1114,3
+"OPS, multilateral (TDS, current US$)","Egypt, Arab Rep.",2.2339,1
+"OPS, multilateral (TDS, current US$)",Turkiye,1.5187,2
+"OPS, multilateral (TDS, current US$)",Brazil,0.9998,3
+"OPS, multilateral concessional (AMT, current US$)",Tunisia,0.0054,1
+"OPS, multilateral concessional (AMT, current US$)",Pakistan,0.0051,2
+"OPS, multilateral concessional (AMT, current US$)",Ecuador,0.0043,3
+"OPS, multilateral concessional (DIS, current US$)",Morocco,0.0141,1
+"OPS, multilateral concessional (DIS, current US$)",Djibouti,0.0064,2
+"OPS, multilateral concessional (DIS, current US$)",El Salvador,0.0035,3
+"OPS, multilateral concessional (DOD, current US$)",Nigeria,0.4059,1
+"OPS, multilateral concessional (DOD, current US$)",Ukraine,0.2666,2
+"OPS, multilateral concessional (DOD, current US$)",Morocco,0.1455,3
+"OPS, multilateral concessional (INT, current US$)",Nigeria,0.003,1
+"OPS, multilateral concessional (INT, current US$)",Djibouti,0.0019,2
+"OPS, multilateral concessional (INT, current US$)",Morocco,0.0007,3
+"OPS, multilateral concessional (NFL, current US$)",Morocco,0.0132,1
+"OPS, multilateral concessional (NFL, current US$)",Djibouti,0.0053,2
+"OPS, multilateral concessional (NFL, current US$)",El Salvador,0.0035,3
+"OPS, multilateral concessional (NTR, current US$)",Morocco,0.0125,1
+"OPS, multilateral concessional (NTR, current US$)",El Salvador,0.0035,2
+"OPS, multilateral concessional (NTR, current US$)",Djibouti,0.0034,3
+"OPS, multilateral concessional (TDS, current US$)",Tunisia,0.0059,1
+"OPS, multilateral concessional (TDS, current US$)",Nigeria,0.0054,2
+"OPS, multilateral concessional (TDS, current US$)",Pakistan,0.0052,3
+"OPS, official creditors (AMT, current US$)",Turkiye,2.8105,1
+"OPS, official creditors (AMT, current US$)","Egypt, Arab Rep.",2.6386,2
+"OPS, official creditors (AMT, current US$)",Brazil,1.9459,3
+"OPS, official creditors (DIS, current US$)","Egypt, Arab Rep.",3.1453,1
+"OPS, official creditors (DIS, current US$)",Turkiye,2.893,2
+"OPS, official creditors (DIS, current US$)",Morocco,1.0858,3
+"OPS, official creditors (DOD, current US$)","Egypt, Arab Rep.",13.0186,1
+"OPS, official creditors (DOD, current US$)",Turkiye,13.0118,2
+"OPS, official creditors (DOD, current US$)",Morocco,8.5504,3
+"OPS, official creditors (INT, current US$)",China,0.3593,1
+"OPS, official creditors (INT, current US$)",South Africa,0.3289,2
+"OPS, official creditors (INT, current US$)","Egypt, Arab Rep.",0.2829,3
+"OPS, official creditors (NFL, current US$)","Egypt, Arab Rep.",0.5067,1
+"OPS, official creditors (NFL, current US$)",Morocco,0.3263,2
+"OPS, official creditors (NFL, current US$)",Pakistan,0.1386,3
+"OPS, official creditors (NTR, current US$)","Egypt, Arab Rep.",0.2237,1
+"OPS, official creditors (NTR, current US$)",Morocco,0.1369,2
+"OPS, official creditors (NTR, current US$)",Peru,0.0905,3
+"OPS, official creditors (TDS, current US$)",Turkiye,3.0442,1
+"OPS, official creditors (TDS, current US$)","Egypt, Arab Rep.",2.9215,2
+"OPS, official creditors (TDS, current US$)",Brazil,2.117,3
+"OPS, other private creditors (AMT, current US$)",Brazil,14.1377,1
+"OPS, other private creditors (AMT, current US$)",China,0.6584,2
+"OPS, other private creditors (AMT, current US$)",Ethiopia,0.2139,3
+"OPS, other private creditors (DIS, current US$)",Brazil,18.3373,1
+"OPS, other private creditors (DIS, current US$)","Egypt, Arab Rep.",0.3333,2
+"OPS, other private creditors (DIS, current US$)",Georgia,0.0169,3
+"OPS, other private creditors (DOD, current US$)",Brazil,70.762,1
+"OPS, other private creditors (DOD, current US$)",China,4.1857,2
+"OPS, other private creditors (DOD, current US$)",Georgia,1.4793,3
+"OPS, other private creditors (INT, current US$)",Brazil,3.4698,1
+"OPS, other private creditors (INT, current US$)",China,0.0345,2
+"OPS, other private creditors (INT, current US$)",Ethiopia,0.027,3
+"OPS, other private creditors (NFL, current US$)",Brazil,4.1995,1
+"OPS, other private creditors (NFL, current US$)","Egypt, Arab Rep.",0.1874,2
+"OPS, other private creditors (NFL, current US$)",Maldives,0.0104,3
+"OPS, other private creditors (NTR, current US$)",Brazil,0.7297,1
+"OPS, other private creditors (NTR, current US$)","Egypt, Arab Rep.",0.1751,2
+"OPS, other private creditors (NTR, current US$)",Maldives,0.0104,3
+"OPS, other private creditors (TDS, current US$)",Brazil,17.6075,1
+"OPS, other private creditors (TDS, current US$)",China,0.6929,2
+"OPS, other private creditors (TDS, current US$)",Ethiopia,0.2409,3
+"OPS, private creditors (AMT, current US$)",China,29.0068,1
+"OPS, private creditors (AMT, current US$)",Brazil,17.2521,2
+"OPS, private creditors (AMT, current US$)",Mexico,7.1402,3
+"OPS, private creditors (DIS, current US$)",China,63.3494,1
+"OPS, private creditors (DIS, current US$)",Brazil,18.7704,2
+"OPS, private creditors (DIS, current US$)",India,6.758,3
+"OPS, private creditors (DOD, current US$)",China,247.0,1
+"OPS, private creditors (DOD, current US$)",Brazil,104.0,2
+"OPS, private creditors (DOD, current US$)",Mexico,94.0751,3
+"OPS, private creditors (INT, current US$)",China,7.9221,1
+"OPS, private creditors (INT, current US$)",Mexico,5.2722,2
+"OPS, private creditors (INT, current US$)",Brazil,4.5688,3
+"OPS, private creditors (NFL, current US$)",China,34.3426,1
+"OPS, private creditors (NFL, current US$)",Brazil,1.5183,2
+"OPS, private creditors (NFL, current US$)","Egypt, Arab Rep.",1.341,3
+"OPS, private creditors (NTR, current US$)",China,26.4205,1
+"OPS, private creditors (NTR, current US$)","Egypt, Arab Rep.",1.1978,2
+"OPS, private creditors (NTR, current US$)",Peru,0.3697,3
+"OPS, private creditors (TDS, current US$)",China,36.9289,1
+"OPS, private creditors (TDS, current US$)",Brazil,21.8209,2
+"OPS, private creditors (TDS, current US$)",Mexico,12.4124,3
+"PNG, bonds (AMT, current US$)",China,61.2936,1
+"PNG, bonds (AMT, current US$)",Mexico,15.204,2
+"PNG, bonds (AMT, current US$)",Brazil,10.3271,3
+"PNG, bonds (DIS, current US$)",China,32.5124,1
+"PNG, bonds (DIS, current US$)",India,7.1684,2
+"PNG, bonds (DIS, current US$)",Brazil,6.1457,3
+"PNG, bonds (DOD, current US$)",China,309.0,1
+"PNG, bonds (DOD, current US$)",Mexico,75.1264,2
+"PNG, bonds (DOD, current US$)",India,33.6978,3
+"PNG, bonds (INT, current US$)",China,17.8321,1
+"PNG, bonds (INT, current US$)",Mexico,5.7071,2
+"PNG, bonds (INT, current US$)",India,1.9496,3
+"PNG, bonds (NFL, current US$)",Guatemala,2.0,1
+"PNG, bonds (NFL, current US$)",India,1.6378,2
+"PNG, bonds (NFL, current US$)",Madagascar,0.42,3
+"PNG, bonds (NTR, current US$)",Guatemala,1.7975,1
+"PNG, bonds (NTR, current US$)",Madagascar,0.389,2
+"PNG, bonds (NTR, current US$)",Viet Nam,0.2355,3
+"PNG, bonds (TDS, current US$)",China,79.1257,1
+"PNG, bonds (TDS, current US$)",Mexico,20.9111,2
+"PNG, bonds (TDS, current US$)",Brazil,12.0529,3
+"PNG, commercial banks and other creditors (AMT, current US$)",China,211.0,1
+"PNG, commercial banks and other creditors (AMT, current US$)",Brazil,72.9757,2
+"PNG, commercial banks and other creditors (AMT, current US$)",Kazakhstan,35.221,3
+"PNG, commercial banks and other creditors (DIS, current US$)",China,174.0,1
+"PNG, commercial banks and other creditors (DIS, current US$)",Brazil,104.0,2
+"PNG, commercial banks and other creditors (DIS, current US$)",Kazakhstan,34.554,3
+"PNG, commercial banks and other creditors (DOD, current US$)",China,370.0,1
+"PNG, commercial banks and other creditors (DOD, current US$)",Brazil,276.0,2
+"PNG, commercial banks and other creditors (DOD, current US$)",India,227.0,3
+"PNG, commercial banks and other creditors (INT, current US$)",India,9.8819,1
+"PNG, commercial banks and other creditors (INT, current US$)",China,8.3547,2
+"PNG, commercial banks and other creditors (INT, current US$)",Brazil,8.0769,3
+"PNG, commercial banks and other creditors (NFL, current US$)",Brazil,31.189,1
+"PNG, commercial banks and other creditors (NFL, current US$)",Colombia,6.8689,2
+"PNG, commercial banks and other creditors (NFL, current US$)",Viet Nam,6.538,3
+"PNG, commercial banks and other creditors (NTR, current US$)",Brazil,23.112,1
+"PNG, commercial banks and other creditors (NTR, current US$)",Viet Nam,5.3497,2
+"PNG, commercial banks and other creditors (NTR, current US$)",Colombia,4.811,3
+"PNG, commercial banks and other creditors (TDS, current US$)",China,220.0,1
+"PNG, commercial banks and other creditors (TDS, current US$)",Brazil,81.0526,2
+"PNG, commercial banks and other creditors (TDS, current US$)",Kazakhstan,38.7476,3
+"PPG, IBRD (AMT, current US$)",Indonesia,1.3103,1
+"PPG, IBRD (AMT, current US$)",India,1.2653,2
+"PPG, IBRD (AMT, current US$)",China,1.1746,3
+"PPG, IBRD (DIS, current US$)",Indonesia,2.7195,1
+"PPG, IBRD (DIS, current US$)",Ukraine,2.1504,2
+"PPG, IBRD (DIS, current US$)",India,2.1295,3
+"PPG, IBRD (DOD, current US$)",Indonesia,20.1872,1
+"PPG, IBRD (DOD, current US$)",India,19.4461,2
+"PPG, IBRD (DOD, current US$)",Brazil,16.0615,3
+"PPG, IBRD (INT, current US$)",India,0.346,1
+"PPG, IBRD (INT, current US$)",Indonesia,0.3348,2
+"PPG, IBRD (INT, current US$)",Colombia,0.3322,3
+"PPG, IBRD (NTR, current US$)",Ukraine,1.4938,1
+"PPG, IBRD (NTR, current US$)",Colombia,1.4874,2
+"PPG, IBRD (NTR, current US$)",Ecuador,1.3712,3
+"PPG, IBRD (TDS, current US$)",Indonesia,1.6451,1
+"PPG, IBRD (TDS, current US$)",India,1.6113,2
+"PPG, IBRD (TDS, current US$)",China,1.4433,3
+"PPG, IDA (AMT, current US$)",India,1.7977,1
+"PPG, IDA (AMT, current US$)",Viet Nam,0.9478,2
+"PPG, IDA (AMT, current US$)",Pakistan,0.5826,3
+"PPG, IDA (DIS, current US$)",Nigeria,2.5137,1
+"PPG, IDA (DIS, current US$)",Bangladesh,1.7664,2
+"PPG, IDA (DIS, current US$)",Tanzania,1.4769,3
+"PPG, IDA (DOD, current US$)",India,18.8113,1
+"PPG, IDA (DOD, current US$)",Bangladesh,18.2259,2
+"PPG, IDA (DOD, current US$)",Pakistan,15.9122,3
+"PPG, IDA (INT, current US$)",India,0.2396,1
+"PPG, IDA (INT, current US$)",Pakistan,0.23,2
+"PPG, IDA (INT, current US$)",Viet Nam,0.16,3
+"PPG, IDA (NTR, current US$)",Nigeria,2.0693,1
+"PPG, IDA (NTR, current US$)",Tanzania,1.2647,2
+"PPG, IDA (NTR, current US$)",Bangladesh,1.1227,3
+"PPG, IDA (TDS, current US$)",India,2.0373,1
+"PPG, IDA (TDS, current US$)",Viet Nam,1.1078,2
+"PPG, IDA (TDS, current US$)",Pakistan,0.8126,3
+"PPG, bilateral (AMT, current US$)",Pakistan,5.1669,1
+"PPG, bilateral (AMT, current US$)",Belarus,2.2644,2
+"PPG, bilateral (AMT, current US$)",Indonesia,2.2129,3
+"PPG, bilateral (DIS, current US$)",Bangladesh,5.6394,1
+"PPG, bilateral (DIS, current US$)",India,4.8707,2
+"PPG, bilateral (DIS, current US$)",Pakistan,4.5964,3
+"PPG, bilateral (DOD, current US$)",Pakistan,44.5244,1
+"PPG, bilateral (DOD, current US$)","Egypt, Arab Rep.",34.0832,2
+"PPG, bilateral (DOD, current US$)",India,31.7051,3
+"PPG, bilateral (INT, current US$)",Pakistan,1.3084,1
+"PPG, bilateral (INT, current US$)","Egypt, Arab Rep.",0.92,2
+"PPG, bilateral (INT, current US$)",Ecuador,0.6033,3
+"PPG, bilateral (NTR, current US$)",Bangladesh,5.1473,1
+"PPG, bilateral (NTR, current US$)",Ukraine,3.6325,2
+"PPG, bilateral (NTR, current US$)",India,2.9419,3
+"PPG, bilateral (TDS, current US$)",Pakistan,6.4753,1
+"PPG, bilateral (TDS, current US$)",Belarus,2.8225,2
+"PPG, bilateral (TDS, current US$)","Egypt, Arab Rep.",2.7328,3
+"PPG, bilateral concessional (AMT, current US$)",India,0.7788,1
+"PPG, bilateral concessional (AMT, current US$)",Viet Nam,0.557,2
+"PPG, bilateral concessional (AMT, current US$)",Indonesia,0.4941,3
+"PPG, bilateral concessional (DIS, current US$)",India,3.9715,1
+"PPG, bilateral concessional (DIS, current US$)",Bangladesh,2.9993,2
+"PPG, bilateral concessional (DIS, current US$)",Philippines,1.4413,3
+"PPG, bilateral concessional (DOD, current US$)",India,24.0259,1
+"PPG, bilateral concessional (DOD, current US$)",Viet Nam,13.3081,2
+"PPG, bilateral concessional (DOD, current US$)",Bangladesh,12.4824,3
+"PPG, bilateral concessional (INT, current US$)",Pakistan,0.3131,1
+"PPG, bilateral concessional (INT, current US$)",India,0.2556,2
+"PPG, bilateral concessional (INT, current US$)",Viet Nam,0.1155,3
+"PPG, bilateral concessional (NFL, current US$)",India,3.1927,1
+"PPG, bilateral concessional (NFL, current US$)",Bangladesh,2.8521,2
+"PPG, bilateral concessional (NFL, current US$)",Philippines,1.2241,3
+"PPG, bilateral concessional (NTR, current US$)",India,2.9371,1
+"PPG, bilateral concessional (NTR, current US$)",Bangladesh,2.8013,2
+"PPG, bilateral concessional (NTR, current US$)",Philippines,1.1822,3
+"PPG, bilateral concessional (TDS, current US$)",India,1.0344,1
+"PPG, bilateral concessional (TDS, current US$)",Pakistan,0.7742,2
+"PPG, bilateral concessional (TDS, current US$)",Viet Nam,0.6725,3
+"PPG, bonds (AMT, current US$)",China,65.8569,1
+"PPG, bonds (AMT, current US$)",Indonesia,24.004,2
+"PPG, bonds (AMT, current US$)",Mexico,9.2564,3
+"PPG, bonds (DIS, current US$)",China,41.8451,1
+"PPG, bonds (DIS, current US$)",Mexico,21.2272,2
+"PPG, bonds (DIS, current US$)",Turkiye,11.4818,3
+"PPG, bonds (DOD, current US$)",China,406.0,1
+"PPG, bonds (DOD, current US$)",Mexico,241.0,2
+"PPG, bonds (DOD, current US$)",Indonesia,166.0,3
+"PPG, bonds (INT, current US$)",China,17.5258,1
+"PPG, bonds (INT, current US$)",Mexico,10.2644,2
+"PPG, bonds (INT, current US$)",Indonesia,7.6074,3
+"PPG, bonds (NFL, current US$)",Mexico,11.9708,1
+"PPG, bonds (NFL, current US$)",Turkiye,3.3841,2
+"PPG, bonds (NFL, current US$)",Philippines,3.1405,3
+"PPG, bonds (NTR, current US$)",Mexico,1.7064,1
+"PPG, bonds (NTR, current US$)",Philippines,1.3107,2
+"PPG, bonds (NTR, current US$)",Dominican Republic,1.1068,3
+"PPG, bonds (TDS, current US$)",China,83.3827,1
+"PPG, bonds (TDS, current US$)",Indonesia,31.6114,2
+"PPG, bonds (TDS, current US$)",Mexico,19.5208,3
+"PPG, commercial banks (AMT, current US$)",India,5.0309,1
+"PPG, commercial banks (AMT, current US$)",China,4.7109,2
+"PPG, commercial banks (AMT, current US$)",Angola,3.7241,3
+"PPG, commercial banks (DIS, current US$)",China,21.5043,1
+"PPG, commercial banks (DIS, current US$)",India,6.258,2
+"PPG, commercial banks (DIS, current US$)","Egypt, Arab Rep.",5.0924,3
+"PPG, commercial banks (DOD, current US$)",China,78.8396,1
+"PPG, commercial banks (DOD, current US$)",Brazil,33.0361,2
+"PPG, commercial banks (DOD, current US$)",India,31.2791,3
+"PPG, commercial banks (INT, current US$)",China,2.5207,1
+"PPG, commercial banks (INT, current US$)",Angola,1.2539,2
+"PPG, commercial banks (INT, current US$)",Brazil,1.0035,3
+"PPG, commercial banks (NFL, current US$)",China,16.7934,1
+"PPG, commercial banks (NFL, current US$)","Egypt, Arab Rep.",2.3838,2
+"PPG, commercial banks (NFL, current US$)",Colombia,2.1153,3
+"PPG, commercial banks (NTR, current US$)",China,14.2727,1
+"PPG, commercial banks (NTR, current US$)",Cote d'Ivoire,1.9657,2
+"PPG, commercial banks (NTR, current US$)","Egypt, Arab Rep.",1.8265,3
+"PPG, commercial banks (TDS, current US$)",China,7.2316,1
+"PPG, commercial banks (TDS, current US$)",India,5.9842,2
+"PPG, commercial banks (TDS, current US$)",Angola,4.978,3
+"PPG, multilateral (AMT, current US$)",India,4.346,1
+"PPG, multilateral (AMT, current US$)","Egypt, Arab Rep.",3.7057,2
+"PPG, multilateral (AMT, current US$)",Brazil,2.8251,3
+"PPG, multilateral (DIS, current US$)",Ukraine,13.9808,1
+"PPG, multilateral (DIS, current US$)",India,7.7303,2
+"PPG, multilateral (DIS, current US$)","Egypt, Arab Rep.",5.6768,3
+"PPG, multilateral (DOD, current US$)",India,70.1449,1
+"PPG, multilateral (DOD, current US$)",Pakistan,36.1935,2
+"PPG, multilateral (DOD, current US$)",China,35.84,3
+"PPG, multilateral (INT, current US$)",India,1.0566,1
+"PPG, multilateral (INT, current US$)",Brazil,0.8223,2
+"PPG, multilateral (INT, current US$)",Colombia,0.7806,3
+"PPG, multilateral (NTR, current US$)",Ukraine,13.1111,1
+"PPG, multilateral (NTR, current US$)",Uzbekistan,2.8085,2
+"PPG, multilateral (NTR, current US$)",Bangladesh,2.4581,3
+"PPG, multilateral concessional (AMT, current US$)",India,1.5262,1
+"PPG, multilateral concessional (AMT, current US$)",Bangladesh,0.7975,2
+"PPG, multilateral concessional (AMT, current US$)",Viet Nam,0.735,3
+"PPG, multilateral concessional (DIS, current US$)",Ukraine,4.8512,1
+"PPG, multilateral concessional (DIS, current US$)",Tanzania,1.1879,2
+"PPG, multilateral concessional (DIS, current US$)",Bangladesh,0.8046,3
+"PPG, multilateral concessional (DOD, current US$)",Bangladesh,19.6501,1
+"PPG, multilateral concessional (DOD, current US$)",India,17.0654,2
+"PPG, multilateral concessional (DOD, current US$)",Ethiopia,13.6038,3
+"PPG, multilateral concessional (INT, current US$)",India,0.1884,1
+"PPG, multilateral concessional (INT, current US$)",Bangladesh,0.1752,2
+"PPG, multilateral concessional (INT, current US$)",Ethiopia,0.0995,3
+"PPG, multilateral concessional (NFL, current US$)",Ukraine,4.8512,1
+"PPG, multilateral concessional (NFL, current US$)",Tanzania,1.0151,2
+"PPG, multilateral concessional (NFL, current US$)",Colombia,0.5971,3
+"PPG, multilateral concessional (NTR, current US$)",Ukraine,4.8342,1
+"PPG, multilateral concessional (NTR, current US$)",Tanzania,0.9324,2
+"PPG, multilateral concessional (NTR, current US$)",Colombia,0.5816,3
+"PPG, multilateral concessional (TDS, current US$)",India,1.7146,1
+"PPG, multilateral concessional (TDS, current US$)",Bangladesh,0.9728,2
+"PPG, multilateral concessional (TDS, current US$)",Viet Nam,0.8312,3
+"PPG, official creditors (AMT, current US$)",Pakistan,6.7857,1
+"PPG, official creditors (AMT, current US$)",India,5.9037,2
+"PPG, official creditors (AMT, current US$)","Egypt, Arab Rep.",5.5184,3
+"PPG, official creditors (DIS, current US$)",Ukraine,17.7641,1
+"PPG, official creditors (DIS, current US$)",India,12.6011,2
+"PPG, official creditors (DIS, current US$)",Bangladesh,9.9716,3
+"PPG, official creditors (DOD, current US$)",India,102.0,1
+"PPG, official creditors (DOD, current US$)",Pakistan,80.7179,2
+"PPG, official creditors (DOD, current US$)","Egypt, Arab Rep.",64.069,3
+"PPG, official creditors (INT, current US$)",Pakistan,1.8497,1
+"PPG, official creditors (INT, current US$)","Egypt, Arab Rep.",1.4977,2
+"PPG, official creditors (INT, current US$)",India,1.4277,3
+"PPG, official creditors (NFL, current US$)",Ukraine,16.935,1
+"PPG, official creditors (NFL, current US$)",Bangladesh,8.2589,2
+"PPG, official creditors (NFL, current US$)",India,6.6974,3
+"PPG, official creditors (NTR, current US$)",Ukraine,16.7436,1
+"PPG, official creditors (NTR, current US$)",Bangladesh,7.6054,2
+"PPG, official creditors (NTR, current US$)",India,5.2697,3
+"PPG, official creditors (TDS, current US$)",Pakistan,8.6354,1
+"PPG, official creditors (TDS, current US$)",India,7.3314,2
+"PPG, official creditors (TDS, current US$)","Egypt, Arab Rep.",7.0161,3
+"PPG, other private creditors (AMT, current US$)",Brazil,14.1444,1
+"PPG, other private creditors (AMT, current US$)","Congo, Rep.",0.7859,2
+"PPG, other private creditors (AMT, current US$)",Angola,0.7163,3
+"PPG, other private creditors (DIS, current US$)",Brazil,18.3592,1
+"PPG, other private creditors (DIS, current US$)",Angola,1.4015,2
+"PPG, other private creditors (DIS, current US$)","Egypt, Arab Rep.",0.5126,3
+"PPG, other private creditors (DOD, current US$)",Brazil,70.8413,1
+"PPG, other private creditors (DOD, current US$)",China,4.1869,2
+"PPG, other private creditors (DOD, current US$)",Angola,3.0455,3
+"PPG, other private creditors (INT, current US$)",Brazil,3.4704,1
+"PPG, other private creditors (INT, current US$)",Angola,0.1797,2
+"PPG, other private creditors (INT, current US$)",Iraq,0.0565,3
+"PPG, other private creditors (NFL, current US$)",Brazil,4.2148,1
+"PPG, other private creditors (NFL, current US$)",Angola,0.6852,2
+"PPG, other private creditors (NFL, current US$)","Egypt, Arab Rep.",0.2841,3
+"PPG, other private creditors (NTR, current US$)",Brazil,0.7444,1
+"PPG, other private creditors (NTR, current US$)",Angola,0.5055,2
+"PPG, other private creditors (NTR, current US$)","Egypt, Arab Rep.",0.2696,3
+"PPG, other private creditors (TDS, current US$)",Brazil,17.6148,1
+"PPG, other private creditors (TDS, current US$)",Angola,0.896,2
+"PPG, other private creditors (TDS, current US$)","Congo, Rep.",0.8377,3
+"PPG, private creditors (AMT, current US$)",China,71.2269,1
+"PPG, private creditors (AMT, current US$)",Indonesia,26.3003,2
+"PPG, private creditors (AMT, current US$)",Brazil,18.8844,3
+"PPG, private creditors (DIS, current US$)",China,63.3494,1
+"PPG, private creditors (DIS, current US$)",Mexico,22.3546,2
+"PPG, private creditors (DIS, current US$)",Brazil,20.4917,3
+"PPG, private creditors (DOD, current US$)",China,489.0,1
+"PPG, private creditors (DOD, current US$)",Mexico,256.0,2
+"PPG, private creditors (DOD, current US$)",Indonesia,172.0,3
+"PPG, private creditors (INT, current US$)",China,20.0811,1
+"PPG, private creditors (INT, current US$)",Mexico,10.8258,2
+"PPG, private creditors (INT, current US$)",Indonesia,7.7186,3
+"PPG, private creditors (NFL, current US$)",Mexico,10.946,1
+"PPG, private creditors (NFL, current US$)",Turkiye,3.3045,2
+"PPG, private creditors (NFL, current US$)",Philippines,2.8997,3
+"PPG, private creditors (NTR, current US$)",Cote d'Ivoire,1.5799,1
+"PPG, private creditors (NTR, current US$)",Philippines,1.0606,2
+"PPG, private creditors (NTR, current US$)",Dominican Republic,1.0234,3
+"PPG, private creditors (TDS, current US$)",China,91.308,1
+"PPG, private creditors (TDS, current US$)",Indonesia,34.0189,2
+"PPG, private creditors (TDS, current US$)",Brazil,25.9267,3
+"PRVG, bilateral (AMT, current US$)",Maldives,0.0127,1
+"PRVG, bilateral (AMT, current US$)",Philippines,0.0027,2
+"PRVG, bilateral (AMT, current US$)",Eswatini,0.0,3
+"PRVG, bilateral (DIS, current US$)",Brazil,0.066,1
+"PRVG, bilateral (DOD, current US$)",Maldives,0.1084,1
+"PRVG, bilateral (DOD, current US$)",Brazil,0.066,2
+"PRVG, bilateral (DOD, current US$)",Philippines,0.0092,3
+"PRVG, bilateral (INT, current US$)",Maldives,0.0035,1
+"PRVG, bilateral (INT, current US$)",Philippines,0.0003,2
+"PRVG, bilateral (INT, current US$)",Brazil,0.0001,3
+"PRVG, bilateral (NFL, current US$)",Brazil,0.066,1
+"PRVG, bilateral (NTR, current US$)",Brazil,0.0659,1
+"PRVG, bilateral (TDS, current US$)",Maldives,0.0163,1
+"PRVG, bilateral (TDS, current US$)",Philippines,0.0029,2
+"PRVG, bilateral (TDS, current US$)",Brazil,0.0001,3
+"PRVG, bilateral concessional (AMT, current US$)",Eswatini,0.0,1
+"PRVG, bilateral concessional (DOD, current US$)",Eswatini,0.0001,1
+"PRVG, bilateral concessional (TDS, current US$)",Eswatini,0.0,1
+"PRVG, bonds (DOD, current US$)",China,17.1277,1
+"PRVG, bonds (DOD, current US$)",Bosnia and Herzegovina,0.002,2
+"PRVG, bonds (INT, current US$)",China,0.4724,1
+"PRVG, bonds (INT, current US$)",Bosnia and Herzegovina,0.0001,2
+"PRVG, bonds (TDS, current US$)",China,0.4724,1
+"PRVG, bonds (TDS, current US$)",Bosnia and Herzegovina,0.0001,2
+"PRVG, commercial banks (AMT, current US$)",Brazil,0.179,1
+"PRVG, commercial banks (AMT, current US$)",Viet Nam,0.0253,2
+"PRVG, commercial banks (DIS, current US$)",Brazil,0.2877,1
+"PRVG, commercial banks (DOD, current US$)",Brazil,1.3113,1
+"PRVG, commercial banks (DOD, current US$)",Viet Nam,0.0436,2
+"PRVG, commercial banks (INT, current US$)",Brazil,0.0646,1
+"PRVG, commercial banks (INT, current US$)",Viet Nam,0.0011,2
+"PRVG, commercial banks (NFL, current US$)",Brazil,0.1087,1
+"PRVG, commercial banks (NTR, current US$)",Brazil,0.0441,1
+"PRVG, commercial banks (TDS, current US$)",Brazil,0.2436,1
+"PRVG, commercial banks (TDS, current US$)",Viet Nam,0.0264,2
+"PRVG, multilateral (AMT, current US$)",Brazil,0.0779,1
+"PRVG, multilateral (AMT, current US$)",Turkiye,0.0338,2
+"PRVG, multilateral (AMT, current US$)",Tunisia,0.0244,3
+"PRVG, multilateral (DIS, current US$)",Tunisia,0.009,1
+"PRVG, multilateral (DIS, current US$)",Brazil,0.0046,2
+"PRVG, multilateral (DIS, current US$)",Paraguay,0.004,3
+"PRVG, multilateral (DOD, current US$)",Brazil,0.4858,1
+"PRVG, multilateral (DOD, current US$)",Mexico,0.19,2
+"PRVG, multilateral (DOD, current US$)",Turkiye,0.1197,3
+"PRVG, multilateral (INT, current US$)",Brazil,0.0124,1
+"PRVG, multilateral (INT, current US$)",Mexico,0.0053,2
+"PRVG, multilateral (INT, current US$)",Tunisia,0.0014,3
+"PRVG, multilateral (NFL, current US$)",Paraguay,0.0029,1
+"PRVG, multilateral (NFL, current US$)",Belize,0.0024,2
+"PRVG, multilateral (NFL, current US$)",Uganda,0.0002,3
+"PRVG, multilateral (NTR, current US$)",Belize,0.0024,1
+"PRVG, multilateral (NTR, current US$)",Paraguay,0.0019,2
+"PRVG, multilateral (NTR, current US$)",Uganda,0.0002,3
+"PRVG, multilateral (TDS, current US$)",Brazil,0.0903,1
+"PRVG, multilateral (TDS, current US$)",Turkiye,0.0348,2
+"PRVG, multilateral (TDS, current US$)",Tunisia,0.0257,3
+"PRVG, multilateral concessional (AMT, current US$)",Turkiye,0.0338,1
+"PRVG, multilateral concessional (AMT, current US$)",Pakistan,0.0007,2
+"PRVG, multilateral concessional (AMT, current US$)",Dominican Republic,0.0001,3
+"PRVG, multilateral concessional (DIS, current US$)",Uganda,0.0005,1
+"PRVG, multilateral concessional (DOD, current US$)",Turkiye,0.1197,1
+"PRVG, multilateral concessional (DOD, current US$)",Pakistan,0.0021,2
+"PRVG, multilateral concessional (DOD, current US$)",Uganda,0.0005,3
+"PRVG, multilateral concessional (INT, current US$)",Turkiye,0.001,1
+"PRVG, multilateral concessional (INT, current US$)",Pakistan,0.0,2
+"PRVG, multilateral concessional (INT, current US$)",Dominican Republic,0.0,3
+"PRVG, multilateral concessional (NFL, current US$)",Uganda,0.0005,1
+"PRVG, multilateral concessional (NTR, current US$)",Uganda,0.0005,1
+"PRVG, multilateral concessional (TDS, current US$)",Turkiye,0.0348,1
+"PRVG, multilateral concessional (TDS, current US$)",Pakistan,0.0007,2
+"PRVG, multilateral concessional (TDS, current US$)",Dominican Republic,0.0001,3
+"PRVG, official creditors (AMT, current US$)",Brazil,0.0779,1
+"PRVG, official creditors (AMT, current US$)",Turkiye,0.0338,2
+"PRVG, official creditors (AMT, current US$)",Tunisia,0.0244,3
+"PRVG, official creditors (DIS, current US$)",Brazil,0.0706,1
+"PRVG, official creditors (DIS, current US$)",Tunisia,0.009,2
+"PRVG, official creditors (DIS, current US$)",Paraguay,0.004,3
+"PRVG, official creditors (DOD, current US$)",Brazil,0.5518,1
+"PRVG, official creditors (DOD, current US$)",Mexico,0.19,2
+"PRVG, official creditors (DOD, current US$)",Turkiye,0.1197,3
+"PRVG, official creditors (INT, current US$)",Brazil,0.0126,1
+"PRVG, official creditors (INT, current US$)",Mexico,0.0053,2
+"PRVG, official creditors (INT, current US$)",Maldives,0.0035,3
+"PRVG, official creditors (NFL, current US$)",Paraguay,0.0029,1
+"PRVG, official creditors (NFL, current US$)",Belize,0.0024,2
+"PRVG, official creditors (NFL, current US$)",Uganda,0.0002,3
+"PRVG, official creditors (NTR, current US$)",Belize,0.0024,1
+"PRVG, official creditors (NTR, current US$)",Paraguay,0.0019,2
+"PRVG, official creditors (NTR, current US$)",Uganda,0.0002,3
+"PRVG, official creditors (TDS, current US$)",Brazil,0.0905,1
+"PRVG, official creditors (TDS, current US$)",Turkiye,0.0348,2
+"PRVG, official creditors (TDS, current US$)",Tunisia,0.0257,3
+"PRVG, private creditors (AMT, current US$)",Brazil,0.179,1
+"PRVG, private creditors (AMT, current US$)",Viet Nam,0.0253,2
+"PRVG, private creditors (DIS, current US$)",Brazil,0.2877,1
+"PRVG, private creditors (DOD, current US$)",China,17.1277,1
+"PRVG, private creditors (DOD, current US$)",Brazil,1.3113,2
+"PRVG, private creditors (DOD, current US$)",Viet Nam,0.0436,3
+"PRVG, private creditors (INT, current US$)",China,0.4724,1
+"PRVG, private creditors (INT, current US$)",Brazil,0.0646,2
+"PRVG, private creditors (INT, current US$)",Viet Nam,0.0011,3
+"PRVG, private creditors (NFL, current US$)",Brazil,0.1087,1
+"PRVG, private creditors (NTR, current US$)",Brazil,0.0441,1
+"PRVG, private creditors (TDS, current US$)",China,0.4724,1
+"PRVG, private creditors (TDS, current US$)",Brazil,0.2436,2
+"PRVG, private creditors (TDS, current US$)",Viet Nam,0.0264,3
+"PS, bilateral (AMT, current US$)",Pakistan,5.1669,1
+"PS, bilateral (AMT, current US$)",Belarus,2.2644,2
+"PS, bilateral (AMT, current US$)",Indonesia,2.2129,3
+"PS, bilateral (DIS, current US$)",Bangladesh,5.6394,1
+"PS, bilateral (DIS, current US$)",India,4.8707,2
+"PS, bilateral (DIS, current US$)",Pakistan,4.5964,3
+"PS, bilateral (DOD, current US$)",Pakistan,44.5244,1
+"PS, bilateral (DOD, current US$)","Egypt, Arab Rep.",34.0832,2
+"PS, bilateral (DOD, current US$)",India,31.7051,3
+"PS, bilateral (INT, current US$)",Pakistan,1.3084,1
+"PS, bilateral (INT, current US$)","Egypt, Arab Rep.",0.92,2
+"PS, bilateral (INT, current US$)",Ecuador,0.6033,3
+"PS, bilateral (NFL, current US$)",Bangladesh,5.3231,1
+"PS, bilateral (NFL, current US$)",Ukraine,3.6665,2
+"PS, bilateral (NFL, current US$)",India,3.3131,3
+"PS, bilateral (NTR, current US$)",Bangladesh,5.1473,1
+"PS, bilateral (NTR, current US$)",Ukraine,3.6325,2
+"PS, bilateral (NTR, current US$)",India,2.9419,3
+"PS, bilateral (TDS, current US$)",Pakistan,6.4753,1
+"PS, bilateral (TDS, current US$)",Belarus,2.8225,2
+"PS, bilateral (TDS, current US$)","Egypt, Arab Rep.",2.7328,3
+"PS, bilateral concessional (AMT, current US$)",India,0.7788,1
+"PS, bilateral concessional (AMT, current US$)",Viet Nam,0.557,2
+"PS, bilateral concessional (AMT, current US$)",Indonesia,0.4941,3
+"PS, bilateral concessional (DIS, current US$)",India,3.9715,1
+"PS, bilateral concessional (DIS, current US$)",Bangladesh,2.9993,2
+"PS, bilateral concessional (DIS, current US$)",Philippines,1.4413,3
+"PS, bilateral concessional (DOD, current US$)",India,24.0259,1
+"PS, bilateral concessional (DOD, current US$)",Viet Nam,13.3081,2
+"PS, bilateral concessional (DOD, current US$)",Bangladesh,12.4824,3
+"PS, bilateral concessional (INT, current US$)",Pakistan,0.3131,1
+"PS, bilateral concessional (INT, current US$)",India,0.2556,2
+"PS, bilateral concessional (INT, current US$)",Viet Nam,0.1155,3
+"PS, bilateral concessional (NFL, current US$)",India,3.1927,1
+"PS, bilateral concessional (NFL, current US$)",Bangladesh,2.8521,2
+"PS, bilateral concessional (NFL, current US$)",Philippines,1.2241,3
+"PS, bilateral concessional (NTR, current US$)",India,2.9371,1
+"PS, bilateral concessional (NTR, current US$)",Bangladesh,2.8013,2
+"PS, bilateral concessional (NTR, current US$)",Philippines,1.1822,3
+"PS, bilateral concessional (TDS, current US$)",India,1.0344,1
+"PS, bilateral concessional (TDS, current US$)",Pakistan,0.7742,2
+"PS, bilateral concessional (TDS, current US$)",Viet Nam,0.6725,3
+"PS, bonds (AMT, current US$)",China,65.8569,1
+"PS, bonds (AMT, current US$)",Indonesia,24.004,2
+"PS, bonds (AMT, current US$)",Mexico,9.2564,3
+"PS, bonds (DIS, current US$)",China,41.8451,1
+"PS, bonds (DIS, current US$)",Mexico,21.2272,2
+"PS, bonds (DIS, current US$)",Turkiye,11.4818,3
+"PS, bonds (DOD, current US$)",China,389.0,1
+"PS, bonds (DOD, current US$)",Mexico,241.0,2
+"PS, bonds (DOD, current US$)",Indonesia,166.0,3
+"PS, bonds (INT, current US$)",China,17.0534,1
+"PS, bonds (INT, current US$)",Mexico,10.2644,2
+"PS, bonds (INT, current US$)",Indonesia,7.6074,3
+"PS, bonds (NFL, current US$)",Mexico,11.9708,1
+"PS, bonds (NFL, current US$)",Turkiye,3.3841,2
+"PS, bonds (NFL, current US$)",Philippines,3.1405,3
+"PS, bonds (NTR, current US$)",Mexico,1.7064,1
+"PS, bonds (NTR, current US$)",Philippines,1.3107,2
+"PS, bonds (NTR, current US$)",Dominican Republic,1.1068,3
+"PS, bonds (TDS, current US$)",China,82.9104,1
+"PS, bonds (TDS, current US$)",Indonesia,31.6114,2
+"PS, bonds (TDS, current US$)",Mexico,19.5208,3
+"PS, commercial banks (AMT, current US$)",India,5.0309,1
+"PS, commercial banks (AMT, current US$)",China,4.7109,2
+"PS, commercial banks (AMT, current US$)",Angola,3.7241,3
+"PS, commercial banks (DIS, current US$)",China,21.5043,1
+"PS, commercial banks (DIS, current US$)",India,6.258,2
+"PS, commercial banks (DIS, current US$)","Egypt, Arab Rep.",5.0924,3
+"PS, commercial banks (DOD, current US$)",China,78.8396,1
+"PS, commercial banks (DOD, current US$)",Brazil,31.7249,2
+"PS, commercial banks (DOD, current US$)",India,31.2791,3
+"PS, commercial banks (INT, current US$)",China,2.5207,1
+"PS, commercial banks (INT, current US$)",Angola,1.2539,2
+"PS, commercial banks (INT, current US$)",India,0.9533,3
+"PS, commercial banks (NFL, current US$)",China,16.7934,1
+"PS, commercial banks (NFL, current US$)","Egypt, Arab Rep.",2.3838,2
+"PS, commercial banks (NFL, current US$)",Colombia,2.1153,3
+"PS, commercial banks (NTR, current US$)",China,14.2727,1
+"PS, commercial banks (NTR, current US$)",Cote d'Ivoire,1.9657,2
+"PS, commercial banks (NTR, current US$)","Egypt, Arab Rep.",1.8265,3
+"PS, commercial banks (TDS, current US$)",China,7.2316,1
+"PS, commercial banks (TDS, current US$)",India,5.9842,2
+"PS, commercial banks (TDS, current US$)",Angola,4.978,3
+"PS, multilateral (AMT, current US$)",India,4.346,1
+"PS, multilateral (AMT, current US$)","Egypt, Arab Rep.",3.7057,2
+"PS, multilateral (AMT, current US$)",Brazil,2.7471,3
+"PS, multilateral (DIS, current US$)",Ukraine,13.9808,1
+"PS, multilateral (DIS, current US$)",India,7.7303,2
+"PS, multilateral (DIS, current US$)","Egypt, Arab Rep.",5.6768,3
+"PS, multilateral (DOD, current US$)",India,70.1449,1
+"PS, multilateral (DOD, current US$)",Pakistan,36.1769,2
+"PS, multilateral (DOD, current US$)",China,35.84,3
+"PS, multilateral (INT, current US$)",India,1.0566,1
+"PS, multilateral (INT, current US$)",Brazil,0.8099,2
+"PS, multilateral (INT, current US$)",Colombia,0.7795,3
+"PS, multilateral (NFL, current US$)",Ukraine,13.2685,1
+"PS, multilateral (NFL, current US$)",India,3.3843,2
+"PS, multilateral (NFL, current US$)",Uzbekistan,3.0144,3
+"PS, multilateral (NTR, current US$)",Ukraine,13.1111,1
+"PS, multilateral (NTR, current US$)",Uzbekistan,2.8085,2
+"PS, multilateral (NTR, current US$)",Bangladesh,2.4581,3
+"PS, multilateral (TDS, current US$)",India,5.4025,1
+"PS, multilateral (TDS, current US$)","Egypt, Arab Rep.",4.2833,2
+"PS, multilateral (TDS, current US$)",Brazil,3.557,3
+"PS, multilateral concessional (AMT, current US$)",India,1.5262,1
+"PS, multilateral concessional (AMT, current US$)",Bangladesh,0.7975,2
+"PS, multilateral concessional (AMT, current US$)",Viet Nam,0.735,3
+"PS, multilateral concessional (DIS, current US$)",Ukraine,4.8512,1
+"PS, multilateral concessional (DIS, current US$)",Tanzania,1.1879,2
+"PS, multilateral concessional (DIS, current US$)",Bangladesh,0.8046,3
+"PS, multilateral concessional (DOD, current US$)",Bangladesh,19.6501,1
+"PS, multilateral concessional (DOD, current US$)",India,17.0654,2
+"PS, multilateral concessional (DOD, current US$)",Ethiopia,13.6038,3
+"PS, multilateral concessional (INT, current US$)",India,0.1884,1
+"PS, multilateral concessional (INT, current US$)",Bangladesh,0.1752,2
+"PS, multilateral concessional (INT, current US$)",Ethiopia,0.0995,3
+"PS, multilateral concessional (NFL, current US$)",Ukraine,4.8512,1
+"PS, multilateral concessional (NFL, current US$)",Tanzania,1.0151,2
+"PS, multilateral concessional (NFL, current US$)",Colombia,0.5971,3
+"PS, multilateral concessional (NTR, current US$)",Ukraine,4.8342,1
+"PS, multilateral concessional (NTR, current US$)",Tanzania,0.9324,2
+"PS, multilateral concessional (NTR, current US$)",Colombia,0.5816,3
+"PS, multilateral concessional (TDS, current US$)",India,1.7146,1
+"PS, multilateral concessional (TDS, current US$)",Bangladesh,0.9728,2
+"PS, multilateral concessional (TDS, current US$)",Viet Nam,0.8312,3
+"PS, official creditors (AMT, current US$)",Pakistan,6.7835,1
+"PS, official creditors (AMT, current US$)",India,5.9037,2
+"PS, official creditors (AMT, current US$)","Egypt, Arab Rep.",5.5184,3
+"PS, official creditors (DIS, current US$)",Ukraine,17.7641,1
+"PS, official creditors (DIS, current US$)",India,12.6011,2
+"PS, official creditors (DIS, current US$)",Bangladesh,9.9716,3
+"PS, official creditors (DOD, current US$)",India,102.0,1
+"PS, official creditors (DOD, current US$)",Pakistan,80.7013,2
+"PS, official creditors (DOD, current US$)","Egypt, Arab Rep.",64.069,3
+"PS, official creditors (INT, current US$)",Pakistan,1.8496,1
+"PS, official creditors (INT, current US$)","Egypt, Arab Rep.",1.4977,2
+"PS, official creditors (INT, current US$)",India,1.4277,3
+"PS, official creditors (NFL, current US$)",Ukraine,16.935,1
+"PS, official creditors (NFL, current US$)",Bangladesh,8.2589,2
+"PS, official creditors (NFL, current US$)",India,6.6974,3
+"PS, official creditors (NTR, current US$)",Ukraine,16.7436,1
+"PS, official creditors (NTR, current US$)",Bangladesh,7.6054,2
+"PS, official creditors (NTR, current US$)",India,5.2697,3
+"PS, official creditors (TDS, current US$)",Pakistan,8.6331,1
+"PS, official creditors (TDS, current US$)",India,7.3314,2
+"PS, official creditors (TDS, current US$)","Egypt, Arab Rep.",7.0161,3
+"PS, other private creditors (AMT, current US$)",Brazil,14.1444,1
+"PS, other private creditors (AMT, current US$)","Congo, Rep.",0.7859,2
+"PS, other private creditors (AMT, current US$)",Angola,0.7163,3
+"PS, other private creditors (DIS, current US$)",Brazil,18.3592,1
+"PS, other private creditors (DIS, current US$)",Angola,1.4015,2
+"PS, other private creditors (DIS, current US$)","Egypt, Arab Rep.",0.5126,3
+"PS, other private creditors (DOD, current US$)",Brazil,70.8413,1
+"PS, other private creditors (DOD, current US$)",China,4.1869,2
+"PS, other private creditors (DOD, current US$)",Angola,3.0455,3
+"PS, other private creditors (INT, current US$)",Brazil,3.4704,1
+"PS, other private creditors (INT, current US$)",Angola,0.1797,2
+"PS, other private creditors (INT, current US$)",Iraq,0.0565,3
+"PS, other private creditors (NFL, current US$)",Brazil,4.2148,1
+"PS, other private creditors (NFL, current US$)",Angola,0.6852,2
+"PS, other private creditors (NFL, current US$)","Egypt, Arab Rep.",0.2841,3
+"PS, other private creditors (NTR, current US$)",Brazil,0.7444,1
+"PS, other private creditors (NTR, current US$)",Angola,0.5055,2
+"PS, other private creditors (NTR, current US$)","Egypt, Arab Rep.",0.2696,3
+"PS, other private creditors (TDS, current US$)",Brazil,17.6148,1
+"PS, other private creditors (TDS, current US$)",Angola,0.896,2
+"PS, other private creditors (TDS, current US$)","Congo, Rep.",0.8377,3
+"PS, private creditors (AMT, current US$)",China,71.2269,1
+"PS, private creditors (AMT, current US$)",Indonesia,26.3003,2
+"PS, private creditors (AMT, current US$)",Brazil,18.7055,3
+"PS, private creditors (DIS, current US$)",China,63.3494,1
+"PS, private creditors (DIS, current US$)",Mexico,22.3546,2
+"PS, private creditors (DIS, current US$)",Brazil,20.204,3
+"PS, private creditors (DOD, current US$)",China,472.0,1
+"PS, private creditors (DOD, current US$)",Mexico,256.0,2
+"PS, private creditors (DOD, current US$)",Indonesia,172.0,3
+"PS, private creditors (INT, current US$)",China,19.6087,1
+"PS, private creditors (INT, current US$)",Mexico,10.8258,2
+"PS, private creditors (INT, current US$)",Indonesia,7.7186,3
+"PS, private creditors (NFL, current US$)",Mexico,10.946,1
+"PS, private creditors (NFL, current US$)",Turkiye,3.3045,2
+"PS, private creditors (NFL, current US$)",Philippines,2.8997,3
+"PS, private creditors (NTR, current US$)",Cote d'Ivoire,1.5799,1
+"PS, private creditors (NTR, current US$)",Philippines,1.0606,2
+"PS, private creditors (NTR, current US$)",Dominican Republic,1.0234,3
+"PS, private creditors (TDS, current US$)",China,90.8356,1
+"PS, private creditors (TDS, current US$)",Indonesia,34.0189,2
+"PS, private creditors (TDS, current US$)",Brazil,25.6831,3
+"Principal arrears, long-term DOD",Ukraine,25.7039,1
+"Principal arrears, long-term DOD",Sudan,10.7149,2
+"Principal arrears, long-term DOD",Lebanon,6.6609,3
+"Principal arrears, official creditors (current US$)",Sudan,5.9882,1
+"Principal arrears, official creditors (current US$)",Syrian Arab Republic,3.006,2
+"Principal arrears, official creditors (current US$)",Zimbabwe,2.5836,3
+"Principal arrears, private creditors (current US$)",Ukraine,25.6289,1
+"Principal arrears, private creditors (current US$)",Lebanon,6.6348,2
+"Principal arrears, private creditors (current US$)",Argentina,5.9014,3
+Principal forgiven (current US$),Cameroon,0.0553,1
+Principal forgiven (current US$),Burkina Faso,0.0256,2
+Principal forgiven (current US$),Sudan,0.0228,3
+"Principal repayments on external debt, general government sector (PPG) (AMT, current US$)",China,45.0512,1
+"Principal repayments on external debt, general government sector (PPG) (AMT, current US$)",Indonesia,28.2822,2
+"Principal repayments on external debt, general government sector (PPG) (AMT, current US$)",Pakistan,10.8463,3
+"Principal repayments on external debt, long-term (AMT, current US$)",China,348.0,1
+"Principal repayments on external debt, long-term (AMT, current US$)",Brazil,106.0,2
+"Principal repayments on external debt, long-term (AMT, current US$)",Indonesia,61.4751,3
+"Principal repayments on external debt, long-term + IMF (AMT, current US$)",China,348.0,1
+"Principal repayments on external debt, long-term + IMF (AMT, current US$)",Brazil,106.0,2
+"Principal repayments on external debt, long-term + IMF (AMT, current US$)",Indonesia,61.4751,3
+"Principal repayments on external debt, other public sector (PPG) (AMT, current US$)",China,30.0679,1
+"Principal repayments on external debt, other public sector (PPG) (AMT, current US$)",Brazil,19.1979,2
+"Principal repayments on external debt, other public sector (PPG) (AMT, current US$)",Mexico,7.7195,3
+"Principal repayments on external debt, private guaranteed by public sector (PPG) (AMT, current US$)",Brazil,0.2569,1
+"Principal repayments on external debt, private guaranteed by public sector (PPG) (AMT, current US$)",Turkiye,0.0338,2
+"Principal repayments on external debt, private guaranteed by public sector (PPG) (AMT, current US$)",Viet Nam,0.0253,3
+"Principal repayments on external debt, private nonguaranteed (PNG) (AMT, current US$)",China,273.0,1
+"Principal repayments on external debt, private nonguaranteed (PNG) (AMT, current US$)",Brazil,83.3028,2
+"Principal repayments on external debt, private nonguaranteed (PNG) (AMT, current US$)",Kazakhstan,37.6442,3
+"Principal repayments on external debt, public and publicly guaranteed (PPG) (AMT, current US$)",China,75.1191,1
+"Principal repayments on external debt, public and publicly guaranteed (PPG) (AMT, current US$)",Indonesia,31.1711,2
+"Principal repayments on external debt, public and publicly guaranteed (PPG) (AMT, current US$)",Brazil,22.86,3
+"Principal repayments on external debt, public sector (PPG) (AMT, current US$)",China,75.1191,1
+"Principal repayments on external debt, public sector (PPG) (AMT, current US$)",Indonesia,31.1711,2
+"Principal repayments on external debt, public sector (PPG) (AMT, current US$)",Brazil,22.6031,3
+Principal rescheduled (current US$),Argentina,1.5965,1
+Principal rescheduled (current US$),"Congo, Rep.",1.1911,2
+Principal rescheduled (current US$),Ukraine,0.7782,3
+"Principal rescheduled, official (current US$)",Argentina,1.0565,1
+"Principal rescheduled, official (current US$)","Somalia, Fed. Rep.",0.0821,2
+"Principal rescheduled, official (current US$)",Angola,0.0593,3
+"Principal rescheduled, private (current US$)","Congo, Rep.",1.1469,1
+"Principal rescheduled, private (current US$)",Ukraine,0.7782,2
+"Principal rescheduled, private (current US$)",Argentina,0.5399,3
+"Residual, debt stock-flow reconciliation (current US$)",Mexico,9.4386,1
+"Residual, debt stock-flow reconciliation (current US$)",Paraguay,1.0192,2
+"Residual, debt stock-flow reconciliation (current US$)",Papua New Guinea,0.9015,3
+Total amount of debt rescheduled (current US$),Argentina,2.0724,1
+Total amount of debt rescheduled (current US$),"Congo, Rep.",1.2471,2
+Total amount of debt rescheduled (current US$),Mauritania,0.3,3
+Total external debt per capita (US$),Montenegro,0.0,1
+Total external debt per capita (US$),Mauritius,0.0,2
+Total external debt per capita (US$),Lebanon,0.0,3
+"Undisbursed external debt, official creditors (UND, current US$)",India,51.8815,1
+"Undisbursed external debt, official creditors (UND, current US$)","Egypt, Arab Rep.",39.3077,2
+"Undisbursed external debt, official creditors (UND, current US$)",Bangladesh,37.8998,3
+"Undisbursed external debt, private creditors (UND, current US$)",China,23.6557,1
+"Undisbursed external debt, private creditors (UND, current US$)",Argentina,23.6497,2
+"Undisbursed external debt, private creditors (UND, current US$)",Angola,13.362,3
+"Undisbursed external debt, total (UND, current US$)",Argentina,57.3646,1
+"Undisbursed external debt, total (UND, current US$)",India,54.0688,2
+"Undisbursed external debt, total (UND, current US$)","Egypt, Arab Rep.",47.5344,3
+"Use of IMF credit (DOD, current US$)",Argentina,45.5361,1
+"Use of IMF credit (DOD, current US$)","Egypt, Arab Rep.",17.9588,2
+"Use of IMF credit (DOD, current US$)",Ukraine,10.1255,3
+"Use of IMF credit and SDR allocations (DOD, current US$)",Argentina,52.29,1
+"Use of IMF credit and SDR allocations (DOD, current US$)",China,48.1847,2
+"Use of IMF credit and SDR allocations (DOD, current US$)",India,22.0226,3

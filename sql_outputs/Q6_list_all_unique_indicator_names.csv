@@ -1,0 +1,442 @@
+indicator_name,indicator_group
+"Interest arrears, long-term DOD",Arrears
+"Interest arrears, official creditors (current US$)",Arrears
+"Interest arrears, private creditors (current US$)",Arrears
+"Principal arrears, long-term DOD",Arrears
+"Principal arrears, official creditors (current US$)",Arrears
+"Principal arrears, private creditors (current US$)",Arrears
+"Commitments, IBRD (COM, current US$)",Commitments
+"Commitments, IDA (COM, current US$)",Commitments
+"Commitments, bilateral creditors (COM, current US$)",Commitments
+"Commitments, multilateral creditors (COM, current US$)",Commitments
+"Commitments, official creditors (COM, current US$)",Commitments
+"Commitments, private creditors (COM, current US$)",Commitments
+"Commitments, public and publicly guaranteed (COM, current US$)",Commitments
+Debt buyback (current US$),Debt Relief
+Debt forgiveness grants (current US$),Debt Relief
+Debt stock reduction (current US$),Debt Relief
+Interest forgiven (current US$),Debt Relief
+Principal forgiven (current US$),Debt Relief
+Debt stock rescheduled (current US$),Debt Rescheduling
+Interest rescheduled (capitalized) (current US$),Debt Rescheduling
+"Interest rescheduled, official (current US$)",Debt Rescheduling
+"Interest rescheduled, private (current US$)",Debt Rescheduling
+Principal rescheduled (current US$),Debt Rescheduling
+"Principal rescheduled, official (current US$)",Debt Rescheduling
+"Principal rescheduled, private (current US$)",Debt Rescheduling
+Total amount of debt rescheduled (current US$),Debt Rescheduling
+"Debt service on external debt, general government sector (PPG) (TDS, current US$)",Debt Service
+"Debt service on external debt, long-term (TDS, current US$)",Debt Service
+"Debt service on external debt, other public sector (PPG) (TDS, current US$)",Debt Service
+"Debt service on external debt, private guaranteed by public sector (PPG) (TDS, current US$)",Debt Service
+"Debt service on external debt, private nonguaranteed (PNG) (TDS, current US$)",Debt Service
+"Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)",Debt Service
+"Debt service on external debt, public sector (PPG) (TDS, current US$)",Debt Service
+"Debt service on external debt, total (TDS, current US$)",Debt Service
+"GG, bilateral (TDS, current US$)",Debt Service
+"GG, bilateral concessional (TDS, current US$)",Debt Service
+"GG, bonds (TDS, current US$)",Debt Service
+"GG, commercial banks (TDS, current US$)",Debt Service
+"GG, multilateral (TDS, current US$)",Debt Service
+"GG, multilateral concessional (TDS, current US$)",Debt Service
+"GG, official creditors (TDS, current US$)",Debt Service
+"GG, other private creditors (TDS, current US$)",Debt Service
+"GG, private creditors (TDS, current US$)",Debt Service
+"IMF repurchases and charges (TDS, current US$)",Debt Service
+"Multilateral debt service (TDS, current US$)",Debt Service
+"OPS, bilateral (TDS, current US$)",Debt Service
+"OPS, bilateral concessional (TDS, current US$)",Debt Service
+"OPS, bonds (TDS, current US$)",Debt Service
+"OPS, commercial banks (TDS, current US$)",Debt Service
+"OPS, multilateral (TDS, current US$)",Debt Service
+"OPS, multilateral concessional (TDS, current US$)",Debt Service
+"OPS, official creditors (TDS, current US$)",Debt Service
+"OPS, other private creditors (TDS, current US$)",Debt Service
+"OPS, private creditors (TDS, current US$)",Debt Service
+"PNG, bonds (TDS, current US$)",Debt Service
+"PNG, commercial banks and other creditors (TDS, current US$)",Debt Service
+"PPG, IBRD (TDS, current US$)",Debt Service
+"PPG, IDA (TDS, current US$)",Debt Service
+"PPG, bilateral (TDS, current US$)",Debt Service
+"PPG, bilateral concessional (TDS, current US$)",Debt Service
+"PPG, bonds (TDS, current US$)",Debt Service
+"PPG, commercial banks (TDS, current US$)",Debt Service
+"PPG, multilateral concessional (TDS, current US$)",Debt Service
+"PPG, official creditors (TDS, current US$)",Debt Service
+"PPG, other private creditors (TDS, current US$)",Debt Service
+"PPG, private creditors (TDS, current US$)",Debt Service
+"PRVG, bilateral (TDS, current US$)",Debt Service
+"PRVG, bilateral concessional (TDS, current US$)",Debt Service
+"PRVG, bonds (TDS, current US$)",Debt Service
+"PRVG, commercial banks (TDS, current US$)",Debt Service
+"PRVG, multilateral (TDS, current US$)",Debt Service
+"PRVG, multilateral concessional (TDS, current US$)",Debt Service
+"PRVG, official creditors (TDS, current US$)",Debt Service
+"PRVG, private creditors (TDS, current US$)",Debt Service
+"PS, bilateral (TDS, current US$)",Debt Service
+"PS, bilateral concessional (TDS, current US$)",Debt Service
+"PS, bonds (TDS, current US$)",Debt Service
+"PS, commercial banks (TDS, current US$)",Debt Service
+"PS, multilateral (TDS, current US$)",Debt Service
+"PS, multilateral concessional (TDS, current US$)",Debt Service
+"PS, official creditors (TDS, current US$)",Debt Service
+"PS, other private creditors (TDS, current US$)",Debt Service
+"PS, private creditors (TDS, current US$)",Debt Service
+"External debt stocks, concessional (DOD, current US$)",Debt Stocks
+"External debt stocks, general government sector (PPG) (DOD, current US$)",Debt Stocks
+"External debt stocks, long-term (DOD, current US$)",Debt Stocks
+"External debt stocks, long-term private sector (DOD, current US$)",Debt Stocks
+"External debt stocks, long-term public sector (DOD, current US$)",Debt Stocks
+"External debt stocks, other public sector (PPG) (DOD, current US$)",Debt Stocks
+"External debt stocks, private guaranteed by public sector (PPG) (DOD, current US$)",Debt Stocks
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",Debt Stocks
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",Debt Stocks
+"External debt stocks, public sector (PPG) (DOD, current US$)",Debt Stocks
+"External debt stocks, short-term (DOD, current US$)",Debt Stocks
+"External debt stocks, total (DOD, current US$)",Debt Stocks
+"External debt stocks, variable rate (DOD, current US$)",Debt Stocks
+"External debt stocks, variable rate public and publicly guaranteed debt (PPG) (DOD, current US$)",Debt Stocks
+"GG, bilateral (DOD, current US$)",Debt Stocks
+"GG, bilateral concessional (DOD, current US$)",Debt Stocks
+"GG, bonds (DOD, current US$)",Debt Stocks
+"GG, commercial banks (DOD, current US$)",Debt Stocks
+"GG, multilateral (DOD, current US$)",Debt Stocks
+"GG, multilateral concessional (DOD, current US$)",Debt Stocks
+"GG, official creditors (DOD, current US$)",Debt Stocks
+"GG, other private creditors (DOD, current US$)",Debt Stocks
+"GG, private creditors (DOD, current US$)",Debt Stocks
+"IMF SDR allocations (DOD, current US$)",Debt Stocks
+"OPS, bilateral (DOD, current US$)",Debt Stocks
+"OPS, bilateral concessional (DOD, current US$)",Debt Stocks
+"OPS, bonds (DOD, current US$)",Debt Stocks
+"OPS, commercial banks (DOD, current US$)",Debt Stocks
+"OPS, multilateral (DOD, current US$)",Debt Stocks
+"OPS, multilateral concessional (DOD, current US$)",Debt Stocks
+"OPS, official creditors (DOD, current US$)",Debt Stocks
+"OPS, other private creditors (DOD, current US$)",Debt Stocks
+"OPS, private creditors (DOD, current US$)",Debt Stocks
+"PNG, bonds (DOD, current US$)",Debt Stocks
+"PNG, commercial banks and other creditors (DOD, current US$)",Debt Stocks
+"PPG, IBRD (DOD, current US$)",Debt Stocks
+"PPG, IDA (DOD, current US$)",Debt Stocks
+"PPG, bilateral (DOD, current US$)",Debt Stocks
+"PPG, bilateral concessional (DOD, current US$)",Debt Stocks
+"PPG, bonds (DOD, current US$)",Debt Stocks
+"PPG, commercial banks (DOD, current US$)",Debt Stocks
+"PPG, multilateral (DOD, current US$)",Debt Stocks
+"PPG, multilateral concessional (DOD, current US$)",Debt Stocks
+"PPG, official creditors (DOD, current US$)",Debt Stocks
+"PPG, other private creditors (DOD, current US$)",Debt Stocks
+"PPG, private creditors (DOD, current US$)",Debt Stocks
+"PRVG, bilateral (DOD, current US$)",Debt Stocks
+"PRVG, bilateral concessional (DOD, current US$)",Debt Stocks
+"PRVG, bonds (DOD, current US$)",Debt Stocks
+"PRVG, commercial banks (DOD, current US$)",Debt Stocks
+"PRVG, multilateral (DOD, current US$)",Debt Stocks
+"PRVG, multilateral concessional (DOD, current US$)",Debt Stocks
+"PRVG, official creditors (DOD, current US$)",Debt Stocks
+"PRVG, private creditors (DOD, current US$)",Debt Stocks
+"PS, bilateral (DOD, current US$)",Debt Stocks
+"PS, bilateral concessional (DOD, current US$)",Debt Stocks
+"PS, bonds (DOD, current US$)",Debt Stocks
+"PS, commercial banks (DOD, current US$)",Debt Stocks
+"PS, multilateral (DOD, current US$)",Debt Stocks
+"PS, multilateral concessional (DOD, current US$)",Debt Stocks
+"PS, official creditors (DOD, current US$)",Debt Stocks
+"PS, other private creditors (DOD, current US$)",Debt Stocks
+"PS, private creditors (DOD, current US$)",Debt Stocks
+"Residual, debt stock-flow reconciliation (current US$)",Debt Stocks
+Total external debt per capita (US$),Debt Stocks
+"Use of IMF credit (DOD, current US$)",Debt Stocks
+"Use of IMF credit and SDR allocations (DOD, current US$)",Debt Stocks
+"Disbursements on external debt, general government sector (PPG) (DIS, current US$)",Disbursements
+"Disbursements on external debt, long-term (DIS, current US$)",Disbursements
+"Disbursements on external debt, long-term + IMF (DIS, current US$)",Disbursements
+"Disbursements on external debt, other public sector (PPG) (DIS, current US$)",Disbursements
+"Disbursements on external debt, private guaranteed by public sector (PPG) (DIS, current US$)",Disbursements
+"Disbursements on external debt, private nonguaranteed (PNG) (DIS, current US$)",Disbursements
+"Disbursements on external debt, public and publicly guaranteed (PPG) (DIS, current US$)",Disbursements
+"Disbursements on external debt, public sector (PPG) (DIS, current US$)",Disbursements
+"GG, bilateral (DIS, current US$)",Disbursements
+"GG, bilateral concessional (DIS, current US$)",Disbursements
+"GG, bonds (DIS, current US$)",Disbursements
+"GG, commercial banks (DIS, current US$)",Disbursements
+"GG, multilateral (DIS, current US$)",Disbursements
+"GG, multilateral concessional (DIS, current US$)",Disbursements
+"GG, official creditors (DIS, current US$)",Disbursements
+"GG, other private creditors (DIS, current US$)",Disbursements
+"GG, private creditors (DIS, current US$)",Disbursements
+IDA grants (current US$),Disbursements
+"IMF purchases (DIS, current US$)",Disbursements
+"OPS, bilateral (DIS, current US$)",Disbursements
+"OPS, bilateral concessional (DIS, current US$)",Disbursements
+"OPS, bonds (DIS, current US$)",Disbursements
+"OPS, commercial banks (DIS, current US$)",Disbursements
+"OPS, multilateral (DIS, current US$)",Disbursements
+"OPS, multilateral concessional (DIS, current US$)",Disbursements
+"OPS, official creditors (DIS, current US$)",Disbursements
+"OPS, other private creditors (DIS, current US$)",Disbursements
+"OPS, private creditors (DIS, current US$)",Disbursements
+"PNG, bonds (DIS, current US$)",Disbursements
+"PNG, commercial banks and other creditors (DIS, current US$)",Disbursements
+"PPG, IBRD (DIS, current US$)",Disbursements
+"PPG, IDA (DIS, current US$)",Disbursements
+"PPG, bilateral (DIS, current US$)",Disbursements
+"PPG, bilateral concessional (DIS, current US$)",Disbursements
+"PPG, bonds (DIS, current US$)",Disbursements
+"PPG, commercial banks (DIS, current US$)",Disbursements
+"PPG, multilateral (DIS, current US$)",Disbursements
+"PPG, multilateral concessional (DIS, current US$)",Disbursements
+"PPG, official creditors (DIS, current US$)",Disbursements
+"PPG, other private creditors (DIS, current US$)",Disbursements
+"PPG, private creditors (DIS, current US$)",Disbursements
+"PRVG, bilateral (DIS, current US$)",Disbursements
+"PRVG, commercial banks (DIS, current US$)",Disbursements
+"PRVG, multilateral (DIS, current US$)",Disbursements
+"PRVG, multilateral concessional (DIS, current US$)",Disbursements
+"PRVG, official creditors (DIS, current US$)",Disbursements
+"PRVG, private creditors (DIS, current US$)",Disbursements
+"PS, bilateral (DIS, current US$)",Disbursements
+"PS, bilateral concessional (DIS, current US$)",Disbursements
+"PS, bonds (DIS, current US$)",Disbursements
+"PS, commercial banks (DIS, current US$)",Disbursements
+"PS, multilateral (DIS, current US$)",Disbursements
+"PS, multilateral concessional (DIS, current US$)",Disbursements
+"PS, official creditors (DIS, current US$)",Disbursements
+"PS, other private creditors (DIS, current US$)",Disbursements
+"PS, private creditors (DIS, current US$)",Disbursements
+"GG, bilateral (INT, current US$)",Interest Payments
+"GG, bilateral concessional (INT, current US$)",Interest Payments
+"GG, bonds (INT, current US$)",Interest Payments
+"GG, commercial banks (INT, current US$)",Interest Payments
+"GG, multilateral (INT, current US$)",Interest Payments
+"GG, multilateral concessional (INT, current US$)",Interest Payments
+"GG, official creditors (INT, current US$)",Interest Payments
+"GG, other private creditors (INT, current US$)",Interest Payments
+"GG, private creditors (INT, current US$)",Interest Payments
+"IMF SDR allocations, charges (INT, current US$)",Interest Payments
+"IMF credit and SDR allocations, charges (INT, current US$)",Interest Payments
+"IMF credit, charges (INT, current US$)",Interest Payments
+"Interest payments on external debt, general government sector (PPG) (INT, current US$)",Interest Payments
+"Interest payments on external debt, long-term (INT, current US$)",Interest Payments
+"Interest payments on external debt, other public sector (PPG) (INT, current US$)",Interest Payments
+"Interest payments on external debt, private guaranteed by public sector (PPG) (INT, current US$)",Interest Payments
+"Interest payments on external debt, private nonguaranteed (PNG) (INT, current US$)",Interest Payments
+"Interest payments on external debt, public and publicly guaranteed (PPG) (INT, current US$)",Interest Payments
+"Interest payments on external debt, public sector (PPG) (INT, current US$)",Interest Payments
+"Interest payments on external debt, short-term (INT, current US$)",Interest Payments
+"Interest payments on external debt, total (INT, current US$)",Interest Payments
+"Interest payments on variable rate external debt, long-term (INT, current US$)",Interest Payments
+"Interest payments on variable rate external debt, public and publicly guaranteed (PPG) (INT, current US$)",Interest Payments
+"OPS, bilateral (INT, current US$)",Interest Payments
+"OPS, bilateral concessional (INT, current US$)",Interest Payments
+"OPS, bonds (INT, current US$)",Interest Payments
+"OPS, commercial banks (INT, current US$)",Interest Payments
+"OPS, multilateral (INT, current US$)",Interest Payments
+"OPS, multilateral concessional (INT, current US$)",Interest Payments
+"OPS, official creditors (INT, current US$)",Interest Payments
+"OPS, other private creditors (INT, current US$)",Interest Payments
+"OPS, private creditors (INT, current US$)",Interest Payments
+"PNG, bonds (INT, current US$)",Interest Payments
+"PNG, commercial banks and other creditors (INT, current US$)",Interest Payments
+"PPG, IBRD (INT, current US$)",Interest Payments
+"PPG, IDA (INT, current US$)",Interest Payments
+"PPG, bilateral (INT, current US$)",Interest Payments
+"PPG, bilateral concessional (INT, current US$)",Interest Payments
+"PPG, bonds (INT, current US$)",Interest Payments
+"PPG, commercial banks (INT, current US$)",Interest Payments
+"PPG, multilateral (INT, current US$)",Interest Payments
+"PPG, multilateral concessional (INT, current US$)",Interest Payments
+"PPG, official creditors (INT, current US$)",Interest Payments
+"PPG, other private creditors (INT, current US$)",Interest Payments
+"PPG, private creditors (INT, current US$)",Interest Payments
+"PRVG, bilateral (INT, current US$)",Interest Payments
+"PRVG, bonds (INT, current US$)",Interest Payments
+"PRVG, commercial banks (INT, current US$)",Interest Payments
+"PRVG, multilateral (INT, current US$)",Interest Payments
+"PRVG, multilateral concessional (INT, current US$)",Interest Payments
+"PRVG, official creditors (INT, current US$)",Interest Payments
+"PRVG, private creditors (INT, current US$)",Interest Payments
+"PS, bilateral (INT, current US$)",Interest Payments
+"PS, bilateral concessional (INT, current US$)",Interest Payments
+"PS, bonds (INT, current US$)",Interest Payments
+"PS, commercial banks (INT, current US$)",Interest Payments
+"PS, multilateral (INT, current US$)",Interest Payments
+"PS, multilateral concessional (INT, current US$)",Interest Payments
+"PS, official creditors (INT, current US$)",Interest Payments
+"PS, other private creditors (INT, current US$)",Interest Payments
+"PS, private creditors (INT, current US$)",Interest Payments
+"GG, bilateral (NFL, current US$)",Net Flows
+"GG, bilateral concessional (NFL, current US$)",Net Flows
+"GG, bonds (NFL, current US$)",Net Flows
+"GG, commercial banks (NFL, current US$)",Net Flows
+"GG, multilateral (NFL, current US$)",Net Flows
+"GG, multilateral concessional (NFL, current US$)",Net Flows
+"GG, official creditors (NFL, current US$)",Net Flows
+"GG, other private creditors (NFL, current US$)",Net Flows
+"GG, private creditors (NFL, current US$)",Net Flows
+"IFC, private nonguaranteed (NFL, current US$)",Net Flows
+"Net financial flows, IBRD (NFL, current US$)",Net Flows
+"Net financial flows, IDA (NFL, current US$)",Net Flows
+"Net financial flows, IMF concessional (NFL, current US$)",Net Flows
+"Net financial flows, IMF nonconcessional (NFL, current US$)",Net Flows
+"Net financial flows, RDB concessional (NFL, current US$)",Net Flows
+"Net financial flows, RDB nonconcessional (NFL, current US$)",Net Flows
+"Net financial flows, bilateral (NFL, current US$)",Net Flows
+"Net financial flows, multilateral (NFL, current US$)",Net Flows
+"Net financial flows, others (NFL, current US$)",Net Flows
+"Net flows on external debt, general government sector (PPG) (NFL, current US$)",Net Flows
+"Net flows on external debt, long-term (NFL, current US$)",Net Flows
+"Net flows on external debt, other public sector (PPG) (NFL, current US$)",Net Flows
+"Net flows on external debt, private guaranteed by public sector (PPG) (NFL, current US$)",Net Flows
+"Net flows on external debt, private nonguaranteed (PNG) (NFL, current US$)",Net Flows
+"Net flows on external debt, public and publicly guaranteed (PPG) (NFL, current US$)",Net Flows
+"Net flows on external debt, public sector (PPG) (NFL, current US$)",Net Flows
+"Net flows on external debt, short-term (NFL, current US$)",Net Flows
+"Net flows on external debt, total (NFL, current US$)",Net Flows
+"OPS, bilateral (NFL, current US$)",Net Flows
+"OPS, bilateral concessional (NFL, current US$)",Net Flows
+"OPS, bonds (NFL, current US$)",Net Flows
+"OPS, commercial banks (NFL, current US$)",Net Flows
+"OPS, multilateral (NFL, current US$)",Net Flows
+"OPS, multilateral concessional (NFL, current US$)",Net Flows
+"OPS, official creditors (NFL, current US$)",Net Flows
+"OPS, other private creditors (NFL, current US$)",Net Flows
+"OPS, private creditors (NFL, current US$)",Net Flows
+"PNG, bonds (NFL, current US$)",Net Flows
+"PNG, commercial banks and other creditors (NFL, current US$)",Net Flows
+"PPG, bilateral concessional (NFL, current US$)",Net Flows
+"PPG, bonds (NFL, current US$)",Net Flows
+"PPG, commercial banks (NFL, current US$)",Net Flows
+"PPG, multilateral concessional (NFL, current US$)",Net Flows
+"PPG, official creditors (NFL, current US$)",Net Flows
+"PPG, other private creditors (NFL, current US$)",Net Flows
+"PPG, private creditors (NFL, current US$)",Net Flows
+"PRVG, bilateral (NFL, current US$)",Net Flows
+"PRVG, commercial banks (NFL, current US$)",Net Flows
+"PRVG, multilateral (NFL, current US$)",Net Flows
+"PRVG, multilateral concessional (NFL, current US$)",Net Flows
+"PRVG, official creditors (NFL, current US$)",Net Flows
+"PRVG, private creditors (NFL, current US$)",Net Flows
+"PS, bilateral (NFL, current US$)",Net Flows
+"PS, bilateral concessional (NFL, current US$)",Net Flows
+"PS, bonds (NFL, current US$)",Net Flows
+"PS, commercial banks (NFL, current US$)",Net Flows
+"PS, multilateral (NFL, current US$)",Net Flows
+"PS, multilateral concessional (NFL, current US$)",Net Flows
+"PS, official creditors (NFL, current US$)",Net Flows
+"PS, other private creditors (NFL, current US$)",Net Flows
+"PS, private creditors (NFL, current US$)",Net Flows
+"GG, bilateral (NTR, current US$)",Net Transfers
+"GG, bilateral concessional (NTR, current US$)",Net Transfers
+"GG, bonds (NTR, current US$)",Net Transfers
+"GG, commercial banks (NTR, current US$)",Net Transfers
+"GG, multilateral (NTR, current US$)",Net Transfers
+"GG, multilateral concessional (NTR, current US$)",Net Transfers
+"GG, official creditors (NTR, current US$)",Net Transfers
+"GG, other private creditors (NTR, current US$)",Net Transfers
+"GG, private creditors (NTR, current US$)",Net Transfers
+"Net transfers on external debt, general government sector (PPG) (NTR, current US$)",Net Transfers
+"Net transfers on external debt, long-term (NTR, current US$)",Net Transfers
+"Net transfers on external debt, other public sector (PPG) (NTR, current US$)",Net Transfers
+"Net transfers on external debt, private guaranteed by public sector (PPG) (NTR, current US$)",Net Transfers
+"Net transfers on external debt, private nonguaranteed (PNG) (NTR, current US$)",Net Transfers
+"Net transfers on external debt, public and publicly guaranteed (PPG) (NTR, current US$)",Net Transfers
+"Net transfers on external debt, public sector (PPG) (NTR, current US$)",Net Transfers
+"Net transfers on external debt, total (NTR, current US$)",Net Transfers
+"OPS, bilateral (NTR, current US$)",Net Transfers
+"OPS, bilateral concessional (NTR, current US$)",Net Transfers
+"OPS, bonds (NTR, current US$)",Net Transfers
+"OPS, commercial banks (NTR, current US$)",Net Transfers
+"OPS, multilateral (NTR, current US$)",Net Transfers
+"OPS, multilateral concessional (NTR, current US$)",Net Transfers
+"OPS, official creditors (NTR, current US$)",Net Transfers
+"OPS, other private creditors (NTR, current US$)",Net Transfers
+"OPS, private creditors (NTR, current US$)",Net Transfers
+"PNG, bonds (NTR, current US$)",Net Transfers
+"PNG, commercial banks and other creditors (NTR, current US$)",Net Transfers
+"PPG, IBRD (NTR, current US$)",Net Transfers
+"PPG, IDA (NTR, current US$)",Net Transfers
+"PPG, bilateral (NTR, current US$)",Net Transfers
+"PPG, bilateral concessional (NTR, current US$)",Net Transfers
+"PPG, bonds (NTR, current US$)",Net Transfers
+"PPG, commercial banks (NTR, current US$)",Net Transfers
+"PPG, multilateral (NTR, current US$)",Net Transfers
+"PPG, multilateral concessional (NTR, current US$)",Net Transfers
+"PPG, official creditors (NTR, current US$)",Net Transfers
+"PPG, other private creditors (NTR, current US$)",Net Transfers
+"PPG, private creditors (NTR, current US$)",Net Transfers
+"PRVG, bilateral (NTR, current US$)",Net Transfers
+"PRVG, commercial banks (NTR, current US$)",Net Transfers
+"PRVG, multilateral (NTR, current US$)",Net Transfers
+"PRVG, multilateral concessional (NTR, current US$)",Net Transfers
+"PRVG, official creditors (NTR, current US$)",Net Transfers
+"PRVG, private creditors (NTR, current US$)",Net Transfers
+"PS, bilateral (NTR, current US$)",Net Transfers
+"PS, bilateral concessional (NTR, current US$)",Net Transfers
+"PS, bonds (NTR, current US$)",Net Transfers
+"PS, commercial banks (NTR, current US$)",Net Transfers
+"PS, multilateral (NTR, current US$)",Net Transfers
+"PS, multilateral concessional (NTR, current US$)",Net Transfers
+"PS, official creditors (NTR, current US$)",Net Transfers
+"PS, other private creditors (NTR, current US$)",Net Transfers
+"PS, private creditors (NTR, current US$)",Net Transfers
+"GG, bilateral (AMT, current US$)",Principal Repayments
+"GG, bilateral concessional (AMT, current US$)",Principal Repayments
+"GG, bonds (AMT, current US$)",Principal Repayments
+"GG, commercial banks (AMT, current US$)",Principal Repayments
+"GG, multilateral (AMT, current US$)",Principal Repayments
+"GG, multilateral concessional (AMT, current US$)",Principal Repayments
+"GG, official creditors (AMT, current US$)",Principal Repayments
+"GG, other private creditors (AMT, current US$)",Principal Repayments
+"GG, private creditors (AMT, current US$)",Principal Repayments
+"IMF repurchases (AMT, current US$)",Principal Repayments
+"OPS, bilateral (AMT, current US$)",Principal Repayments
+"OPS, bilateral concessional (AMT, current US$)",Principal Repayments
+"OPS, bonds (AMT, current US$)",Principal Repayments
+"OPS, commercial banks (AMT, current US$)",Principal Repayments
+"OPS, multilateral (AMT, current US$)",Principal Repayments
+"OPS, multilateral concessional (AMT, current US$)",Principal Repayments
+"OPS, official creditors (AMT, current US$)",Principal Repayments
+"OPS, other private creditors (AMT, current US$)",Principal Repayments
+"OPS, private creditors (AMT, current US$)",Principal Repayments
+"PNG, bonds (AMT, current US$)",Principal Repayments
+"PNG, commercial banks and other creditors (AMT, current US$)",Principal Repayments
+"PPG, IBRD (AMT, current US$)",Principal Repayments
+"PPG, IDA (AMT, current US$)",Principal Repayments
+"PPG, bilateral (AMT, current US$)",Principal Repayments
+"PPG, bilateral concessional (AMT, current US$)",Principal Repayments
+"PPG, bonds (AMT, current US$)",Principal Repayments
+"PPG, commercial banks (AMT, current US$)",Principal Repayments
+"PPG, multilateral (AMT, current US$)",Principal Repayments
+"PPG, multilateral concessional (AMT, current US$)",Principal Repayments
+"PPG, official creditors (AMT, current US$)",Principal Repayments
+"PPG, other private creditors (AMT, current US$)",Principal Repayments
+"PPG, private creditors (AMT, current US$)",Principal Repayments
+"PRVG, bilateral (AMT, current US$)",Principal Repayments
+"PRVG, bilateral concessional (AMT, current US$)",Principal Repayments
+"PRVG, commercial banks (AMT, current US$)",Principal Repayments
+"PRVG, multilateral (AMT, current US$)",Principal Repayments
+"PRVG, multilateral concessional (AMT, current US$)",Principal Repayments
+"PRVG, official creditors (AMT, current US$)",Principal Repayments
+"PRVG, private creditors (AMT, current US$)",Principal Repayments
+"PS, bilateral (AMT, current US$)",Principal Repayments
+"PS, bilateral concessional (AMT, current US$)",Principal Repayments
+"PS, bonds (AMT, current US$)",Principal Repayments
+"PS, commercial banks (AMT, current US$)",Principal Repayments
+"PS, multilateral (AMT, current US$)",Principal Repayments
+"PS, multilateral concessional (AMT, current US$)",Principal Repayments
+"PS, official creditors (AMT, current US$)",Principal Repayments
+"PS, other private creditors (AMT, current US$)",Principal Repayments
+"PS, private creditors (AMT, current US$)",Principal Repayments
+"Principal repayments on external debt, general government sector (PPG) (AMT, current US$)",Principal Repayments
+"Principal repayments on external debt, long-term (AMT, current US$)",Principal Repayments
+"Principal repayments on external debt, long-term + IMF (AMT, current US$)",Principal Repayments
+"Principal repayments on external debt, other public sector (PPG) (AMT, current US$)",Principal Repayments
+"Principal repayments on external debt, private guaranteed by public sector (PPG) (AMT, current US$)",Principal Repayments
+"Principal repayments on external debt, private nonguaranteed (PNG) (AMT, current US$)",Principal Repayments
+"Principal repayments on external debt, public and publicly guaranteed (PPG) (AMT, current US$)",Principal Repayments
+"Principal repayments on external debt, public sector (PPG) (AMT, current US$)",Principal Repayments
+"Undisbursed external debt, official creditors (UND, current US$)",Undisbursed Debt
+"Undisbursed external debt, private creditors (UND, current US$)",Undisbursed Debt
+"Undisbursed external debt, total (UND, current US$)",Undisbursed Debt

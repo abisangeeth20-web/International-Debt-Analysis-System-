@@ -1,0 +1,337 @@
+{
+  "raw_profile": {
+    "rows": 27445,
+    "columns": [
+      "country_name",
+      "country_code",
+      "indicator_name",
+      "indicator_code",
+      "debt_usd"
+    ],
+    "dtypes": {
+      "country_name": "str",
+      "country_code": "str",
+      "indicator_name": "str",
+      "indicator_code": "str",
+      "debt_usd": "float64"
+    },
+    "null_counts": {
+      "country_name": 0,
+      "country_code": 0,
+      "indicator_name": 0,
+      "indicator_code": 0,
+      "debt_usd": 0
+    },
+    "exact_duplicates": 0,
+    "key_duplicates": 0,
+    "unique_countries": 120,
+    "unique_indicators": 446,
+    "negative_values": 0,
+    "zero_values": 0
+  },
+  "cleaning": {
+    "rows_in": 27445,
+    "rows_missing_key_dropped": 0,
+    "rows_missing_value_dropped": 0,
+    "exact_duplicates_removed": 0,
+    "key_duplicates_removed": 0,
+    "negative_values_dropped": 0,
+    "macro_rows_moved": 479,
+    "rows_out": 26966,
+    "countries_out": 120,
+    "indicators_out": 441
+  },
+  "sqlite_rows": {
+    "countries": 120,
+    "indicators": 441,
+    "debt_data": 26966,
+    "country_macro": 120
+  },
+  "mysql_rows": null,
+  "queries": [
+    {
+      "id": "Q1",
+      "category": "Basic",
+      "title": "Retrieve all distinct country names from the dataset.",
+      "rows": 120
+    },
+    {
+      "id": "Q2",
+      "category": "Basic",
+      "title": "Count the total number of countries available.",
+      "rows": 1
+    },
+    {
+      "id": "Q3",
+      "category": "Basic",
+      "title": "Find the total number of indicators present.",
+      "rows": 1
+    },
+    {
+      "id": "Q4",
+      "category": "Basic",
+      "title": "Display the first 10 records of the dataset.",
+      "rows": 10
+    },
+    {
+      "id": "Q5",
+      "category": "Basic",
+      "title": "Calculate the total global debt.",
+      "rows": 1
+    },
+    {
+      "id": "Q6",
+      "category": "Basic",
+      "title": "List all unique indicator names.",
+      "rows": 441
+    },
+    {
+      "id": "Q7",
+      "category": "Basic",
+      "title": "Find the number of records for each country.",
+      "rows": 120
+    },
+    {
+      "id": "Q8",
+      "category": "Basic",
+      "title": "Display all records where debt is greater than 1 billion USD.",
+      "rows": 6255
+    },
+    {
+      "id": "Q9",
+      "category": "Basic",
+      "title": "Find the minimum, maximum, and average debt values.",
+      "rows": 1
+    },
+    {
+      "id": "Q10",
+      "category": "Basic",
+      "title": "Count total number of records in the dataset.",
+      "rows": 1
+    },
+    {
+      "id": "Q11",
+      "category": "Intermediate",
+      "title": "Find the total debt for each country.",
+      "rows": 120
+    },
+    {
+      "id": "Q12",
+      "category": "Intermediate",
+      "title": "Display the top 10 countries with the highest total debt.",
+      "rows": 10
+    },
+    {
+      "id": "Q13",
+      "category": "Intermediate",
+      "title": "Find the average debt per country.",
+      "rows": 120
+    },
+    {
+      "id": "Q14",
+      "category": "Intermediate",
+      "title": "Calculate total debt for each indicator.",
+      "rows": 441
+    },
+    {
+      "id": "Q15",
+      "category": "Intermediate",
+      "title": "Identify the indicator contributing the highest total debt.",
+      "rows": 1
+    },
+    {
+      "id": "Q16",
+      "category": "Intermediate",
+      "title": "Find the country with the lowest total debt.",
+      "rows": 1
+    },
+    {
+      "id": "Q17",
+      "category": "Intermediate",
+      "title": "Calculate total debt for each country and indicator combination.",
+      "rows": 26966
+    },
+    {
+      "id": "Q18",
+      "category": "Intermediate",
+      "title": "Count how many indicators each country has.",
+      "rows": 120
+    },
+    {
+      "id": "Q19",
+      "category": "Intermediate",
+      "title": "Display countries whose total debt is above the global average.",
+      "rows": 22
+    },
+    {
+      "id": "Q20",
+      "category": "Intermediate",
+      "title": "Rank countries based on total debt (highest to lowest).",
+      "rows": 120
+    },
+    {
+      "id": "Q21",
+      "category": "Advanced",
+      "title": "Find the top 5 indicators contributing most to global debt.",
+      "rows": 5
+    },
+    {
+      "id": "Q22",
+      "category": "Advanced",
+      "title": "Calculate percentage contribution of each country to total global debt.",
+      "rows": 120
+    },
+    {
+      "id": "Q23",
+      "category": "Advanced",
+      "title": "Identify the top 3 countries for each indicator based on debt.",
+      "rows": 1283
+    },
+    {
+      "id": "Q24",
+      "category": "Advanced",
+      "title": "Find the difference between maximum and minimum debt for each country.",
+      "rows": 120
+    },
+    {
+      "id": "Q25",
+      "category": "Advanced",
+      "title": "Create a view for the top 10 countries with highest debt.",
+      "rows": 10
+    },
+    {
+      "id": "Q26",
+      "category": "Advanced",
+      "title": "Categorize countries into High, Medium and Low debt (based on thresholds).",
+      "rows": 120
+    },
+    {
+      "id": "Q27",
+      "category": "Advanced",
+      "title": "Use window functions to calculate cumulative debt per country.",
+      "rows": 120
+    },
+    {
+      "id": "Q28",
+      "category": "Advanced",
+      "title": "Find indicators where average debt is higher than overall average debt.",
+      "rows": 58
+    },
+    {
+      "id": "Q29",
+      "category": "Advanced",
+      "title": "Identify countries contributing more than 5% of global debt.",
+      "rows": 5
+    },
+    {
+      "id": "Q30",
+      "category": "Advanced",
+      "title": "Find the most dominant indicator (highest contribution) for each country.",
+      "rows": 120
+    }
+  ],
+  "statistics": {
+    "record_mean_usd": 3478333552.3121853,
+    "record_median_usd": 135749713.8,
+    "record_std_usd": 28046055367.98489,
+    "record_min_usd": 0.1,
+    "record_max_usd": 2530000000000.0,
+    "record_skew": 40.80413861209661,
+    "country_total_mean_usd": 781639521430.4198,
+    "country_total_median_usd": 154643895766.55368,
+    "country_total_q25_usd": 39651561589.61343,
+    "country_total_q75_usd": 588490377992.2147,
+    "countries_above_mean": 22
+  },
+  "findings": {
+    "countries": 120,
+    "indicators": 441,
+    "total_debt_trillion": 93.79674257165037,
+    "external_debt_stock_trillion": 8.6830965337895,
+    "top_country": "China",
+    "top_country_pct": 21.49743468379738,
+    "top5_countries": [
+      "China",
+      "Brazil",
+      "Mexico",
+      "India",
+      "Indonesia"
+    ],
+    "top5_pct": 48.11550536508463,
+    "countries_for_80pct": 22,
+    "lowest_country": "Tonga",
+    "lowest_country_billion": 2.746667038937589,
+    "top_indicator": "External debt stocks, total (DOD, current US$)",
+    "top_indicator_pct": 9.257354035676206,
+    "top_group": "Debt Stocks",
+    "top_group_pct": 70.29689125652278,
+    "category_counts": {
+      "Medium Debt": 59,
+      "Low Debt": 31,
+      "High Debt": 30
+    },
+    "highest_debt_to_gni": [
+      [
+        "Mozambique",
+        379.6
+      ],
+      [
+        "Lebanon",
+        332.9
+      ],
+      [
+        "Mongolia",
+        217.4
+      ],
+      [
+        "Montenegro",
+        138.6
+      ],
+      [
+        "Senegal",
+        132.3
+      ]
+    ],
+    "median_debt_to_gni": 45.220419509497866,
+    "countries_debt_over_gni_60": 39,
+    "top_region": "East Asia & Pacific",
+    "top_region_billion": 3496.7089776184,
+    "highest_ratio_income_group": "Upper middle income"
+  },
+  "thresholds": {
+    "high_usd": 588000000000,
+    "low_usd": 40000000000
+  },
+  "figures": [
+    "eda_01_top10_countries.png",
+    "eda_02_bottom10_countries.png",
+    "eda_03_debt_categories.png",
+    "eda_04_indicator_groups.png",
+    "eda_05_top_indicators.png",
+    "eda_06_country_indicator_heatmap.png",
+    "eda_07_value_distribution.png",
+    "eda_08_pareto_cumulative.png",
+    "eda_09_debt_to_gni.png",
+    "eda_10_region_debt.png",
+    "eda_11_correlation.png",
+    "eda_12_debt_vs_gni.png",
+    "interactive/treemap_region_country.html",
+    "interactive/debt_vs_gni.html",
+    "interactive/top20_countries.html"
+  ],
+  "powerbi_files": {
+    "countries.csv": 120,
+    "indicators.csv": 441,
+    "debt_data.csv": 26966,
+    "country_debt_summary.csv": 120,
+    "indicator_debt_summary.csv": 441,
+    "country_indicator_matrix.csv": 26966,
+    "debt_categories.csv": 3,
+    "kpi_summary.csv": 1,
+    "countries_enriched.csv": 120,
+    "indicators_enriched.csv": 441,
+    "country_macro.csv": 120,
+    "country_debt_profile.csv": 120,
+    "indicator_group_summary.csv": 12
+  }
+}

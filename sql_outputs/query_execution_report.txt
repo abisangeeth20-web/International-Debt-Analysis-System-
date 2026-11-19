@@ -1,0 +1,606 @@
+INTERNATIONAL DEBT ANALYSIS - 30 SQL QUERY EXECUTION REPORT
+Engine: SQLite (data/processed/international_debt.db)
+==============================================================================
+
+--- Q1 (Basic): Retrieve all distinct country names from the dataset. ---
+Why: checks coverage and fills the country filter in the dashboard.
+SQL:
+SELECT DISTINCT country_name
+FROM countries
+ORDER BY country_name
+Rows returned: 120
+country_name
+ Afghanistan
+     Albania
+     Algeria
+      Angola
+   Argentina
+     Armenia
+  Azerbaijan
+  Bangladesh
+     Belarus
+      Belize
+... 110 more rows in the CSV
+
+--- Q2 (Basic): Count the total number of countries available. ---
+Why: headline KPI card.
+SQL:
+SELECT COUNT(DISTINCT country_id) AS total_countries
+FROM countries
+Rows returned: 1
+ total_countries
+             120
+
+--- Q3 (Basic): Find the total number of indicators present. ---
+Why: headline KPI card; shows how many debt measures are tracked.
+SQL:
+SELECT COUNT(DISTINCT indicator_id) AS total_indicators
+FROM indicators
+Rows returned: 1
+ total_indicators
+              441
+
+--- Q4 (Basic): Display the first 10 records of the dataset. ---
+Why: confirms the fact table joins correctly to both dimensions.
+SQL:
+SELECT d.debt_id, c.country_name, i.indicator_name, d.debt_usd
+FROM debt_data d
+JOIN countries  c ON d.country_id   = c.country_id
+JOIN indicators i ON d.indicator_id = i.indicator_id
+ORDER BY d.debt_id
+LIMIT 10
+Rows returned: 10
+ debt_id country_name                                                                                 indicator_name   debt_usd
+       1  Afghanistan      Principal repayments on external debt, general government sector (PPG) (AMT, current US$)  9041000.0
+       2  Afghanistan                  Principal repayments on external debt, public sector (PPG) (AMT, current US$)  9041000.0
+       3  Afghanistan                                                             IMF repurchases (AMT, current US$)  5018449.0
+       4  Afghanistan                      Principal repayments on external debt, long-term + IMF (AMT, current US$) 14059449.0
+       5  Afghanistan                            Principal repayments on external debt, long-term (AMT, current US$)  9041000.0
+       6  Afghanistan Principal repayments on external debt, public and publicly guaranteed (PPG) (AMT, current US$)  9041000.0
+       7  Afghanistan                                                                    PPG, IDA (AMT, current US$)  9041000.0
+       8  Afghanistan                                                           PPG, multilateral (AMT, current US$)  9041000.0
+       9  Afghanistan                                                            GG, multilateral (AMT, current US$)  9041000.0
+      10  Afghanistan                                                            PS, multilateral (AMT, current US$)  9041000.0
+
+--- Q5 (Basic): Calculate the total global debt. ---
+Why: headline KPI (sum of every debt indicator for every country).
+SQL:
+SELECT ROUND(SUM(debt_usd), 2)        AS total_debt_usd,
+       ROUND(SUM(debt_usd) / 1e12, 4) AS total_debt_trillion
+FROM debt_data
+Rows returned: 1
+ total_debt_usd  total_debt_trillion
+   9.379674e+13              93.7967
+
+--- Q6 (Basic): List all unique indicator names. ---
+Why: the catalogue of debt measures available for analysis.
+SQL:
+SELECT DISTINCT indicator_name, indicator_group
+FROM indicators
+ORDER BY indicator_group, indicator_name
+Rows returned: 441
+                                        indicator_name indicator_group
+                       Interest arrears, long-term DOD         Arrears
+    Interest arrears, official creditors (current US$)         Arrears
+     Interest arrears, private creditors (current US$)         Arrears
+                      Principal arrears, long-term DOD         Arrears
+   Principal arrears, official creditors (current US$)         Arrears
+    Principal arrears, private creditors (current US$)         Arrears
+                  Commitments, IBRD (COM, current US$)     Commitments
+                   Commitments, IDA (COM, current US$)     Commitments
+   Commitments, bilateral creditors (COM, current US$)     Commitments
+Commitments, multilateral creditors (COM, current US$)     Commitments
+... 431 more rows in the CSV
+
+--- Q7 (Basic): Find the number of records for each country. ---
+Why: shows reporting completeness; fewer records = fewer debt types reported.
+SQL:
+SELECT c.country_name, COUNT(d.debt_id) AS record_count
+FROM countries c
+JOIN debt_data d ON d.country_id = c.country_id
+GROUP BY c.country_name
+ORDER BY record_count DESC, c.country_name
+Rows returned: 120
+    country_name  record_count
+          Brazil           324
+         Turkiye           318
+Egypt, Arab Rep.           310
+        Colombia           309
+   Cote d'Ivoire           308
+      Uzbekistan           303
+         Morocco           302
+         Ukraine           301
+         Nigeria           298
+          Serbia           295
+... 110 more rows in the CSV
+
+--- Q8 (Basic): Display all records where debt is greater than 1 billion USD. ---
+Why: isolates the material debt positions.
+SQL:
+SELECT c.country_name, i.indicator_name,
+       ROUND(d.debt_usd / 1e9, 4) AS debt_billion
+FROM debt_data d
+JOIN countries  c ON d.country_id   = c.country_id
+JOIN indicators i ON d.indicator_id = i.indicator_id
+WHERE d.debt_usd > 1000000000
+ORDER BY d.debt_usd DESC
+Rows returned: 6255
+country_name                                                                indicator_name  debt_billion
+       China                                External debt stocks, total (DOD, current US$)        2530.0
+       China                           External debt stocks, short-term (DOD, current US$)        1270.0
+       China                            External debt stocks, long-term (DOD, current US$)        1220.0
+       China                        External debt stocks, variable rate (DOD, current US$)         770.0
+       China             External debt stocks, long-term private sector (DOD, current US$)         696.0
+       China          External debt stocks, private nonguaranteed (PNG) (DOD, current US$)         679.0
+       India                                External debt stocks, total (DOD, current US$)         616.0
+      Mexico                                External debt stocks, total (DOD, current US$)         586.0
+      Brazil                                External debt stocks, total (DOD, current US$)         579.0
+       China External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)         538.0
+... 6245 more rows in the CSV
+
+--- Q9 (Basic): Find the minimum, maximum, and average debt values. ---
+Why: the spread of single debt values (very right-skewed).
+SQL:
+SELECT ROUND(MIN(debt_usd), 2)       AS min_debt_usd,
+       ROUND(MAX(debt_usd) / 1e9, 4) AS max_debt_billion,
+       ROUND(AVG(debt_usd) / 1e9, 4) AS avg_debt_billion
+FROM debt_data
+Rows returned: 1
+ min_debt_usd  max_debt_billion  avg_debt_billion
+          0.1            2530.0            3.4783
+
+--- Q10 (Basic): Count total number of records in the dataset. ---
+Why: size of the cleaned fact table.
+SQL:
+SELECT COUNT(*) AS total_records
+FROM debt_data
+Rows returned: 1
+ total_records
+         26966
+
+--- Q11 (Intermediate): Find the total debt for each country. ---
+Why: the base country-wise debt distribution.
+SQL:
+SELECT c.country_name, ROUND(SUM(d.debt_usd) / 1e9, 4) AS total_debt_billion
+FROM debt_data d
+JOIN countries c ON d.country_id = c.country_id
+GROUP BY c.country_name
+ORDER BY total_debt_billion DESC
+Rows returned: 120
+    country_name  total_debt_billion
+           China          20163.8935
+          Brazil           6843.9875
+          Mexico           6587.8390
+           India           6246.9379
+       Indonesia           5288.1188
+         Turkiye           4376.3855
+       Argentina           2568.7162
+        Colombia           2385.3632
+Egypt, Arab Rep.           2250.2459
+         Ukraine           2064.0459
+... 110 more rows in the CSV
+
+--- Q12 (Intermediate): Display the top 10 countries with the highest total debt. ---
+Why: the most indebted countries in the dataset.
+SQL:
+SELECT c.country_name, ROUND(SUM(d.debt_usd) / 1e9, 4) AS total_debt_billion
+FROM debt_data d
+JOIN countries c ON d.country_id = c.country_id
+GROUP BY c.country_name
+ORDER BY total_debt_billion DESC
+LIMIT 10
+Rows returned: 10
+    country_name  total_debt_billion
+           China          20163.8935
+          Brazil           6843.9875
+          Mexico           6587.8390
+           India           6246.9379
+       Indonesia           5288.1188
+         Turkiye           4376.3855
+       Argentina           2568.7162
+        Colombia           2385.3632
+Egypt, Arab Rep.           2250.2459
+         Ukraine           2064.0459
+
+--- Q13 (Intermediate): Find the average debt per country. ---
+Why: average size of one debt record per country (scale-independent of record count).
+SQL:
+SELECT c.country_name, ROUND(AVG(d.debt_usd) / 1e9, 4) AS avg_debt_billion
+FROM debt_data d
+JOIN countries c ON d.country_id = c.country_id
+GROUP BY c.country_name
+ORDER BY avg_debt_billion DESC
+Rows returned: 120
+country_name  avg_debt_billion
+       China           77.2563
+      Mexico           23.1966
+       India           21.2481
+      Brazil           21.1234
+   Indonesia           20.2610
+     Turkiye           13.7622
+   Argentina            9.4438
+  Kazakhstan            8.2821
+South Africa            7.8510
+    Colombia            7.7196
+... 110 more rows in the CSV
+
+--- Q14 (Intermediate): Calculate total debt for each indicator. ---
+Why: indicator-wise debt distribution.
+SQL:
+SELECT i.indicator_name, i.indicator_group, ROUND(SUM(d.debt_usd) / 1e9, 4) AS total_debt_billion
+FROM debt_data d
+JOIN indicators i ON d.indicator_id = i.indicator_id
+GROUP BY i.indicator_name, i.indicator_group
+ORDER BY total_debt_billion DESC
+Rows returned: 441
+                                                               indicator_name indicator_group  total_debt_billion
+                               External debt stocks, total (DOD, current US$)     Debt Stocks           8683.0965
+                           External debt stocks, long-term (DOD, current US$)     Debt Stocks           6046.7625
+                       External debt stocks, variable rate (DOD, current US$)     Debt Stocks           3674.6854
+External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)     Debt Stocks           3382.1369
+             External debt stocks, long-term public sector (DOD, current US$)     Debt Stocks           3364.1718
+                 External debt stocks, public sector (PPG) (DOD, current US$)     Debt Stocks           3362.7276
+            External debt stocks, long-term private sector (DOD, current US$)     Debt Stocks           2677.8493
+         External debt stocks, private nonguaranteed (PNG) (DOD, current US$)     Debt Stocks           2659.8842
+     External debt stocks, general government sector (PPG) (DOD, current US$)     Debt Stocks           2522.1608
+                          External debt stocks, short-term (DOD, current US$)     Debt Stocks           2263.0202
+... 431 more rows in the CSV
+
+--- Q15 (Intermediate): Identify the indicator contributing the highest total debt. ---
+Why: the single biggest debt measure across all countries.
+SQL:
+SELECT i.indicator_name, ROUND(SUM(d.debt_usd) / 1e9, 4) AS total_debt_billion
+FROM debt_data d
+JOIN indicators i ON d.indicator_id = i.indicator_id
+GROUP BY i.indicator_name
+ORDER BY total_debt_billion DESC
+LIMIT 1
+Rows returned: 1
+                                indicator_name  total_debt_billion
+External debt stocks, total (DOD, current US$)           8683.0965
+
+--- Q16 (Intermediate): Find the country with the lowest total debt. ---
+Why: the least indebted country in the dataset.
+SQL:
+SELECT c.country_name, ROUND(SUM(d.debt_usd) / 1e9, 4) AS total_debt_billion
+FROM debt_data d
+JOIN countries c ON d.country_id = c.country_id
+GROUP BY c.country_name
+ORDER BY total_debt_billion ASC
+LIMIT 1
+Rows returned: 1
+country_name  total_debt_billion
+       Tonga              2.7467
+
+--- Q17 (Intermediate): Calculate total debt for each country and indicator combination. ---
+Why: the full country x indicator matrix (largest combinations first).
+SQL:
+SELECT c.country_name, i.indicator_name, ROUND(SUM(d.debt_usd) / 1e9, 4) AS total_debt_billion
+FROM debt_data d
+JOIN countries  c ON d.country_id   = c.country_id
+JOIN indicators i ON d.indicator_id = i.indicator_id
+GROUP BY c.country_name, i.indicator_name
+ORDER BY total_debt_billion DESC
+Rows returned: 26966
+country_name                                                                indicator_name  total_debt_billion
+       China                                External debt stocks, total (DOD, current US$)              2530.0
+       China                           External debt stocks, short-term (DOD, current US$)              1270.0
+       China                            External debt stocks, long-term (DOD, current US$)              1220.0
+       China                        External debt stocks, variable rate (DOD, current US$)               770.0
+       China             External debt stocks, long-term private sector (DOD, current US$)               696.0
+       China          External debt stocks, private nonguaranteed (PNG) (DOD, current US$)               679.0
+       India                                External debt stocks, total (DOD, current US$)               616.0
+      Mexico                                External debt stocks, total (DOD, current US$)               586.0
+      Brazil                                External debt stocks, total (DOD, current US$)               579.0
+       China External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)               538.0
+... 26956 more rows in the CSV
+
+--- Q18 (Intermediate): Count how many indicators each country has. ---
+Why: breadth of each country's debt reporting.
+SQL:
+SELECT c.country_name, COUNT(DISTINCT d.indicator_id) AS indicator_count
+FROM debt_data d
+JOIN countries c ON d.country_id = c.country_id
+GROUP BY c.country_name
+ORDER BY indicator_count DESC, c.country_name
+Rows returned: 120
+    country_name  indicator_count
+          Brazil              324
+         Turkiye              318
+Egypt, Arab Rep.              310
+        Colombia              309
+   Cote d'Ivoire              308
+      Uzbekistan              303
+         Morocco              302
+         Ukraine              301
+         Nigeria              298
+          Serbia              295
+... 110 more rows in the CSV
+
+--- Q19 (Intermediate): Display countries whose total debt is above the global average. ---
+Why: HAVING + nested subquery; the average is the mean of country totals.
+SQL:
+SELECT c.country_name, ROUND(SUM(d.debt_usd) / 1e9, 4) AS total_debt_billion
+FROM debt_data d
+JOIN countries c ON d.country_id = c.country_id
+GROUP BY c.country_name
+HAVING SUM(d.debt_usd) > (
+    SELECT AVG(country_total)
+    FROM (SELECT SUM(debt_usd) AS country_total FROM debt_data GROUP BY country_id) AS t
+)
+ORDER BY total_debt_billion DESC
+Rows returned: 22
+    country_name  total_debt_billion
+           China          20163.8935
+          Brazil           6843.9875
+          Mexico           6587.8390
+           India           6246.9379
+       Indonesia           5288.1188
+         Turkiye           4376.3855
+       Argentina           2568.7162
+        Colombia           2385.3632
+Egypt, Arab Rep.           2250.2459
+         Ukraine           2064.0459
+... 12 more rows in the CSV
+
+--- Q20 (Intermediate): Rank countries based on total debt (highest to lowest). ---
+Why: RANK() window function over an aggregate.
+SQL:
+SELECT RANK() OVER (ORDER BY SUM(d.debt_usd) DESC) AS debt_rank,
+       c.country_name,
+       ROUND(SUM(d.debt_usd) / 1e9, 4) AS total_debt_billion
+FROM debt_data d
+JOIN countries c ON d.country_id = c.country_id
+GROUP BY c.country_name
+ORDER BY debt_rank
+Rows returned: 120
+ debt_rank     country_name  total_debt_billion
+         1            China          20163.8935
+         2           Brazil           6843.9875
+         3           Mexico           6587.8390
+         4            India           6246.9379
+         5        Indonesia           5288.1188
+         6          Turkiye           4376.3855
+         7        Argentina           2568.7162
+         8         Colombia           2385.3632
+         9 Egypt, Arab Rep.           2250.2459
+        10          Ukraine           2064.0459
+... 110 more rows in the CSV
+
+--- Q21 (Advanced): Find the top 5 indicators contributing most to global debt. ---
+Why: which debt measures dominate the global total, with % share.
+SQL:
+SELECT i.indicator_name,
+       ROUND(SUM(d.debt_usd) / 1e9, 4) AS total_debt_billion,
+       ROUND(SUM(d.debt_usd) * 100.0 / (SELECT SUM(debt_usd) FROM debt_data), 2) AS pct_of_global
+FROM debt_data d
+JOIN indicators i ON d.indicator_id = i.indicator_id
+GROUP BY i.indicator_name
+ORDER BY total_debt_billion DESC
+LIMIT 5
+Rows returned: 5
+                                                               indicator_name  total_debt_billion  pct_of_global
+                               External debt stocks, total (DOD, current US$)           8683.0965           9.26
+                           External debt stocks, long-term (DOD, current US$)           6046.7625           6.45
+                       External debt stocks, variable rate (DOD, current US$)           3674.6854           3.92
+External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)           3382.1369           3.61
+             External debt stocks, long-term public sector (DOD, current US$)           3364.1718           3.59
+
+--- Q22 (Advanced): Calculate percentage contribution of each country to total global debt. ---
+Why: measures how concentrated global debt is.
+SQL:
+SELECT c.country_name,
+       ROUND(SUM(d.debt_usd) / 1e9, 4) AS total_debt_billion,
+       ROUND(SUM(d.debt_usd) * 100.0 / (SELECT SUM(debt_usd) FROM debt_data), 4) AS pct_of_global
+FROM debt_data d
+JOIN countries c ON d.country_id = c.country_id
+GROUP BY c.country_name
+ORDER BY pct_of_global DESC
+Rows returned: 120
+    country_name  total_debt_billion  pct_of_global
+           China          20163.8935        21.4974
+          Brazil           6843.9875         7.2966
+          Mexico           6587.8390         7.0235
+           India           6246.9379         6.6601
+       Indonesia           5288.1188         5.6378
+         Turkiye           4376.3855         4.6658
+       Argentina           2568.7162         2.7386
+        Colombia           2385.3632         2.5431
+Egypt, Arab Rep.           2250.2459         2.3991
+         Ukraine           2064.0459         2.2006
+... 110 more rows in the CSV
+
+--- Q23 (Advanced): Identify the top 3 countries for each indicator based on debt. ---
+Why: PARTITION BY restarts the ranking for every indicator.
+SQL:
+SELECT indicator_name, country_name, debt_billion, country_rank
+FROM (
+    SELECT i.indicator_name, c.country_name,
+           ROUND(d.debt_usd / 1e9, 4) AS debt_billion,
+           ROW_NUMBER() OVER (PARTITION BY i.indicator_id ORDER BY d.debt_usd DESC) AS country_rank
+    FROM debt_data d
+    JOIN countries  c ON d.country_id   = c.country_id
+    JOIN indicators i ON d.indicator_id = i.indicator_id
+) ranked
+WHERE country_rank <= 3
+ORDER BY indicator_name, country_rank
+Rows returned: 1283
+                                        indicator_name country_name  debt_billion  country_rank
+                  Commitments, IBRD (COM, current US$)        India        2.7960             1
+                  Commitments, IBRD (COM, current US$)    Indonesia        2.2240             2
+                  Commitments, IBRD (COM, current US$)      Ukraine        2.2060             3
+                   Commitments, IDA (COM, current US$)     Tanzania        2.6850             1
+                   Commitments, IDA (COM, current US$)      Nigeria        2.4000             2
+                   Commitments, IDA (COM, current US$)        Kenya        1.5900             3
+   Commitments, bilateral creditors (COM, current US$)        India        5.6527             1
+   Commitments, bilateral creditors (COM, current US$)      Ukraine        3.7424             2
+   Commitments, bilateral creditors (COM, current US$)  Philippines        2.6734             3
+Commitments, multilateral creditors (COM, current US$)      Ukraine       13.5228             1
+... 1273 more rows in the CSV
+
+--- Q24 (Advanced): Find the difference between maximum and minimum debt for each country. ---
+Why: a big range means one or two debt types dominate the country's profile.
+SQL:
+SELECT c.country_name,
+       ROUND(MAX(d.debt_usd) / 1e9, 4) AS max_debt_billion,
+       ROUND(MIN(d.debt_usd) / 1e9, 6) AS min_debt_billion,
+       ROUND((MAX(d.debt_usd) - MIN(d.debt_usd)) / 1e9, 4) AS debt_range_billion
+FROM debt_data d
+JOIN countries c ON d.country_id = c.country_id
+GROUP BY c.country_name
+ORDER BY debt_range_billion DESC
+Rows returned: 120
+country_name  max_debt_billion  min_debt_billion  debt_range_billion
+       China            2530.0          0.000002              2530.0
+       India             616.0          0.000000               616.0
+      Mexico             586.0          0.000005               586.0
+      Brazil             579.0          0.000003               579.0
+     Turkiye             456.0          0.000002               456.0
+   Indonesia             396.0          0.000001               396.0
+   Argentina             249.0          0.000005               249.0
+    Thailand             201.0          0.000003               201.0
+    Colombia             184.0          0.000004               184.0
+South Africa             172.0          0.000003               172.0
+... 110 more rows in the CSV
+
+--- Q25 (Advanced): Create a view for the top 10 countries with highest debt. ---
+Why: the view vw_top10_countries is created in sql/00_schema.sql: CREATE VIEW vw_top10_countries AS SELECT c.country_name, c.country_code, ROUND(SUM(d.debt_usd)/1e9,4) AS total_debt_billion FROM debt_data d JOIN countries c ON d.country_id = c.country_id GROUP BY c.country_name, c.country_code ORDER BY total_debt_billion DESC LIMIT 10; This query reads from it.
+SQL:
+SELECT * FROM vw_top10_countries
+Rows returned: 10
+    country_name country_code  total_debt_billion
+           China          CHN          20163.8935
+          Brazil          BRA           6843.9875
+          Mexico          MEX           6587.8390
+           India          IND           6246.9379
+       Indonesia          IDN           5288.1188
+         Turkiye          TUR           4376.3855
+       Argentina          ARG           2568.7162
+        Colombia          COL           2385.3632
+Egypt, Arab Rep.          EGY           2250.2459
+         Ukraine          UKR           2064.0459
+
+--- Q26 (Advanced): Categorize countries into High, Medium and Low debt (based on thresholds). ---
+Why: thresholds are the 75th / 25th percentiles of country totals: High >= $588B, Medium >= $40B, Low < $40B.
+SQL:
+SELECT c.country_name,
+       ROUND(SUM(d.debt_usd) / 1e9, 4) AS total_debt_billion,
+       CASE
+           WHEN SUM(d.debt_usd) >= 588000000000 THEN 'High Debt'
+           WHEN SUM(d.debt_usd) >= 40000000000  THEN 'Medium Debt'
+           ELSE 'Low Debt'
+       END AS debt_category
+FROM debt_data d
+JOIN countries c ON d.country_id = c.country_id
+GROUP BY c.country_name
+ORDER BY total_debt_billion DESC
+Rows returned: 120
+    country_name  total_debt_billion debt_category
+           China          20163.8935     High Debt
+          Brazil           6843.9875     High Debt
+          Mexico           6587.8390     High Debt
+           India           6246.9379     High Debt
+       Indonesia           5288.1188     High Debt
+         Turkiye           4376.3855     High Debt
+       Argentina           2568.7162     High Debt
+        Colombia           2385.3632     High Debt
+Egypt, Arab Rep.           2250.2459     High Debt
+         Ukraine           2064.0459     High Debt
+... 110 more rows in the CSV
+
+--- Q27 (Advanced): Use window functions to calculate cumulative debt per country. ---
+Why: running total and running % as countries are added from largest to smallest (the data behind the Pareto chart).
+SQL:
+SELECT c.country_name,
+       ROUND(SUM(d.debt_usd) / 1e9, 4) AS total_debt_billion,
+       ROUND(SUM(SUM(d.debt_usd)) OVER (ORDER BY SUM(d.debt_usd) DESC) / 1e9, 4) AS cumulative_debt_billion,
+       ROUND(SUM(SUM(d.debt_usd)) OVER (ORDER BY SUM(d.debt_usd) DESC) * 100.0
+             / SUM(SUM(d.debt_usd)) OVER (), 2) AS cumulative_pct
+FROM debt_data d
+JOIN countries c ON d.country_id = c.country_id
+GROUP BY c.country_name
+ORDER BY total_debt_billion DESC
+Rows returned: 120
+    country_name  total_debt_billion  cumulative_debt_billion  cumulative_pct
+           China          20163.8935               20163.8935           21.50
+          Brazil           6843.9875               27007.8810           28.79
+          Mexico           6587.8390               33595.7200           35.82
+           India           6246.9379               39842.6579           42.48
+       Indonesia           5288.1188               45130.7767           48.12
+         Turkiye           4376.3855               49507.1622           52.78
+       Argentina           2568.7162               52075.8784           55.52
+        Colombia           2385.3632               54461.2416           58.06
+Egypt, Arab Rep.           2250.2459               56711.4875           60.46
+         Ukraine           2064.0459               58775.5334           62.66
+... 110 more rows in the CSV
+
+--- Q28 (Advanced): Find indicators where average debt is higher than overall average debt. ---
+Why: HAVING with a scalar subquery.
+SQL:
+SELECT i.indicator_name, ROUND(AVG(d.debt_usd) / 1e9, 4) AS avg_debt_billion
+FROM debt_data d
+JOIN indicators i ON d.indicator_id = i.indicator_id
+GROUP BY i.indicator_name
+HAVING AVG(d.debt_usd) > (SELECT AVG(debt_usd) FROM debt_data)
+ORDER BY avg_debt_billion DESC
+Rows returned: 58
+                                                               indicator_name  avg_debt_billion
+                               External debt stocks, total (DOD, current US$)           72.3591
+                           External debt stocks, long-term (DOD, current US$)           50.3897
+                       External debt stocks, variable rate (DOD, current US$)           32.8097
+         External debt stocks, private nonguaranteed (PNG) (DOD, current US$)           29.2295
+            External debt stocks, long-term private sector (DOD, current US$)           29.1071
+External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)           28.1845
+             External debt stocks, long-term public sector (DOD, current US$)           28.0348
+                 External debt stocks, public sector (PPG) (DOD, current US$)           28.0227
+                 PNG, commercial banks and other creditors (DOD, current US$)           22.9522
+                                                PPG, bonds (DOD, current US$)           22.5054
+... 48 more rows in the CSV
+
+--- Q29 (Advanced): Identify countries contributing more than 5% of global debt. ---
+Why: the few countries that move the global total.
+SQL:
+SELECT c.country_name,
+       ROUND(SUM(d.debt_usd) / 1e9, 4) AS total_debt_billion,
+       ROUND(SUM(d.debt_usd) * 100.0 / (SELECT SUM(debt_usd) FROM debt_data), 4) AS pct_of_global
+FROM debt_data d
+JOIN countries c ON d.country_id = c.country_id
+GROUP BY c.country_name
+HAVING SUM(d.debt_usd) * 100.0 / (SELECT SUM(debt_usd) FROM debt_data) > 5
+ORDER BY pct_of_global DESC
+Rows returned: 5
+country_name  total_debt_billion  pct_of_global
+       China          20163.8935        21.4974
+      Brazil           6843.9875         7.2966
+      Mexico           6587.8390         7.0235
+       India           6246.9379         6.6601
+   Indonesia           5288.1188         5.6378
+
+--- Q30 (Advanced): Find the most dominant indicator (highest contribution) for each country. ---
+Why: each country's #1 debt measure and its share of that country's total.
+SQL:
+SELECT country_name, indicator_name, debt_billion, pct_of_country
+FROM (
+    SELECT c.country_name, i.indicator_name,
+           ROUND(d.debt_usd / 1e9, 4) AS debt_billion,
+           ROUND(d.debt_usd * 100.0 / SUM(d.debt_usd) OVER (PARTITION BY d.country_id), 2) AS pct_of_country,
+           ROW_NUMBER() OVER (PARTITION BY d.country_id ORDER BY d.debt_usd DESC) AS rn
+    FROM debt_data d
+    JOIN countries  c ON d.country_id   = c.country_id
+    JOIN indicators i ON d.indicator_id = i.indicator_id
+) ranked
+WHERE rn = 1
+ORDER BY debt_billion DESC
+Rows returned: 120
+country_name                                 indicator_name  debt_billion  pct_of_country
+       China External debt stocks, total (DOD, current US$)        2530.0           12.55
+       India External debt stocks, total (DOD, current US$)         616.0            9.86
+      Mexico External debt stocks, total (DOD, current US$)         586.0            8.90
+      Brazil External debt stocks, total (DOD, current US$)         579.0            8.46
+     Turkiye External debt stocks, total (DOD, current US$)         456.0           10.42
+   Indonesia External debt stocks, total (DOD, current US$)         396.0            7.49
+   Argentina External debt stocks, total (DOD, current US$)         249.0            9.69
+    Thailand External debt stocks, total (DOD, current US$)         201.0           13.00
+    Colombia External debt stocks, total (DOD, current US$)         184.0            7.71
+South Africa External debt stocks, total (DOD, current US$)         172.0            8.59
+... 110 more rows in the CSV

@@ -1,0 +1,59 @@
+indicator_name,avg_debt_billion
+"External debt stocks, total (DOD, current US$)",72.3591
+"External debt stocks, long-term (DOD, current US$)",50.3897
+"External debt stocks, variable rate (DOD, current US$)",32.8097
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",29.2295
+"External debt stocks, long-term private sector (DOD, current US$)",29.1071
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",28.1845
+"External debt stocks, long-term public sector (DOD, current US$)",28.0348
+"External debt stocks, public sector (PPG) (DOD, current US$)",28.0227
+"PNG, commercial banks and other creditors (DOD, current US$)",22.9522
+"PPG, bonds (DOD, current US$)",22.5054
+"PS, bonds (DOD, current US$)",22.2725
+"External debt stocks, general government sector (PPG) (DOD, current US$)",21.018
+"PPG, private creditors (DOD, current US$)",20.6775
+"PS, private creditors (DOD, current US$)",20.4952
+"External debt stocks, short-term (DOD, current US$)",19.5088
+"GG, bonds (DOD, current US$)",17.6876
+"OPS, bonds (DOD, current US$)",15.4745
+"PNG, bonds (DOD, current US$)",14.147
+"GG, private creditors (DOD, current US$)",14.0335
+"OPS, private creditors (DOD, current US$)",13.2699
+"PPG, official creditors (DOD, current US$)",11.1331
+"PS, official creditors (DOD, current US$)",11.1229
+"Debt service on external debt, total (TDS, current US$)",10.5627
+"GG, official creditors (DOD, current US$)",9.7965
+"Debt service on external debt, long-term (TDS, current US$)",9.6417
+"External debt stocks, variable rate public and publicly guaranteed debt (PPG) (DOD, current US$)",9.4886
+"External debt stocks, other public sector (PPG) (DOD, current US$)",8.6413
+"PRVG, bonds (DOD, current US$)",8.5649
+"Disbursements on external debt, long-term + IMF (DIS, current US$)",8.5069
+"Debt service on external debt, private nonguaranteed (PNG) (TDS, current US$)",8.4824
+"Principal repayments on external debt, private nonguaranteed (PNG) (AMT, current US$)",8.3029
+"Disbursements on external debt, long-term (DIS, current US$)",8.2702
+"Principal repayments on external debt, long-term + IMF (AMT, current US$)",8.1616
+"Disbursements on external debt, private nonguaranteed (PNG) (DIS, current US$)",8.1532
+"Principal repayments on external debt, long-term (AMT, current US$)",7.97
+"PNG, commercial banks and other creditors (DIS, current US$)",7.5172
+"PPG, multilateral (DOD, current US$)",7.1244
+"PS, multilateral (DOD, current US$)",7.1157
+"PNG, commercial banks and other creditors (TDS, current US$)",6.8205
+"PNG, commercial banks and other creditors (AMT, current US$)",6.8156
+"GG, multilateral (DOD, current US$)",6.64
+"OPS, bonds (DIS, current US$)",6.1716
+"Undisbursed external debt, total (UND, current US$)",5.4554
+"Commitments, private creditors (COM, current US$)",5.4391
+"PNG, bonds (AMT, current US$)",5.3088
+"OPS, commercial banks (DOD, current US$)",5.1446
+Debt buyback (current US$),5.0047
+"PRVG, private creditors (DOD, current US$)",4.6211
+"PS, bonds (DIS, current US$)",4.5925
+"PPG, bonds (DIS, current US$)",4.5925
+"Undisbursed external debt, official creditors (UND, current US$)",4.4779
+"PPG, bilateral (DOD, current US$)",4.0074
+"PS, bilateral (DOD, current US$)",4.0059
+"OPS, bonds (NFL, current US$)",3.9641
+"OPS, private creditors (DIS, current US$)",3.9023
+"Commitments, public and publicly guaranteed (COM, current US$)",3.8221
+"PNG, bonds (TDS, current US$)",3.7365
+"OPS, other private creditors (DOD, current US$)",3.6054
