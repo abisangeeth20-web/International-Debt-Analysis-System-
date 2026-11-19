@@ -490,7 +490,9 @@ elif page == "Power BI Dashboard":
     st.markdown("The same data is modelled in Power BI: **`International_Debt_Dashboard.pbix`**, "
                 "built on the tables in `powerbi_data/` (also loadable from MySQL). "
                 "Setup steps are in `POWERBI_GUIDE.md`.")
-    shots = sorted((ROOT / "reports" / "powerbi").glob("*.png"))
+    # screenshots may sit in reports/powerbi/ or (after a web upload) directly in reports/
+    shots = sorted((ROOT / "reports" / "powerbi").glob("*.png")) or \
+        sorted((ROOT / "reports").glob("0[0-9]_*.png"))
     if shots:
         for s in shots:
             st.image(str(s), caption=s.stem.replace("_", " "), width="stretch")
