@@ -494,8 +494,15 @@ elif page == "Power BI Dashboard":
     shots = sorted((ROOT / "reports" / "powerbi").glob("*.png")) or \
         sorted((ROOT / "reports").glob("0[0-9]_*.png"))
     if shots:
+        import base64
         for s in shots:
-            st.image(str(s), caption=s.stem.replace("_", " "), width="stretch")
+            # embedded as data URIs so the images never depend on Streamlit's media endpoint
+            b64 = base64.b64encode(s.read_bytes()).decode()
+            title = s.stem.split("_", 1)[-1].replace("_", " ")
+            st.markdown(f"**{title}**")
+            st.markdown(f'<img src="data:image/png;base64,{b64}" alt="{title}" '
+                        f'style="width:100%;border:1px solid #e3e3e3;border-radius:6px;margin-bottom:18px">',
+                        unsafe_allow_html=True)
     else:
         st.info("Dashboard screenshots will appear here once they are added to reports/powerbi/.")
     st.markdown("""
