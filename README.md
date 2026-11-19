@@ -5,7 +5,7 @@ CSV → pandas → cleaning → normalised **MySQL** database (primary / foreign
 → EDA with **Matplotlib / Seaborn / Plotly** → interactive **Streamlit** app and **Power BI** dashboard
 → insights and recommendations.
 
-**Live app:** _add your Streamlit link here after deploying_
+**Live app:** https://intl-debt-analysis-system.streamlit.app/
 
 ## Results at a glance
 
